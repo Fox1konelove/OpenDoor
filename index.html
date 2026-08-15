@@ -581,7 +581,7 @@
                     '<button type="button" class="auth-close-btn" id="authLogoutBtn">🚪 Выйти</button>' +
                 '</div>';
             document.getElementById('authLogoutBtn').addEventListener('click', function () {
-                api('logout.php', { method: 'POST' })
+                                api('html/logout.php', { method: 'POST' })
                     .then(function (d) {
                         if (d.ok) { currentLogin = currentEmail = null; showMsg('success', d.message); renderForms(); }
                     })
@@ -629,7 +629,7 @@
             box.querySelectorAll('form[data-auth]').forEach(function (form) {
                 form.addEventListener('submit', function (e) {
                     e.preventDefault();
-                    api(form.getAttribute('data-auth') === 'register' ? 'register.php' : 'login.php', { method: 'POST', body: new FormData(form) })
+                    api(form.getAttribute('data-auth') === 'register' ? 'html/register.php' : 'html/login.php', { method: 'POST', body: new FormData(form) })
                         .then(function (d) {
                             if (d.ok) {
                                 showMsg('success', d.message);
@@ -644,7 +644,7 @@
             });
         }
 function loadStatus() {
-            api('status.php')
+            api('html/status.php')
                 .then(function (s) {
                     currentLogin = s.login; currentEmail = s.email;
                     if (s.loggedIn) renderLogout(); else renderForms();
