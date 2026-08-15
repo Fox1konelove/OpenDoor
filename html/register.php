@@ -4,6 +4,21 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 require_once __DIR__ . '/db.php';
 
+if (!isset($conn) || !($conn instanceof mysqli)) {
+    $dbError = '❌ Ошибка подключения к серверу. Попробуйте позже';
+    if (isAjax()) respondJson(['ok' => false, 'errors' => [$dbError]]);
+    if (function_exists('setFlash')) setFlash('error', $dbError);
+    header('Location: index.php');
+    exit;
+}
+
+if (!function_exists('setFlash') || !function_exists('isAjax')) {
+    $dbError = '❌ Ошибка сервера. Попробуйте позже';
+    if (isAjax()) respondJson(['ok' => false, 'errors' => [$dbError]]);
+    header('Location: index.php');
+    exit;
+}
+
 function respondJson(array $payload): void {
     header('Content-Type: application/json; charset=utf-8');
     echo json_encode($payload, JSON_UNESCAPED_UNICODE);
@@ -46,18 +61,26 @@ if ($pass !== $repeatpass) {
 // Проверка уникальности
 if (!$errors) {
     $stmt = $conn->prepare("SELECT login, email FROM users WHERE login = ? OR email = ?");
-    $stmt->bind_param("ss", $login, $email);
-    $stmt->execute();
-    $result = $stmt->get_result();
-    $existing = $result->fetch_assoc();
+    if (!$stmt) {
+        $errors[] = '❌ Ошибка сервера. Попробуйте позже';
+    } else {
+        $stmt->bind_param("ss", $login, $email);
+        if (!$stmt->execute()) {
+            $errors[] = '❌ Ошибка сервера. Попробуйте позже';
+        } else {
+            $result = $stmt->get_result();
+            $existing = $result->fetch_assoc();
 
-    if ($existing) {
-        if ($existing['login'] === $login) {
-            $errors[] = '👤 Такой логин уже занят';
+            if ($existing) {
+                if ($existing['login'] === $login) {
+                    $errors[] = '👤 Такой логин уже занят';
+                }
+                if ($existing['email'] === $email) {
+                    $errors[] = '📧 Этот email уже зарегистрирован';
+                }
+            }
         }
-        if ($existing['email'] === $email) {
-            $errors[] = '📧 Этот email уже зарегистрирован';
-        }
+        $stmt->close();
     }
 }
 
@@ -73,11 +96,19 @@ $hash = password_hash($pass, PASSWORD_DEFAULT);
 
 // Сохранение в БД
 $stmt = $conn->prepare("INSERT INTO users (login, pass, email) VALUES (?, ?, ?)");
+if (!$stmt) {
+    if (isAjax()) respondJson(['ok' => false, 'errors' => ['❌ Не удалось создать аккаунт. Попробуйте позже']]);
+    setFlash('error', '❌ Не удалось создать аккаунт. Попробуйте позже');
+    header('Location: index.php');
+    exit;
+}
+
 $stmt->bind_param("sss", $login, $hash, $email);
 
 if ($stmt->execute()) {
     session_regenerate_id(true);
     $_SESSION['user_login'] = $login;
+    $_SESSION['user_email'] = $email;
     $msg = "✅ Регистрация успешна! Добро пожаловать, <strong>" . htmlspecialchars($login) . "</strong>!";
     if (isAjax()) respondJson(['ok' => true, 'message' => $msg, 'user' => $login]);
     setFlash('success', $msg);
