@@ -3,6 +3,16 @@
 
 require_once __DIR__ . '/db.php';
 
+if (!isset($conn) || !($conn instanceof mysqli) || $conn->connect_error) {
+    header('Content-Type: application/json; charset=utf-8');
+    echo json_encode([
+        'loggedIn' => false,
+        'login'    => null,
+        'email'    => null,
+    ], JSON_UNESCAPED_UNICODE);
+    exit;
+}
+
 header('Content-Type: application/json; charset=utf-8');
 echo json_encode([
     'loggedIn' => isset($_SESSION['user_login']),

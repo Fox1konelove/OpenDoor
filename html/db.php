@@ -9,11 +9,7 @@ $config = require __DIR__ . '/config.php';
 
 $conn = new mysqli($config['servername'], $config['username'], $config['password'], $config['dbname']);
 
-if ($conn->connect_error) {
-    die("⚠️ Ошибка подключения к БД: " . $conn->connect_error . " — убедитесь, что MySQL запущен и база создана из database.sql");
-}
-
-$conn->set_charset($config['charset']);
+$conn && $conn->set_charset($config['charset']);
 
 function setFlash(string $type, string $message): void {
     if (!isset($_SESSION['flash'][$type])) {

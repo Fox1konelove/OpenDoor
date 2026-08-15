@@ -4,8 +4,8 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 require_once __DIR__ . '/db.php';
 
-if (!isset($conn) || !($conn instanceof mysqli)) {
-    $dbError = '❌ Ошибка подключения к серверу. Попробуйте позже';
+if (!isset($conn) || !($conn instanceof mysqli) || $conn->connect_error) {
+    $dbError = '❌ Ошибка подключения к серверу. ' . ($conn && $conn->connect_error ? $conn->connect_error : 'Попробуйте позже');
     if (isAjax()) respondJson(['ok' => false, 'errors' => [$dbError]]);
     if (function_exists('setFlash')) setFlash('error', $dbError);
     header('Location: index.php');
