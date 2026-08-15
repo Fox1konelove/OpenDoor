@@ -629,7 +629,10 @@
             box.querySelectorAll('form[data-auth]').forEach(function (form) {
                 form.addEventListener('submit', function (e) {
                     e.preventDefault();
-                    api(form.getAttribute('data-auth') === 'register' ? 'html/register.php' : 'html/login.php', { method: 'POST', body: new FormData(form) })
+                    var action = form.getAttribute('data-auth');
+                    var url = (action === 'register') ? 'html/register.php' : 'html/login.php';
+                    api(url, { method: 'POST', body: new FormData(form) }) 
+                    //api(form.getAttribute('data-auth') === 'register' ? 'html/register.php' : 'html/login.php', { method: 'POST', body: new FormData(form) })
                         .then(function (d) {
                             if (d.ok) {
                                 showMsg('success', d.message);
