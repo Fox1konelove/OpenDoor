@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Двери-Мастер | Элитные двери премиум-класса</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components/header.css">
+    <link rel="stylesheet" href="css/components/sidebar.css">
+    <link rel="stylesheet" href="css/components/hero.css">
+    <link rel="stylesheet" href="css/components/categories.css">
+    <link rel="stylesheet" href="css/components/products.css">
+    <link rel="stylesheet" href="css/components/slider.css">
+    <link rel="stylesheet" href="css/components/services.css">
+    <link rel="stylesheet" href="css/components/contacts.css">
+    <link rel="stylesheet" href="css/components/footer.css">
+    <link rel="stylesheet" href="css/components/modals.css">
+    <link rel="stylesheet" href="css/components/cart.css">
+    <link rel="stylesheet" href="css/components/chat.css">
+    <link rel="stylesheet" href="css/components/info-pages.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/components/info-modal.css">
+    <link rel="stylesheet" href="css/components/category-page.css">
+</head>
+<body>
+
+    <!-- ==================== ВЕРХНЯЯ ПАНЕЛЬ ==================== -->
+    <div class="top-bar">
+        <div class="container">
+            <div>
+                <span>📍 г. Москва, ул. Строителей, 15</span>
+                <span>📞 <a href="tel:+74951234567" data-phone>+7 (495) 123-45-67</a></span>
+                <span>✉️ <a href="mailto:info@dveri-master.ru" data-email>info@dveri-master.ru</a></span>
+            </div>
+            <div>⏰ Пн-Сб: 9:00–20:00, Вс: 10:00–18:00</div>
+        </div>
+    </div>
+
+    <!-- ==================== ОСНОВНАЯ ШАПКА (ПРИКЛЕЕННАЯ) ==================== -->
+    <header class="main-header" id="mainHeader">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo-area">
+                    <div class="logo" id="logoLink">Двери<span>Мастер</span></div>
+                    <button class="catalog-toggle-btn" id="catalogToggleBtn">☰ Каталог</button>
+                </div>
+                <div class="nav-links" id="navLinks">
+                    <!-- КАТЕГОРИИ ДВЕРЕЙ -->
+                    <a data-section="all" class="nav-category active">Все двери</a>
+                    <a data-section="Межкомнатные" class="nav-category">Межкомнатные</a>
+                    <a data-section="Входные" class="nav-category">Входные</a>
+                    <a data-section="Офисные" class="nav-category">Офисные</a>
+                    <a data-section="Противопожарные" class="nav-category">Противопожарные</a>
+                    <a data-section="Раздвижные" class="nav-category">Раздвижные</a>
+                    <a data-section="Стеклянные" class="nav-category">Стеклянные</a>
+                    <!-- === НОВЫЕ РАЗДЕЛЫ: ПОЛЕЗНАЯ ИНФОРМАЦИЯ === -->
+                    <span class="nav-divider">|</span>
+                    <a data-section="info" class="nav-category info-link">📖 Статьи</a>
+                    <a data-section="tips" class="nav-category info-link">💡 Советы</a>
+                    <a data-section="faq" class="nav-category info-link">❓ FAQ</a>
+                </div>
+                <div class="header-actions">
+                    <button class="icon-btn" id="accountBtn">👤</button>
+                    <button class="icon-btn" id="searchBtn">🔍</button>
+                    <button class="icon-btn" id="cartBtn">🛒<span class="cart-badge" id="cartCount">0</span></button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- ==================== ЛЕВАЯ ПАНЕЛЬ КАТАЛОГА ==================== -->
+    <div class="sidebar-overlay" id="sidebarOverlay"></div>
+    <aside class="left-sidebar" id="leftSidebar">
+        <div class="sidebar-header">
+            <button class="sidebar-close" id="sidebarClose">&times;</button>
+        </div>
+        <div class="sidebar-category active" data-category="all">
+            <span class="sidebar-category-icon">🚪</span>
+            <span>Все двери</span>
+        </div>
+        <div class="sidebar-category" data-category="Межкомнатные">
+            <span class="sidebar-category-icon">🏠</span>
+            <span>Межкомнатные</span>
+        </div>
+        <div class="sidebar-category" data-category="Входные">
+            <span class="sidebar-category-icon">🔒</span>
+            <span>Входные</span>
+        </div>
+        <div class="sidebar-category" data-category="Офисные">
+            <span class="sidebar-category-icon">🏢</span>
+            <span>Офисные</span>
+        </div>
+        <div class="sidebar-category" data-category="Противопожарные">
+            <span class="sidebar-category-icon">🔥</span>
+            <span>Противопожарные</span>
+        </div>
+        <div class="sidebar-category" data-category="Раздвижные">
+            <span class="sidebar-category-icon">↔️</span>
+            <span>Раздвижные</span>
+        </div>
+        <div class="sidebar-category" data-category="Стеклянные">
+            <span class="sidebar-category-icon">🪟</span>
+            <span>Стеклянные</span>
+        </div>
+        <!-- === НОВЫЕ РАЗДЕЛЫ В БОКОВОМ МЕНЮ === -->
+        <div class="sidebar-divider"></div>
+        <div class="sidebar-category info-category" data-category="info">
+            <span class="sidebar-category-icon">📖</span>
+            <span>Статьи о дверях</span>
+        </div>
+        <div class="sidebar-category info-category" data-category="tips">
+            <span class="sidebar-category-icon">💡</span>
+            <span>Советы по выбору</span>
+        </div>
+        <div class="sidebar-category info-category" data-category="faq">
+            <span class="sidebar-category-icon">❓</span>
+            <span>Вопросы и ответы</span>
+        </div>
+    </aside>
+
+    <!-- ==================== ГЛАВНАЯ СТРАНИЦА ==================== -->
+    <div id="mainPage">
+        <!-- HERO -->
+        <section class="hero">
+            <div class="container">
+                <div class="hero-grid">
+                    <div class="hero-content">
+                        <h1>Премиальные двери <span>с установкой</span> под ключ</h1>
+                        <p>Собственное производство, эксклюзивные материалы, профессиональный монтаж за 1 день. Гарантия качества до 10 лет.</p>
+                        <div class="hero-buttons">
+                            <button class="btn btn-primary" id="catalogScrollBtn">Выбрать дверь</button>
+                            <button class="btn btn-outline" id="freeMeasureBtn">Бесплатный замер</button>
+                        </div>
+                    </div>
+                    <div class="hero-image">
+                        <div class="image-placeholder">📸 [ВСТАВИТЬ: главное фото двери]</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- КАТЕГОРИИ -->
+        <section class="categories">
+            <div class="container">
+                <h2 class="section-title">Каталог <span>коллекций</span></h2>
+                <div class="categories-grid" id="categoriesGrid"></div>
+            </div>
+        </section>
+
+        <!-- СЛАЙДЕР -->
+        <section class="slider-section">
+            <div class="container">
+                <h2 class="section-title">Популярные <span>модели</span></h2>
+                <div class="slider-container">
+                    <div class="slider-track" id="sliderTrack"></div>
+                    <div class="slider-controls">
+                        <button class="slider-arrow" id="prevSlide">←</button>
+                        <button class="slider-arrow" id="nextSlide">→</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- УСЛУГИ -->
+        <section id="services" class="services">
+            <div class="container">
+                <h2 class="section-title">Наши <span>Услуги</span></h2>
+                <div class="services-grid">
+                    <div class="service-card">
+                        <div class="service-icon-wrapper">
+                            <span class="service-icon">🏭</span>
+                        </div>
+                        <h4>Собственное производство</h4>
+                        <p>Полный контроль качества на каждом этапе изготовления.</p>
+                        <span class="service-badge">10+ лет опыта</span>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon-wrapper">
+                            <span class="service-icon">📏</span>
+                        </div>
+                        <h4>Бесплатный замер</h4>
+                        <p>Выезд профессионального инженера в день обращения.</p>
+                        <span class="service-badge">Бесплатно</span>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon-wrapper">
+                            <span class="service-icon">🔧</span>
+                        </div>
+                        <h4>Монтаж за 1 день</h4>
+                        <p>Чистая установка без пыли и грязи.</p>
+                        <span class="service-badge">Быстро</span>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon-wrapper">
+                            <span class="service-icon">📜</span>
+                        </div>
+                        <h4>Гарантия 10 лет</h4>
+                        <p>Официальная гарантия на все двери и монтажные работы.</p>
+                        <span class="service-badge">Надёжно</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ДОСТАВКА -->
+        <section id="delivery" class="delivery-section">
+            <div class="container">
+                <h2 class="section-title">Доставка и <span>оплата</span></h2>
+                <div class="delivery-card">
+                    <h3>🚚 Условия доставки</h3>
+                    <ul>
+                        <li>По Москве: бесплатно от 30 000 ₽</li>
+                        <li>Подъём на этаж: бесплатно</li>
+                        <li>Регионы: транспортными компаниями</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- КОНТАКТЫ -->
+        <section id="contacts" class="contacts">
+            <div class="container">
+                <h2 class="section-title">Свяжитесь <span>с нами</span></h2>
+                <div class="contacts-grid">
+                    <div class="contact-info-block">
+                        <h4>Контактная информация</h4>
+                        <div class="contact-item">
+                            <div class="contact-item-icon">📍</div>
+                            <div class="contact-item-content">
+                                <div class="contact-item-label">Адрес</div>
+                                <div class="contact-item-value">г. Москва, ул. Строителей, 15</div>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-item-icon">📞</div>
+                            <div class="contact-item-content">
+                                <div class="contact-item-label">Телефон</div>
+                                <div class="contact-item-value"><a href="tel:+74951234567" data-phone>+7 (495) 123-45-67</a></div>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-item-icon">✉️</div>
+                            <div class="contact-item-content">
+                                <div class="contact-item-label">Email</div>
+                                <div class="contact-item-value"><a href="mailto:info@dveri-master.ru" data-email>info@dveri-master.ru</a></div>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-item-icon">💬</div>
+                            <div class="contact-item-content">
+                                <div class="contact-item-label">Telegram</div>
+                                <div class="contact-item-value"><a href="https://t.me/dveri_master" class="telegram-link" target="_blank">@dveri_master</a></div>
+                            </div>
+                        </div>
+                        <div class="working-hours">
+                            <h5>⏰ Режим работы</h5>
+                            <p>Понедельник – Суббота: 9:00 – 20:00</p>
+                            <p>Воскресенье: 10:00 – 18:00</p>
+                        </div>
+                    </div>
+                    <div class="contact-info-block" style="background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%); color: white;">
+                        <h4 style="color: white;">💬 Напишите менеджеру</h4>
+                        <p style="margin-bottom: 24px; opacity: 0.9;">Есть вопросы? Нажмите на кнопку чата в правом нижнем углу экрана.</p>
+                        <div style="display: flex; flex-direction: column; gap: 16px;">
+                            <div style="display: flex; align-items: center; gap: 12px;">
+                                <span style="font-size: 1.5rem;">✅</span>
+                                <span>Ответ в течение 5 минут</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px;">
+                                <span style="font-size: 1.5rem;">✅</span>
+                                <span>Консультация бесплатно</span>
+                            </div>
+                            <div style="display: flex; align-items: center; gap: 12px;">
+                                <span style="font-size: 1.5rem;">✅</span>
+                                <span>Помощь в выборе</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ПОДВАЛ -->
+        <footer class="footer">
+            <div class="container">
+                <div class="footer-grid">
+                    <div>
+                        <h4>Каталог</h4>
+                        <a class="footer-category" data-cat="Межкомнатные">Межкомнатные</a>
+                        <a class="footer-category" data-cat="Входные">Входные</a>
+                        <a class="footer-category" data-cat="Офисные">Офисные</a>
+                    </div>
+                    <div>
+                        <h4>Информация</h4>
+                        <a class="footer-info" data-section="info">Статьи</a>
+                        <a class="footer-info" data-section="tips">Советы</a>
+                        <a class="footer-info" data-section="faq">FAQ</a>
+                    </div>
+                    <div>
+                        <h4>Контакты</h4>
+                        <a href="tel:+74951234567" data-phone>+7 (495) 123-45-67</a>
+                        <a href="#" class="telegram-link">Telegram</a>
+                    </div>
+                </div>
+                <div class="footer-bottom">
+                    <p>© 2025 Двери-Мастер. Все права защищены.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- ===== КОНЕЦ ГЛАВНОЙ СТРАНИЦЫ ===== -->
+
+    <!-- ========================================================== -->
+    <!-- ===== СТРАНИЦА ТОВАРА ===== -->
+    <!-- ========================================================== -->
+    <div id="productDetailPage" class="product-detail-page">
+        <div class="container">
+            <!-- Хлебные крошки -->
+            <div class="breadcrumbs">
+                <a class="back-to-main">Главная</a> /
+                <a class="back-to-main">Каталог</a> /
+                <span id="breadcrumbCategory"></span> /
+                <span id="breadcrumbTitle"></span>
+            </div>
+
+            <!-- Основная сетка -->
+            <div class="product-detail-grid">
+                <!-- Галерея -->
+                <div class="product-gallery">
+                    <div class="main-image">
+                        <img src="" alt="" id="detailMainImg">
+                    </div>
+                    <div class="thumbnail-list" id="detailThumbnails"></div>
+                </div>
+
+                <!-- Информация о товаре -->
+                <div class="product-detail-info">
+                    <h1 class="product-detail-title" id="detailTitle"></h1>
+                    <div class="product-detail-sku" id="detailSku"></div>
+                    <div>
+                        <span class="product-detail-current-price" id="detailCurrentPrice"></span>
+                        <span class="product-detail-old-price" id="detailOldPrice" style="display:none;"></span>
+                    </div>
+
+                    <!-- Размеры -->
+                    <div class="option-group">
+                        <label class="option-label">Размер полотна:</label>
+                        <div class="size-options" id="detailSizeOptions"></div>
+                    </div>
+
+                    <!-- Цвет -->
+                    <div class="option-group">
+                        <label class="option-label">Цвет/Отделка:</label>
+                        <div class="color-options" id="detailColorOptions"></div>
+                    </div>
+
+                    <!-- Кнопка добавления -->
+                    <button class="btn btn-primary add-to-cart-btn" id="detailAddToCartBtn">
+                        Добавить в корзину
+                    </button>
+
+                    <!-- Бейджи -->
+                    <div style="margin-top:24px; padding-top:24px; border-top:1px solid var(--color-gray-300); display:flex; gap:16px; flex-wrap:wrap;">
+                        <span>✅ Гарантия 10 лет</span>
+                        <span>🚚 Бесплатная доставка от 30 000 ₽</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ===== ВКЛАДКИ ===== -->
+            <div class="product-tabs">
+                <div class="tab-buttons">
+                    <button class="tab-btn active" data-tab="description">Описание</button>
+                    <button class="tab-btn" data-tab="specs">Характеристики</button>
+                </div>
+                <div class="tab-content active" id="descriptionTab">
+                    <p id="detailDescription"></p>
+                </div>
+                <div class="tab-content" id="specsTab">
+                    <table class="specs-table" id="detailSpecs"></table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ===== КОНЕЦ СТРАНИЦЫ ТОВАРА ===== -->
+
+    <!-- ========================================================== -->
+    <!-- ===== СТРАНИЦА КАТЕГОРИИ ===== -->
+    <!-- ========================================================== -->
+    <div id="categoryPage" class="category-page">
+        <div class="container">
+            <div class="breadcrumbs">
+                <a class="back-to-main">Главная</a> /
+                <span id="categoryBreadcrumb"></span>
+            </div>
+            <h1 class="section-title" id="categoryPageTitle"></h1>
+            <p class="category-description" id="categoryDescription"></p>
+            <div class="category-filters" id="categoryFilters"></div>
+            <div class="products-grid category-products-grid" id="categoryProductsGrid"></div>
+            <div class="category-stats"></div>
+        </div>
+    </div>
+    <!-- ===== КОНЕЦ СТРАНИЦЫ КАТЕГОРИИ ===== -->
+
+    <!-- ========================================================== -->
+    <!-- ===== СТРАНИЦЫ С ИНФОРМАЦИЕЙ ===== -->
+    <!-- ========================================================== -->
+    <div id="infoPage" class="info-page">
+        <div class="container">
+            <div class="breadcrumbs">
+                <a class="back-to-main">Главная</a> /
+                <span id="infoBreadcrumb"></span>
+            </div>
+            <h1 class="section-title" id="infoPageTitle"></h1>
+            <div class="info-content" id="infoContent"></div>
+        </div>
+    </div>
+
+    <!-- ==================== МОДАЛЬНЫЕ ОКНА ==================== -->
+    <!-- Корзина -->
+    <div id="cartModal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <h3 style="margin-bottom:24px;">🛒 Корзина</h3>
+            <div id="cartItemsList"></div>
+            <div class="cart-summary" id="cartSummary"></div>
+            <button class="btn btn-primary" style="width:100%; margin-top:20px;" id="checkoutBtn">Оформить заказ</button>
+        </div>
+    </div>
+
+    <!-- Поиск -->
+    <div id="searchModal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <h3 style="margin-bottom:20px;">🔍 Поиск товаров</h3>
+            <div class="search-input-wrapper"><input type="text" id="searchInput" placeholder="Введите название двери..."></div>
+            <div class="search-results-list" id="searchResults"></div>
+        </div>
+    </div>
+
+    <!-- Аккаунт -->
+    <div id="accountModal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <h3 style="margin-bottom:24px;">👤 Вход в личный кабинет</h3>
+            <div id="authContainer"></div>
+        </div>
+    </div>
+
+    <!-- ==================== ПЛАВАЮЩИЙ ЧАТ ==================== -->
+    <div class="chat-widget">
+        <div class="chat-window" id="chatWindow">
+            <div class="chat-header">
+                <div class="chat-avatar">👨‍💼</div>
+                <div class="chat-header-info">
+                    <h5>Менеджер Алексей</h5>
+                    <p><span class="chat-status"></span>Онлайн</p>
+                </div>
+            </div>
+            <div class="chat-body" id="chatBody">
+                <div class="chat-message manager">
+                    <div class="message-bubble">Здравствуйте! Чем могу помочь вам с выбором двери?</div>
+                    <div class="message-time">Сейчас</div>
+                </div>
+            </div>
+            <div class="chat-footer">
+                <div class="chat-input-wrapper">
+                    <input type="text" class="chat-input" id="chatInput" placeholder="Введите сообщение...">
+                    <button class="chat-send-btn" id="chatSendBtn">➤</button>
+                </div>
+            </div>
+        </div>
+        <button class="chat-button" id="chatButton">
+            <span class="chat-icon-open">💬</span>
+            <span class="chat-icon-close">✕</span>
+        </button>
+    </div>
+
+    <!-- ===== SCRIPTS ===== -->
+    <script type="importmap">
+    {
+        "imports": {
+            "./js/": "./js/"
+        }
+    }
+    </script>
+    <script type="module" src="js/main.js"></script>
+
+    <!-- ===== РЕГИСТРАЦИЯ/АВТОРИЗАЦИЯ (AJAX + MySQL) — ДОБАВЛЕНО ===== -->
+    <style>
+        #accountModal {
+            display: none;
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.55); z-index: 20000;
+            align-items: flex-start; justify-content: center; padding: 20px 16px; box-sizing: border-box;
+        }
+        #accountModal .modal-content {
+            background: #fff; border-radius: 14px; box-shadow: 0 20px 70px rgba(0,0,0,0.35);
+            width: 420px; max-width: 100%; max-height: 88vh; overflow: auto;
+            padding: 14px 26px 26px; animation: authPop .22s ease;
+        }
+        @keyframes authPop { from { transform: scale(.95); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+        #authContainer .auth-tabs { display: flex; gap: 6px; background: #f2f3f2; padding: 5px; border-radius: 10px; margin-bottom: 16px; }
+        #authContainer .auth-tabs button {
+            flex: 1; padding: 9px 0; border: none; border-radius: 8px; cursor: pointer;
+            background: transparent; color: #555; font-size: 14px; font-weight: 600; transition: .25s;
+        }
+        #authContainer .auth-tabs button.active { background: #4CAF50; color: #fff; box-shadow: 0 2px 8px rgba(76,175,80,.35); }
+        #authContainer .auth-panel { display: none; }
+        #authContainer .auth-panel.active { display: block; animation: authPop .2s ease; }
+        #authContainer .auth-field { margin-bottom: 12px; }
+        #authContainer .auth-field label { display: block; font-size: 12.5px; font-weight: 600; color: #444; margin-bottom: 4px; }
+        #authContainer .auth-field input {
+            width: 100%; padding: 11px 13px; border: 1.5px solid #dfdfdf; border-radius: 8px;
+            font-size: 14px; outline: none; box-sizing: border-box; transition: .2s; background: #fff;
+            color: #222;
+        }
+        #authContainer .auth-field input:focus { border-color: #4CAF50; box-shadow: 0 0 0 3px rgba(76,175,80,.14); }
+        #authContainer .auth-submit {
+            width: 100%; padding: 12px; margin-top: 4px; background: #4CAF50; color: #fff;
+            border: none; border-radius: 8px; font-size: 15px; font-weight: 600; cursor: pointer; transition: .25s;
+        }
+        #authContainer .auth-submit:hover { background: #43A047; }
+        #authContainer .auth-msg { display: none; padding: 10px 12px; border-radius: 8px; font-size: 13.5px; line-height: 1.5; margin-bottom: 14px; }
+        #authContainer .auth-msg.show { display: block; }
+        #authContainer .auth-msg.error { background: #fdecea; color: #b71c1c; border: 1px solid #f5c6cb; }
+        #authContainer .auth-msg.success { background: #e8f5e9; color: #1b5e20; border: 1px solid #c8e6c9; }
+        #authContainer .auth-profile { text-align: center; padding: 14px 0 4px; }
+        #authContainer .auth-profile .auth-avatar { font-size: 40px; }
+        #authContainer .auth-profile h3 { margin: 10px 0 4px; color: #2e7d32; }
+        #authContainer .auth-profile p { margin: 4px 0; color: #333; }
+        #authContainer .auth-profile .auth-email { font-size: 12.5px; color: #888; }
+        #authContainer .auth-close-btn {
+            width: 100%; padding: 12px; margin-top: 16px; background: #ef5350; color: #fff;
+            border: none; border-radius: 8px; font-size: 15px; font-weight: 600; cursor: pointer; transition: .25s;
+        }
+        #authContainer .auth-close-btn:hover { background: #e53935; }
+    </style>
+
+    <script>
+    // ===== Окно регистрации/входа на кнопке “👤” (AJAX + MySQL) =====
+    (function () {
+        var btn = document.getElementById('accountBtn');
+        var modal = document.getElementById('accountModal');
+        var box = document.getElementById('authContainer');
+        if (!btn || !modal || !box) return;
+
+        var currentLogin = null, currentEmail = null;
+
+        function api(url, options) {
+            options = options || {};
+            options.headers = Object.assign({ 'X-Requested-With': 'XMLHttpRequest' }, options.headers || {});
+            return fetch(url, options).then(function (r) { return r.json(); });
+        }
+
+        function esc(s) {
+            return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+                return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+            });
+        }
+
+        function showMsg(type, content) {
+            var m = box.querySelector('.auth-msg');
+            if (!m) return;
+            m.className = 'auth-msg ' + type + ' show';
+            m.innerHTML = content;
+        }
+
+        function renderLogout() {
+            box.innerHTML =
+                '<div class="auth-msg"></div>' +
+                '<div class="auth-profile">' +
+                    '<div class="auth-avatar">👤</div>' +
+                    '<h3>✅ Вы авторизованы</h3>' +
+                    '<p><strong>' + esc(currentLogin) + '</strong></p>' +
+                    '<p class="auth-email">' + esc(currentEmail) + '</p>' +
+                    '<button type="button" class="auth-close-btn" id="authLogoutBtn">🚪 Выйти</button>' +
+                '</div>';
+            document.getElementById('authLogoutBtn').addEventListener('click', function () {
+                api('logout.php', { method: 'POST' })
+                    .then(function (d) {
+                        if (d.ok) { currentLogin = currentEmail = null; showMsg('success', d.message); renderForms(); }
+                    })
+                    .catch(function () { showMsg('error', '⚠️ Ошибка соединения с сервером'); });
+            });
+        }
+
+        function renderForms() {
+            box.innerHTML =
+                '<div class="auth-msg"></div>' +
+                '<div class="auth-tabs">' +
+                    '<button type="button" class="active" data-tab="register">Регистрация</button>' +
+                    '<button type="button" data-tab="login">Вход</button>' +
+                '</div>' +
+                '<div class="auth-panel active" data-panel="register">' +
+                    '<form data-auth="register" novalidate>' +
+                        '<div class="auth-field"><label>Логин</label><input type="text" name="Login" placeholder="3–30 символов, буквы, цифры, _" autocomplete="username" required></div>' +
+                        '<div class="auth-field"><label>Email</label><input type="email" name="email" placeholder="example@mail.com" autocomplete="email" required></div>' +
+                        '<div class="auth-field"><label>Пароль</label><input type="password" name="pass" placeholder="от 8 символов, с заглавной и цифрой" autocomplete="new-password" required></div>' +
+                        '<div class="auth-field"><label>Повторите пароль</label><input type="password" name="repeatpass" placeholder="Повторите пароль" autocomplete="new-password" required></div>' +
+                        '<button type="submit" class="auth-submit">Зарегистрироваться</button>' +
+                    '</form>' +
+                '</div>' +
+                '<div class="auth-panel" data-panel="login">' +
+                    '<form data-auth="login" novalidate>' +
+                        '<div class="auth-field"><label>Логин</label><input type="text" name="Login" placeholder="Ваш логин" autocomplete="username" required></div>' +
+                        '<div class="auth-field"><label>Пароль</label><input type="password" name="pass" placeholder="Ваш пароль" autocomplete="current-password" required></div>' +
+                        '<button type="submit" class="auth-submit">Войти</button>' +
+                    '</form>' +
+                '</div>';
+
+            // Переключение вкладок
+            box.querySelectorAll('[data-tab]').forEach(function (tab) {
+                tab.addEventListener('click', function () {
+                    box.querySelectorAll('[data-tab]').forEach(function (t) { t.classList.remove('active'); });
+                    box.querySelectorAll('[data-panel]').forEach(function (p) { p.classList.remove('active'); });
+                    tab.classList.add('active');
+                    var panel = box.querySelector('[data-panel="' + tab.getAttribute('data-tab') + '"]');
+                    if (panel) panel.classList.add('active');
+                    var m = box.querySelector('.auth-msg'); if (m) m.className = 'auth-msg';
+                });
+            });
+
+            // Отправка форм на регистрацию / вход
+            box.querySelectorAll('form[data-auth]').forEach(function (form) {
+                form.addEventListener('submit', function (e) {
+                    e.preventDefault();
+                    api(form.getAttribute('data-auth') === 'register' ? 'register.php' : 'login.php', { method: 'POST', body: new FormData(form) })
+                        .then(function (d) {
+                            if (d.ok) {
+                                showMsg('success', d.message);
+                                box.querySelectorAll('input[type="password"]').forEach(function (i) { i.value = ''; });
+                                loadStatus(); // форма заменится на “Вы авторизованы”
+                            } else {
+                                showMsg('error', (d.errors || ['❌ Не удалось']).map(esc).join('<br>'));
+                            }
+                        })
+                        .catch(function () { showMsg('error', '⚠️ Ошибка соединения с сервером'); });
+                });
+            });
+        }
+function loadStatus() {
+            api('status.php')
+                .then(function (s) {
+                    currentLogin = s.login; currentEmail = s.email;
+                    if (s.loggedIn) renderLogout(); else renderForms();
+                })
+                .catch(function () { renderForms(); });
+        }
+
+        // Открыть окно по кнопке 👤
+        btn.addEventListener('click', function () {
+            modal.style.display = 'flex';
+            loadStatus();
+        });
+
+        // Закрыть окно
+        var closeBtn = modal.querySelector('.modal-close');
+        if (closeBtn) closeBtn.addEventListener('click', function () { modal.style.display = 'none'; });
+        modal.addEventListener('click', function (e) { if (e.target === modal) modal.style.display = 'none'; });
+    })();
+</script>
+</body>
+</html>
