@@ -10,6 +10,13 @@ function respondJson(array $payload): void {
     exit;
 }
 
+if (!isset($conn) || !($conn instanceof mysqli) || $conn->connect_error) {
+    if (isAjax()) respondJson(['ok' => false, 'errors' => ['❌ Ошибка подключения к серверу. ' . ($conn && $conn->connect_error ? $conn->connect_error : 'Попробуйте позже')]]);
+    setFlash('error', '❌ Ошибка подключения к серверу. Попробуйте позже');
+    header('Location: index.php');
+    exit;
+}
+
 // Если уже авторизован
 if (isset($_SESSION['user_login'])) {
     if (isAjax()) {
