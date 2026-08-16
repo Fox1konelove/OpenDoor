@@ -152,3 +152,32 @@
     .products-grid, .category-products-grid { grid-template-columns:1fr; }
     .product-image { height:290px; }
 }
+
+/* Подкатегории каталога */
+.sidebar-subcategories {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 6px;
+    padding: 4px 14px 14px 52px;
+}
+.sidebar-subcategories button {
+    border: 0;
+    background: transparent;
+    padding: 7px 8px;
+    border-radius: 8px;
+    text-align: left;
+    color: var(--color-text-light, #777);
+    cursor: pointer;
+    font: inherit;
+    transition: background .2s ease, color .2s ease;
+}
+.sidebar-subcategories button:hover {
+    background: rgba(0,0,0,.05);
+    color: var(--color-text, #222);
+}
+.category-filter-chip {
+    white-space: nowrap;
+}
+@media (max-width: 700px) {
+    .sidebar-subcategories { padding-left: 42px; }
+}

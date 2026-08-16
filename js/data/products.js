@@ -25676,6 +25676,97 @@ const products = [
   }
 ];
 
+
+// --- Официальные данные BRAVO / dveri.com ---
+// Используются как overrides для моделей, которые однозначно сопоставляются
+// с официальным каталогом. Полный синхронизатор находится в scripts/sync-dveri-com.mjs.
+const officialModels = {
+  'bravo 20': {
+    price: 5970,
+    description: 'Межкомнатная глухая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности, без пустот. Для отделки лицевых поверхностей применяется влагостойкий PUR-клей.'
+  },
+  'bravo 22': {
+    price: 5970,
+    description: 'Межкомнатная остеклённая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности, без пустот.'
+  },
+  'bravo 28': {
+    price: 5970,
+    description: 'Межкомнатная остеклённая дверь рамочной конструкции с декоративными вставками. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности.'
+  },
+  'bravo 29': {
+    price: 6720,
+    description: 'Межкомнатная дверь рамочной конструкции с декоративными вставками. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности.'
+  },
+  'bravo 40': {
+    price: 11520,
+    description: 'Межкомнатная глухая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности, без пустот. Бескромочная технология производства, торцы защищены по технологии «2-Edge».'
+  },
+  'bravo 0 10p': {
+    price: 8820,
+    description: 'Межкомнатная глухая дверь щитовой конструкции с контрастными вставками и кромкой с 4 сторон, исполнение «П» (Премиум). Композитный каркас облицован плитами высокой плотности толщиной 6 мм, внутри — прочная панель Honeycomb Block.'
+  },
+  'bravo 0 21p': {
+    price: 8820,
+    description: 'Межкомнатная глухая дверь щитовой конструкции с контрастными вставками и кромкой с 4 сторон, исполнение «П» (Премиум). Композитный каркас облицован плитами высокой плотности толщиной 6 мм.'
+  },
+  'bravo 0 24p': {
+    price: 8820,
+    description: 'Межкомнатная глухая дверь щитовой конструкции с золотыми матовыми декоративными вставками, исполнение «П» (Премиум). Композитный каркас облицован плитами высокой плотности толщиной 6 мм.'
+  }
+};
+
+const hardwareSubcategory = (title = '') => {
+  const t = title.toLowerCase();
+  if (t.includes('ручк')) return 'Ручки';
+  if (t.includes('петл')) return 'Петли';
+  if (t.includes('наклад')) return 'Накладки';
+  if (t.includes('фиксатор')) return 'Фиксаторы';
+  if (t.includes('замок')) return 'Замки';
+  if (t.includes('защел')) return 'Защелки';
+  if (t.includes('цилиндр')) return 'Цилиндры';
+  if (t.includes('шпингал')) return 'Шпингалеты';
+  if (t.includes('довод')) return 'Доводчики';
+  if (t.includes('огранич')) return 'Ограничители';
+  if (t.includes('глаз')) return 'Глазки';
+  if (t.includes('цифр')) return 'Цифры';
+  if (t.includes('креп')) return 'Крепеж';
+  return 'Прочее';
+};
+
+const normalizeModel = value => String(value)
+  .toLowerCase()
+  .replace(/[()\-_/.,]/g, ' ')
+  .replace(/\s+/g, ' ')
+  .trim();
+
+products.forEach(product => {
+  if (product.category === 'Фурнитура и прочее') {
+    product.subcategory = hardwareSubcategory(product.title);
+  } else if (product.category === 'Межкомнатные двери') {
+    product.subcategory = 'Межкомнатные';
+  } else if (product.category === 'Входные двери') {
+    const t = product.title.toLowerCase();
+    product.subcategory = t.includes('thermo') || t.includes('термо') ? 'Bravo Thermo' :
+      t.includes('bravo z') ? 'Bravo Z' : t.includes('optim') ? 'Optim' :
+      t.includes('зерк') ? 'С зеркалом' : 'Bravo R';
+  } else if (product.category === 'Складные двери') {
+    product.subcategory = 'Винил';
+  } else if (product.category === 'Специальные двери') {
+    product.subcategory = product.title.toLowerCase().includes('пожар') ? 'Противопожарные' : 'Строительные';
+  } else if (product.category === 'Арки и Порталы') {
+    product.subcategory = product.material || 'ПЭТ';
+  }
+
+  const key = normalizeModel(product.title);
+  const officialKey = Object.keys(officialModels).find(k => key === k || key.startsWith(`${k} `));
+  if (officialKey) {
+    const official = officialModels[officialKey];
+    if (official.price) product.price = official.price;
+    if (official.description) product.description = official.description;
+    product.source = 'dveri.com';
+  }
+});
+
 export { products };
 
 export const sizeOptions = [{ name: 'Стандарт', priceMod: 0 }, { name: 'По размеру', priceMod: 0 }];
