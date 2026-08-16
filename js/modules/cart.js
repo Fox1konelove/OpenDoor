@@ -36,7 +36,7 @@ export function addToCart(productId, size = null, color = null) {
             color: color || 'белый',
             price: product.price,
             quantity: 1,
-            image: product.image
+            image: product.variants?.find(v => v.name === (color || 'стандарт'))?.image || product.image
         });
     }
 
@@ -58,7 +58,7 @@ export function addToCartSimple(productId) {
             quantity: 1,
             size: 'стандарт',
             color: 'белый',
-            image: product.image
+            image: product.variants?.find(v => v.name === (color || 'стандарт'))?.image || product.image
         });
     }
 
