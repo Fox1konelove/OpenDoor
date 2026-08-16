@@ -26824,6 +26824,13 @@ const products = [
   }
 ];
 
+export const sizeOptions = [
+  { name: '600 × 2000 мм', priceMod: 0 },
+  { name: '700 × 2000 мм', priceMod: 0 },
+  { name: '800 × 2000 мм', priceMod: 0 },
+  { name: '900 × 2000 мм', priceMod: 0 }
+];
+
 export { products };
 
 export const categories = [
