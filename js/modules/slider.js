@@ -1,57 +1,42 @@
-// modules/slider.js
 import { products } from '../data/products.js';
 import { addToCartSimple } from './cart.js';
 import { openProductDetail } from './productDetail.js';
 
 export function initSlider() {
-    renderSlider();
-    setupSliderControls();
-}
-
-function renderSlider() {
     const track = document.getElementById('sliderTrack');
     if (!track) return;
 
-    track.innerHTML = products.slice(0, 6).map(p => `
-        <div class="product-card" data-id="${p.id}">
+    const featured = products.slice(0, 8);
+    track.innerHTML = featured.map(p => `
+        <article class="product-card" data-id="${p.id}">
             <div class="product-image">
-                <div class="img-note">📸 [${p.title}]</div>
+                <img src="${p.image}" alt="${p.title}" loading="lazy">
+                ${p.variants?.length > 1 ? `<div class="product-variant-count">${p.variants.length} варианта</div>` : ''}
             </div>
             <div class="product-info">
                 <div class="product-title">${p.title}</div>
-                <div class="product-material">${p.material}</div>
-                <div class="product-price">${p.price.toLocaleString()} ₽</div>
-                <button class="btn btn-primary" style="width:100%; margin-top:12px;" data-id="${p.id}">В корзину</button>
+                <div class="product-material">${p.category}</div>
+                <div class="product-price">${p.price > 0 ? `${p.price.toLocaleString('ru-RU')} ₽` : 'Цена по запросу'}</div>
+                <button class="btn btn-primary" type="button" data-id="${p.id}">В корзину</button>
             </div>
-        </div>
+        </article>
     `).join('');
 
     track.querySelectorAll('.product-card').forEach(card => {
-        card.addEventListener('click', (e) => {
-            if (e.target.tagName === 'BUTTON') {
+        card.addEventListener('click', e => {
+            if (e.target.closest('button')) {
                 e.stopPropagation();
-                addToCartSimple(parseInt(e.target.dataset.id));
-            } else {
-                openProductDetail(parseInt(card.dataset.id));
+                addToCartSimple(Number(card.dataset.id));
+                return;
             }
+            openProductDetail(Number(card.dataset.id));
         });
     });
-}
 
-function setupSliderControls() {
-    const track = document.getElementById('sliderTrack');
-    const prevBtn = document.getElementById('prevSlide');
-    const nextBtn = document.getElementById('nextSlide');
-
-    if (prevBtn) {
-        prevBtn.addEventListener('click', () => {
-            track.scrollBy({ left: -320, behavior: 'smooth' });
-        });
-    }
-
-    if (nextBtn) {
-        nextBtn.addEventListener('click', () => {
-            track.scrollBy({ left: 320, behavior: 'smooth' });
-        });
-    }
+    document.getElementById('prevSlide')?.addEventListener('click', () =>
+        track.scrollBy({ left: -340, behavior: 'smooth' })
+    );
+    document.getElementById('nextSlide')?.addEventListener('click', () =>
+        track.scrollBy({ left: 340, behavior: 'smooth' })
+    );
 }

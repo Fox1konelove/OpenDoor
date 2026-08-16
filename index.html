@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/components/info-modal.css">
     <link rel="stylesheet" href="css/components/category-page.css">
+    <link rel="stylesheet" href="css/components/product-detail.css">
 </head>
 <body>
 
@@ -49,13 +50,14 @@
                 </div>
                 <div class="nav-links" id="navLinks">
                     <!-- КАТЕГОРИИ ДВЕРЕЙ -->
-                    <a data-section="all" class="nav-category active">Все двери</a>
-                    <a data-section="Межкомнатные" class="nav-category">Межкомнатные</a>
-                    <a data-section="Входные" class="nav-category">Входные</a>
-                    <a data-section="Офисные" class="nav-category">Офисные</a>
-                    <a data-section="Противопожарные" class="nav-category">Противопожарные</a>
-                    <a data-section="Раздвижные" class="nav-category">Раздвижные</a>
-                    <a data-section="Стеклянные" class="nav-category">Стеклянные</a>
+                    <a data-section="all" class="nav-category active">Все товары</a>
+                    <a data-section="Межкомнатные двери" class="nav-category">Межкомнатные</a>
+                    <a data-section="Входные двери" class="nav-category">Входные</a>
+                    <a data-section="Скрытые двери" class="nav-category">Скрытые</a>
+                    <a data-section="Складные двери" class="nav-category">Складные</a>
+                    <a data-section="Специальные двери" class="nav-category">Специальные</a>
+                    <a data-section="Арки и Порталы" class="nav-category">Арки и порталы</a>
+                    <a data-section="Фурнитура и прочее" class="nav-category">Фурнитура</a>
                     <!-- === НОВЫЕ РАЗДЕЛЫ: ПОЛЕЗНАЯ ИНФОРМАЦИЯ === -->
                     <span class="nav-divider">|</span>
                     <a data-section="info" class="nav-category info-link">📖 Статьи</a>
@@ -78,47 +80,19 @@
             <button class="sidebar-close" id="sidebarClose">&times;</button>
         </div>
         <div class="sidebar-category active" data-category="all">
-            <span class="sidebar-category-icon">🚪</span>
-            <span>Все двери</span>
+            <span class="sidebar-category-icon">🛒</span><span>Все товары</span>
         </div>
-        <div class="sidebar-category" data-category="Межкомнатные">
-            <span class="sidebar-category-icon">🏠</span>
-            <span>Межкомнатные</span>
-        </div>
-        <div class="sidebar-category" data-category="Входные">
-            <span class="sidebar-category-icon">🔒</span>
-            <span>Входные</span>
-        </div>
-        <div class="sidebar-category" data-category="Офисные">
-            <span class="sidebar-category-icon">🏢</span>
-            <span>Офисные</span>
-        </div>
-        <div class="sidebar-category" data-category="Противопожарные">
-            <span class="sidebar-category-icon">🔥</span>
-            <span>Противопожарные</span>
-        </div>
-        <div class="sidebar-category" data-category="Раздвижные">
-            <span class="sidebar-category-icon">↔️</span>
-            <span>Раздвижные</span>
-        </div>
-        <div class="sidebar-category" data-category="Стеклянные">
-            <span class="sidebar-category-icon">🪟</span>
-            <span>Стеклянные</span>
-        </div>
-        <!-- === НОВЫЕ РАЗДЕЛЫ В БОКОВОМ МЕНЮ === -->
+        <div class="sidebar-category" data-category="Межкомнатные двери"><span class="sidebar-category-icon">🚪</span><span>Межкомнатные двери</span></div>
+        <div class="sidebar-category" data-category="Входные двери"><span class="sidebar-category-icon">🔐</span><span>Входные двери</span></div>
+        <div class="sidebar-category" data-category="Скрытые двери"><span class="sidebar-category-icon">🫥</span><span>Скрытые двери</span></div>
+        <div class="sidebar-category" data-category="Складные двери"><span class="sidebar-category-icon">↔️</span><span>Складные двери</span></div>
+        <div class="sidebar-category" data-category="Специальные двери"><span class="sidebar-category-icon">🛡️</span><span>Специальные двери</span></div>
+        <div class="sidebar-category" data-category="Арки и Порталы"><span class="sidebar-category-icon">🏛️</span><span>Арки и порталы</span></div>
+        <div class="sidebar-category" data-category="Фурнитура и прочее"><span class="sidebar-category-icon">🔩</span><span>Фурнитура и прочее</span></div>
         <div class="sidebar-divider"></div>
-        <div class="sidebar-category info-category" data-category="info">
-            <span class="sidebar-category-icon">📖</span>
-            <span>Статьи о дверях</span>
-        </div>
-        <div class="sidebar-category info-category" data-category="tips">
-            <span class="sidebar-category-icon">💡</span>
-            <span>Советы по выбору</span>
-        </div>
-        <div class="sidebar-category info-category" data-category="faq">
-            <span class="sidebar-category-icon">❓</span>
-            <span>Вопросы и ответы</span>
-        </div>
+        <div class="sidebar-category info-category" data-category="info"><span class="sidebar-category-icon">📖</span><span>Статьи о дверях</span></div>
+        <div class="sidebar-category info-category" data-category="tips"><span class="sidebar-category-icon">💡</span><span>Советы по выбору</span></div>
+        <div class="sidebar-category info-category" data-category="faq"><span class="sidebar-category-icon">❓</span><span>Вопросы и ответы</span></div>
     </aside>
 
     <!-- ==================== ГЛАВНАЯ СТРАНИЦА ==================== -->
@@ -581,7 +555,7 @@
                     '<button type="button" class="auth-close-btn" id="authLogoutBtn">🚪 Выйти</button>' +
                 '</div>';
             document.getElementById('authLogoutBtn').addEventListener('click', function () {
-                                api('html/logout.php', { method: 'POST' })
+                api('logout.php', { method: 'POST' })
                     .then(function (d) {
                         if (d.ok) { currentLogin = currentEmail = null; showMsg('success', d.message); renderForms(); }
                     })
@@ -629,10 +603,7 @@
             box.querySelectorAll('form[data-auth]').forEach(function (form) {
                 form.addEventListener('submit', function (e) {
                     e.preventDefault();
-                    var action = form.getAttribute('data-auth');
-                    var url = (action === 'register') ? 'html/register.php' : 'html/login.php';
-                    api(url, { method: 'POST', body: new FormData(form) }) 
-                    //api(form.getAttribute('data-auth') === 'register' ? 'html/register.php' : 'html/login.php', { method: 'POST', body: new FormData(form) })
+                    api(form.getAttribute('data-auth') === 'register' ? 'register.php' : 'login.php', { method: 'POST', body: new FormData(form) })
                         .then(function (d) {
                             if (d.ok) {
                                 showMsg('success', d.message);
@@ -647,7 +618,7 @@
             });
         }
 function loadStatus() {
-            api('html/status.php')
+            api('status.php')
                 .then(function (s) {
                     currentLogin = s.login; currentEmail = s.email;
                     if (s.loggedIn) renderLogout(); else renderForms();

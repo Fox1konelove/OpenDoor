@@ -64,11 +64,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 module.openCategoryPage(state.category);
             });
         } else {
-            showMainPageFromInfo();
-            showMainPageFromCategory();
-            showMainPage();
-            document.querySelectorAll('.nav-category').forEach(l => l.classList.remove('active'));
+            ['productDetailPage', 'infoPage', 'categoryPage'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) { el.style.display = 'none'; el.classList.remove('active'); }
+            });
+            document.getElementById('mainPage').style.display = 'block';
+            document.querySelectorAll('.nav-category, .sidebar-category').forEach(l => l.classList.remove('active'));
             document.querySelector('.nav-category[data-section="all"]')?.classList.add('active');
+            document.querySelector('.sidebar-category[data-category="all"]')?.classList.add('active');
+            window.scrollTo(0, 0);
         }
     });
 
