@@ -1,7 +1,7 @@
 const products = [
   {
     "id": 1,
-    "title": "арка10",
+    "title": "Арка ПВХ арка10",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -12,15 +12,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка10.jpg"
       }
     ],
-    "description": "арка10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка10. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 2,
-    "title": "арка11",
+    "title": "Арка ПВХ арка11",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -31,15 +32,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка11.jpg"
       }
     ],
-    "description": "арка11. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка11. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 3,
-    "title": "арка12",
+    "title": "Арка ПВХ арка12",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -50,15 +52,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка12.jpg"
       }
     ],
-    "description": "арка12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка12. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 4,
-    "title": "арка13",
+    "title": "Арка ПВХ арка13",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -69,15 +72,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка13.jpg"
       }
     ],
-    "description": "арка13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка13. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 5,
-    "title": "арка14",
+    "title": "Арка ПВХ арка14",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -88,15 +92,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка14.jpg"
       }
     ],
-    "description": "арка14. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка14. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 6,
-    "title": "арка3",
+    "title": "Арка ПВХ арка3",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -107,15 +112,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка3.jpg"
       }
     ],
-    "description": "арка3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка3. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 7,
-    "title": "арка4",
+    "title": "Арка ПВХ арка4",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -126,15 +132,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка4.jpg"
       }
     ],
-    "description": "арка4. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка4. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 8,
-    "title": "арка5",
+    "title": "Арка ПВХ арка5",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -145,15 +152,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка5.jpg"
       }
     ],
-    "description": "арка5. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка5. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 9,
-    "title": "арка6",
+    "title": "Арка ПВХ арка6",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -164,15 +172,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка6.jpg"
       }
     ],
-    "description": "арка6. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка6. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 10,
-    "title": "арка7",
+    "title": "Арка ПВХ арка7",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -183,15 +192,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка7.jpg"
       }
     ],
-    "description": "арка7. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка7. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 11,
-    "title": "арка8",
+    "title": "Арка ПВХ арка8",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -202,15 +212,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка8.jpg"
       }
     ],
-    "description": "арка8. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка8. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 12,
-    "title": "арка9",
+    "title": "Арка ПВХ арка9",
     "category": "Арки и Порталы",
     "material": "Фурнитура и аксессуары",
     "price": 0,
@@ -221,15 +232,16 @@ const products = [
         "image": "image/Арки и Порталы/Браво ПВХ/арка9.jpg"
       }
     ],
-    "description": "арка9. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Арка ПВХ арка9. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Арки и Порталы",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 13,
-    "title": "Born M22 Out Bukle",
+    "title": "Born M22 Out Bukle Chernoe",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -240,15 +252,16 @@ const products = [
         "image": "image/Входные двери/Born/born-m22-out-bukle-chernoe-228x228.jpg"
       }
     ],
-    "description": "Born M22 Out Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Born M22 Out Bukle Chernoe. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 14,
-    "title": "Born117M22",
+    "title": "Born117m22bianco",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -267,15 +280,16 @@ const products = [
         "image": "image/Входные двери/Born/Born117M22Wengeveralinga-228x228.jpg"
       }
     ],
-    "description": "Born117M22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Born117m22bianco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 15,
-    "title": "Bravo Aura Kale Shagren",
+    "title": "Bravo Aura Kale Shagren Belaya",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -286,15 +300,16 @@ const products = [
         "image": "image/Входные двери/BravoAura/bravo-aura-kale-shagren-belaya-228x228.jpg"
       }
     ],
-    "description": "Bravo Aura Kale Shagren. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo Aura Kale Shagren Belaya. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 16,
-    "title": "Bravo Born Bukle",
+    "title": "Bravo Born Bukle Chernoe",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -305,15 +320,16 @@ const products = [
         "image": "image/Входные двери/Born/bravo-born-bukle-chernoe-228x228.jpg"
       }
     ],
-    "description": "Bravo Born Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo Born Bukle Chernoe. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 17,
-    "title": "Bravo Graffiti 5",
+    "title": "Bravo Graffiti 5 Super White",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -324,15 +340,16 @@ const products = [
         "image": "image/Входные двери/bravograffiti/bravo-graffiti-5-super-white-228x228.jpg"
       }
     ],
-    "description": "Bravo Graffiti 5. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo Graffiti 5 Super White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 18,
-    "title": "Bravo Graffiti 5 Bukle",
+    "title": "Bravo Graffiti 5 Bukle Chernoelook Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -351,15 +368,16 @@ const products = [
         "image": "image/Входные двери/bravograffiti/bravo-graffiti-5-bukle-snow-Art-228x228.jpg"
       }
     ],
-    "description": "Bravo Graffiti 5 Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo Graffiti 5 Bukle Chernoelook Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 19,
-    "title": "Bravo N 3 Matriks Total",
+    "title": "Bravo N 3 Matriks Total Black Off White R Lunnyj Kamen 228x2",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -370,15 +388,16 @@ const products = [
         "image": "image/Входные двери/bravon3/bravo-n-3-matriks-total-black-off-white-r-lunnyj-kamen-228x2.jpg"
       }
     ],
-    "description": "Bravo N 3 Matriks Total. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo N 3 Matriks Total Black Off White R Lunnyj Kamen 228x2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 20,
-    "title": "Bravo R 3 Dzhet Total",
+    "title": "Bravo R 3 Dzhet Total Black Lunnyj Kamen",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -389,15 +408,16 @@ const products = [
         "image": "image/Входные двери/BravoR3/bravo-r-3-dzhet-total-black-lunnyj-kamen-228x228.jpg"
       }
     ],
-    "description": "Bravo R 3 Dzhet Total. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo R 3 Dzhet Total Black Lunnyj Kamen. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 21,
-    "title": "Bravo Tehno Bukle",
+    "title": "Bravo Tehno Bukle Chernoe",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -412,15 +432,16 @@ const products = [
         "image": "image/Входные двери/bravotehno/bravo-tehno-bukle-chernoe-snow-melinga-228x228.jpg"
       }
     ],
-    "description": "Bravo Tehno Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo Tehno Bukle Chernoe. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 22,
-    "title": "Bravo Z 2 Ejr 101 73 Out",
+    "title": "Bravo Z 2 Ejr 101 73 Out White Shell R Shelk Chernyj Rbe 228",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -431,15 +452,16 @@ const products = [
         "image": "image/Входные двери/BravoZ2/bravo-z-2-ejr-101-73-out-white-shell-r-shelk-chernyj-rbe-228.jpg"
       }
     ],
-    "description": "Bravo Z 2 Ejr 101 73 Out. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo Z 2 Ejr 101 73 Out White Shell R Shelk Chernyj Rbe 228. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 23,
-    "title": "Citikale",
+    "title": "Citikalenordic",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -458,10 +480,11 @@ const products = [
         "image": "image/Входные двери/Citi/CitiKaleRiviera-228x228.jpg"
       }
     ],
-    "description": "Citikale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Citikalenordic. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -477,10 +500,11 @@ const products = [
         "image": "image/Входные двери/Ckevnrirolya/ckevnrirolya-228x228.jpg"
       }
     ],
-    "description": "Ckevnrirolya. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ckevnrirolya. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -496,10 +520,11 @@ const products = [
         "image": "image/Входные двери/d2/d2-228x228.jpg"
       }
     ],
-    "description": "D2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "D2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -515,10 +540,11 @@ const products = [
         "image": "image/Входные двери/d2/d3-228x228.jpg"
       }
     ],
-    "description": "D3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "D3. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -534,15 +560,16 @@ const products = [
         "image": "image/Входные двери/dm/dm-door-out-101-3-160-antik-med-228x228.jpg"
       }
     ],
-    "description": "Dm Door Out 101 3 160 Antik Med. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dm Door Out 101 3 160 Antik Med. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 28,
-    "title": "Dm Optim Modern P 28 Temnaya",
+    "title": "Dm Optim Modern P 28 Temnaya Vishnya Z 2 92 Lunnyj Kamen 228",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -553,15 +580,16 @@ const products = [
         "image": "image/Входные двери/dm/dm-optim-modern-p-28-temnaya-vishnya-z-2-92-lunnyj-kamen-228.jpg"
       }
     ],
-    "description": "Dm Optim Modern P 28 Temnaya. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dm Optim Modern P 28 Temnaya Vishnya Z 2 92 Lunnyj Kamen 228. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 29,
-    "title": "Dm Optim Prajm P 28",
+    "title": "Dm Optim Prajm P 28 Venge",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -572,10 +600,11 @@ const products = [
         "image": "image/Входные двери/dm/dm-optim-prajm-p-28-venge-228x228.jpg"
       }
     ],
-    "description": "Dm Optim Prajm P 28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dm Optim Prajm P 28 Venge. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -591,15 +620,16 @@ const products = [
         "image": "image/Входные двери/dm/dm-optim-prajm-p-28-kapuchino-228x228.jpg"
       }
     ],
-    "description": "Dm Optim Prajm P 28 Kapuchino. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dm Optim Prajm P 28 Kapuchino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 31,
-    "title": "Dm Optim Urban P 28 Temnaya",
+    "title": "Dm Optim Urban P 28 Temnaya Vishnya Z 2 92 Lunnyj Kamen 228x",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -610,10 +640,11 @@ const products = [
         "image": "image/Входные двери/dm/dm-optim-urban-p-28-temnaya-vishnya-z-2-92-lunnyj-kamen-228x.jpg"
       }
     ],
-    "description": "Dm Optim Urban P 28 Temnaya. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dm Optim Urban P 28 Temnaya Vishnya Z 2 92 Lunnyj Kamen 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -629,10 +660,11 @@ const products = [
         "image": "image/Входные двери/dm/dm-optim2-228x228.jpg"
       }
     ],
-    "description": "Dm Optim2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dm Optim2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -648,15 +680,16 @@ const products = [
         "image": "image/Входные двери/dm/dm-optim3-228x228.jpg"
       }
     ],
-    "description": "Dm Optim3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dm Optim3. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 34,
-    "title": "Dm Termo 222 Z 2 110 Antik",
+    "title": "Dm Termo 222 Z 2 110 Antik Serebro Muar Chernyj",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -667,15 +700,16 @@ const products = [
         "image": "image/Входные двери/dm/dm-termo-222-z-2-110-antik-serebro-muar-chernyj-228x228.jpg"
       }
     ],
-    "description": "Dm Termo 222 Z 2 110 Antik. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dm Termo 222 Z 2 110 Antik Serebro Muar Chernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 35,
-    "title": "Ds Porta S 3 4 L22",
+    "title": "Ds Porta S 3 4 L22 Graphite Pro Ww Lunnyj Kamen",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -686,15 +720,16 @@ const products = [
         "image": "image/Входные двери/DsPorta/ds-porta-s-3-4-l22-graphite-pro-ww-lunnyj-kamen-228x228.jpg"
       }
     ],
-    "description": "Ds Porta S 3 4 L22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds Porta S 3 4 L22 Graphite Pro Ww Lunnyj Kamen. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 36,
-    "title": "Ds Porta S 3 4 P50",
+    "title": "Ds Porta S 3 4 P50 Graphite Pro Ab 6 Lunnyj Kamen",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -705,15 +740,16 @@ const products = [
         "image": "image/Входные двери/DsPorta/ds-porta-s-3-4-p50-graphite-pro-ab-6-lunnyj-kamen-228x228.jpg"
       }
     ],
-    "description": "Ds Porta S 3 4 P50. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds Porta S 3 4 P50 Graphite Pro Ab 6 Lunnyj Kamen. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 37,
-    "title": "Ds Porta S 3 4P22 Almon 28",
+    "title": "Ds Porta S 3 4p22 Almon 28 Lunnyj Kamen 3",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -724,10 +760,11 @@ const products = [
         "image": "image/Входные двери/DsPorta/ds-porta-s-3-4p22-almon-28-lunnyj-kamen_3-228x228.jpg"
       }
     ],
-    "description": "Ds Porta S 3 4P22 Almon 28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds Porta S 3 4p22 Almon 28 Lunnyj Kamen 3. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -743,15 +780,16 @@ const products = [
         "image": "image/Входные двери/DsPorta/ds-porta-s-3-55-552-228x228.jpg"
       }
     ],
-    "description": "Ds Porta S 3 55 552. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds Porta S 3 55 552. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 39,
-    "title": "Dver Vhodnaya Bravo N 3 Lajner 3 33 G5 Total",
+    "title": "Dver Vhodnaya Bravo N 3 Lajner 3 33 G5 Total Black Imb 1 Lun",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -762,15 +800,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravon3/dver-vhodnaya-bravo-n-3-lajner-3-33-g5-total-black-imb-1-lun.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo N 3 Lajner 3 33 G5 Total. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo N 3 Lajner 3 33 G5 Total Black Imb 1 Lun. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 40,
-    "title": "Dver Vhodnaya Bravo R 2 Aura",
+    "title": "Dver Vhodnaya Bravo R 2 Aura Sblack 104 B0 21 Out Shagren Be",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -781,15 +820,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-aura-sblack-104-b0-21-out-shagren-be.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Aura. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Aura Sblack 104 B0 21 Out Shagren Be. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 41,
-    "title": "Dver Vhodnaya Bravo R 2 Born",
+    "title": "Dver Vhodnaya Bravo R 2 Bornsblack 117 M22 Out Bukle Chernoe",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -812,15 +852,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-bornsblack-117-m22-out-bukle-chernoe.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Born. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Bornsblack 117 M22 Out Bukle Chernoe. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 42,
-    "title": "Dver Vhodnaya Bravo R 2 Flesh Mf",
+    "title": "Dver Vhodnaya Bravo R 2 Flesh Mf Sblack 151 B15 Out Bukle Ch",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -831,15 +872,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-flesh-mf-sblack-151-b15-out-bukle-ch.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Flesh Mf. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Flesh Mf Sblack 151 B15 Out Bukle Ch. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 43,
-    "title": "Dver Vhodnaya Bravo R 2 Flesh Mf B",
+    "title": "Dver Vhodnaya Bravo R 2 Flesh Mf Bchrome 151 B15 Out Bukle C",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -854,10 +896,11 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-flesh-mf-bchrome-151-b15-out-bukle-c.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Flesh Mf B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Flesh Mf Bchrome 151 B15 Out Bukle C. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -873,15 +916,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-graffiti-1-228x228.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Graffiti 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Graffiti 1. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 45,
-    "title": "Dver Vhodnaya Bravo R 2 Graffiti 5",
+    "title": "Dver Vhodnaya Bravo R 2 Graffiti 5 Sblack 115 G5 Out Bukle C",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -900,15 +944,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-graffiti-5-sblack-115-g5-out-bukle-c.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Graffiti 5. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Graffiti 5 Sblack 115 G5 Out Bukle C. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 46,
-    "title": "Dver Vhodnaya Bravo R 2 Lajn B",
+    "title": "Dver Vhodnaya Bravo R 2 Lajn Bchrome 104 B0 Out Bukle Cherno",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -919,15 +964,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-lajn-bchrome-104-b0-out-bukle-cherno.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Lajn B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Lajn Bchrome 104 B0 Out Bukle Cherno. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 47,
-    "title": "Dver Vhodnaya Bravo R 2 Lyubo Mini B",
+    "title": "Dver Vhodnaya Bravo R 2 Lyubo Mini Bchrome 119 52 Out Antik",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -938,15 +984,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-lyubo-mini-bchrome-119-52-out-antik-.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Lyubo Mini B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Lyubo Mini Bchrome 119 52 Out Antik. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 48,
-    "title": "Dver Vhodnaya Bravo R 2 Milo Mf B",
+    "title": "Dver Vhodnaya Bravo R 2 Milo Mf Bchrome 151 52 Out Bukle Che",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -961,15 +1008,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-milo-mf-bchrome-151-52-out-bukle-che.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Milo Mf B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Milo Mf Bchrome 151 52 Out Bukle Che. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 49,
-    "title": "Dver Vhodnaya Bravo R 2 Nekst Mf",
+    "title": "Dver Vhodnaya Bravo R 2 Nekst Mf Sblack 152 P2 Out Bukle Che",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -980,15 +1028,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-nekst-mf-sblack-152-p2-out-bukle-che.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Nekst Mf. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Nekst Mf Sblack 152 P2 Out Bukle Che. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 50,
-    "title": "Dver Vhodnaya Bravo R 2 Nekst Mfb",
+    "title": "Dver Vhodnaya Bravo R 2 Nekst Mfb Chrome 152 P2 Out Bukle Ch",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -999,15 +1048,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-nekst-mfb-chrome-152-p2-out-bukle-ch.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Nekst Mfb. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Nekst Mfb Chrome 152 P2 Out Bukle Ch. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 51,
-    "title": "Dver Vhodnaya Bravo R 2 Syut Mf",
+    "title": "Dver Vhodnaya Bravo R 2 Syut Mf Sblack 151 P10 Out Bukle Che",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1018,15 +1068,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-syut-mf-sblack-151-p10-out-bukle-che.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Syut Mf. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Syut Mf Sblack 151 P10 Out Bukle Che. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 52,
-    "title": "Dver Vhodnaya Bravo R 2 Tehno",
+    "title": "Dver Vhodnaya Bravo R 2 Tehno Sblack 104 B22 Out Bukle Chern",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1041,15 +1092,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-tehno-sblack-104-b22-out-stark-antra.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Tehno. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Tehno Sblack 104 B22 Out Bukle Chern. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 53,
-    "title": "Dver Vhodnaya Bravo R 2 Tehno B",
+    "title": "Dver Vhodnaya Bravo R 2 Tehno Bchrome 104 B22 Out Bukle Cher",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1068,15 +1120,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-bravo-r-2-tehno-bchrome-104-b22-out-bukle-cher.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 2 Tehno B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 2 Tehno Bchrome 104 B22 Out Bukle Cher. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 54,
-    "title": "Dver Vhodnaya Bravo R 3 Ajkon",
+    "title": "Dver Vhodnaya Bravo R 3 Ajkon Sblack 90 P10 Out Graphite She",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1087,15 +1140,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-ajkon-sblack-90-p10-out-graphite-she.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Ajkon. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Ajkon Sblack 90 P10 Out Graphite She. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 55,
-    "title": "Dver Vhodnaya Bravo R 3 Dzhentl",
+    "title": "Dver Vhodnaya Bravo R 3 Dzhentl Sblack 32 B0 10 Out Black Sh",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1106,15 +1160,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-dzhentl-sblack-32-b0-10-out-black-sh.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Dzhentl. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Dzhentl Sblack 32 B0 10 Out Black Sh. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 56,
-    "title": "Dver Vhodnaya Bravo R 3 Evo",
+    "title": "Dver Vhodnaya Bravo R 3 Evo Sblack 33 0 V11 Out Black Shell",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1125,15 +1180,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-evo-sblack-33-0-v11-out-black-shell-.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Evo. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Evo Sblack 33 0 V11 Out Black Shell. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 57,
-    "title": "Dver Vhodnaya Bravo R 3 Flet",
+    "title": "Dver Vhodnaya Bravo R 3 Flet Sblack 4 B15 Out Black Shell Lu",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1144,15 +1200,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-flet-sblack-4-b15-out-black-shell-lu.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Flet. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Flet Sblack 4 B15 Out Black Shell Lu. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 58,
-    "title": "Dver Vhodnaya Bravo R 3 Flet B",
+    "title": "Dver Vhodnaya Bravo R 3 Flet Bchrome 4 B15 Out Almon Lunnyj",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1167,15 +1224,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-flet-bchrome-4-b15-out-almon-lunnyj-.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Flet B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Flet Bchrome 4 B15 Out Almon Lunnyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 59,
-    "title": "Dver Vhodnaya Bravo R 3 Form B",
+    "title": "Dver Vhodnaya Bravo R 3 Form Bchrome 63 P1 Out Almon Lunnyj",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1190,15 +1248,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-form-bchrome-63-p1-out-almon-lunnyj-.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Form B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Form Bchrome 63 P1 Out Almon Lunnyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 60,
-    "title": "Dver Vhodnaya Bravo R 3 Fort B",
+    "title": "Dver Vhodnaya Bravo R 3 Fort Bchrome 65 65 Out Almon Lunnyj",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1209,15 +1268,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-fort-bchrome-65-65-out-almon-lunnyj-.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Fort B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Fort Bchrome 65 65 Out Almon Lunnyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 61,
-    "title": "Dver Vhodnaya Bravo R 3 Graffiti 32",
+    "title": "Dver Vhodnaya Bravo R 3 Graffiti 32 Sblack 32 G32 In Black S",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1228,15 +1288,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-graffiti-32-sblack-32-g32-in-black-s.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Graffiti 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Graffiti 32 Sblack 32 G32 In Black S. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 62,
-    "title": "Dver Vhodnaya Bravo R 3 Graffiti 5",
+    "title": "Dver Vhodnaya Bravo R 3 Graffiti 5 Sblack 5 G5 Out Slate Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1247,15 +1308,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-graffiti-5-sblack-5-g5-out-slate-art.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Graffiti 5. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Graffiti 5 Sblack 5 G5 Out Slate Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 63,
-    "title": "Dver Vhodnaya Bravo R 3 Lajner",
+    "title": "Dver Vhodnaya Bravo R 3 Lajner Sblack 33 10 V11 Out Black Ca",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1270,15 +1332,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-lajner-sblack-33-10-v11-out-black-sh.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Lajner. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Lajner Sblack 33 10 V11 Out Black Ca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 64,
-    "title": "Dver Vhodnaya Bravo R 3 Prajm",
+    "title": "Dver Vhodnaya Bravo R 3 Prajm Sblack 4 B22 Out Black Shell L",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1293,15 +1356,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-prajm-sblack-4-b22-out-graphite-shel.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Prajm. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Prajm Sblack 4 B22 Out Black Shell L. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 65,
-    "title": "Dver Vhodnaya Bravo R 3 Prajm B",
+    "title": "Dver Vhodnaya Bravo R 3 Prajm Bchrome 4b 22 Out Almon Lunnyj",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1320,15 +1384,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-prajm-bchrome-4b-22-out-almon-lunnyj.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Prajm B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Prajm Bchrome 4b 22 Out Almon Lunnyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 66,
-    "title": "Dver Vhodnaya Bravo R 3 Vizhn",
+    "title": "Dver Vhodnaya Bravo R 3 Vizhn Sblack 32 V11 Out Black Shell",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1339,15 +1404,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor3/dver-vhodnaya-bravo-r-3-vizhn-sblack-32-v11-out-black-shell-.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo R 3 Vizhn. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo R 3 Vizhn Sblack 32 V11 Out Black Shell. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 67,
-    "title": "Dver Vhodnaya Bravo T 2 Flesh Mf",
+    "title": "Dver Vhodnaya Bravo T 2 Flesh Mf Sblack 151 B15 Out Bukle Ch",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1358,15 +1424,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoT2/dver-vhodnaya-bravo-t-2-flesh-mf-sblack-151-b15-out-bukle-ch.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo T 2 Flesh Mf. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo T 2 Flesh Mf Sblack 151 B15 Out Bukle Ch. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 68,
-    "title": "Dver Vhodnaya Bravo T 2 Flesh Mf B",
+    "title": "Dver Vhodnaya Bravo T 2 Flesh Mf Bchrome 151 B15 Out Bukle C",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1381,15 +1448,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoT2/dver-vhodnaya-bravo-t-2-flesh-mf-bchrome-151-b15-out-bukle-c.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo T 2 Flesh Mf B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo T 2 Flesh Mf Bchrome 151 B15 Out Bukle C. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 69,
-    "title": "Dver Vhodnaya Bravo T 2 Lajn B",
+    "title": "Dver Vhodnaya Bravo T 2 Lajn Bchrome 104 B0 Out Bukle Cherno",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1404,15 +1472,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoT2/dver-vhodnaya-bravo-t-2-lajn-bchrome-104-b0-out-bukle-cherno.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo T 2 Lajn B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo T 2 Lajn Bchrome 104 B0 Out Bukle Cherno. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 70,
-    "title": "Dver Vhodnaya Bravo T 2 Nekst Mf",
+    "title": "Dver Vhodnaya Bravo T 2 Nekst Mf Sblack 152 P2 Out Stark Ant",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1427,15 +1496,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoT2/dver-vhodnaya-bravo-t-2-nekst-mf-sblack-152-p2-out-stark-sho.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo T 2 Nekst Mf. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo T 2 Nekst Mf Sblack 152 P2 Out Stark Ant. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 71,
-    "title": "Dver Vhodnaya Bravo T 2 Tehno D2",
+    "title": "Dver Vhodnaya Bravo T 2 Tehno D2 Sblack 122 B22 Out Bukle Ch",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1446,15 +1516,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoT2/dver-vhodnaya-bravo-t-2-tehno-d2-sblack-122-b22-out-bukle-ch.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo T 2 Tehno D2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo T 2 Tehno D2 Sblack 122 B22 Out Bukle Ch. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 72,
-    "title": "Dver Vhodnaya Bravo T 2 Tehno D2 B",
+    "title": "Dver Vhodnaya Bravo T 2 Tehno D2 Bchrome 122 B22 Out Bukle C",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1469,15 +1540,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoT2/dver-vhodnaya-bravo-t-2-tehno-d2-bchrome-122-b22-out-bukle-c.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo T 2 Tehno D2 B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo T 2 Tehno D2 Bchrome 122 B22 Out Bukle C. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 73,
-    "title": "Dver Vhodnaya Bravo T 4 Shell Sd",
+    "title": "Dver Vhodnaya Bravo T 4 Shell Sd Sblack 251 Out Stark Antrac",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1488,15 +1560,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoT4/dver-vhodnaya-bravo-t-4-shell-sd-sblack-251-out-stark-antrac.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo T 4 Shell Sd. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo T 4 Shell Sd Sblack 251 Out Stark Antrac. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 74,
-    "title": "Dver Vhodnaya Bravo T 4 Shelter Sdr",
+    "title": "Dver Vhodnaya Bravo T 4 Shelter Sdr Sblack 252 Out Stark Sho",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1507,15 +1580,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoT4/dver-vhodnaya-bravo-t-4-shelter-sdr-sblack-252-out-stark-sho.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo T 4 Shelter Sdr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo T 4 Shelter Sdr Sblack 252 Out Stark Sho. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 75,
-    "title": "Dver Vhodnaya Bravo Z 2 Grid 114 L22 Out Bukle",
+    "title": "Dver Vhodnaya Bravo Z 2 Grid 114 L22 Out Bukle Chernoe Rbe 2",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1526,15 +1600,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoz2/dver-vhodnaya-bravo-z-2-grid-114-l22-out-bukle-chernoe-rbe-2.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo Z 2 Grid 114 L22 Out Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo Z 2 Grid 114 L22 Out Bukle Chernoe Rbe 2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 76,
-    "title": "Dver Vhodnaya Bravo Z 3 Glori 4 72 Out Pecan Bukle",
+    "title": "Dver Vhodnaya Bravo Z 3 Glori 4 72 Out Pecan Bukle Chernoe B",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1549,15 +1624,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoZ3/dver-vhodnaya-bravo-z-3-glori-4-72-out-pecan-bukle-chernoe-k.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo Z 3 Glori 4 72 Out Pecan Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo Z 3 Glori 4 72 Out Pecan Bukle Chernoe B. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 77,
-    "title": "Dver Vhodnaya Bravo Z 3 Graffiti 5 5 5 G5 Out",
+    "title": "Dver Vhodnaya Bravo Z 3 Graffiti 5 5 5 G5 Out Slate Art Bukl",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1568,15 +1644,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoZ3/dver-vhodnaya-bravo-z-3-graffiti-5-5-5-g5-out-slate-art-bukl.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo Z 3 Graffiti 5 5 5 G5 Out. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo Z 3 Graffiti 5 5 5 G5 Out Slate Art Bukl. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 78,
-    "title": "Dver Vhodnaya Bravo Z 3 Rajt 4 L22 Out Pecan Bukle",
+    "title": "Dver Vhodnaya Bravo Z 3 Rajt 4 L22 Out Pecan Bukle Chernoe R",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1587,15 +1664,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoZ3/dver-vhodnaya-bravo-z-3-rajt-4-l22-out-pecan-bukle-chernoe-r.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo Z 3 Rajt 4 L22 Out Pecan Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo Z 3 Rajt 4 L22 Out Pecan Bukle Chernoe R. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 79,
-    "title": "Dver Vhodnaya Bravo Z Envi Bukle",
+    "title": "Dver Vhodnaya Bravo Z Envi Bukle Chernoe Cappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1606,10 +1684,11 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoZ/dver-vhodnaya-bravo-z-envi-bukle-chernoe-cappuccino-228x228.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Bravo Z Envi Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Bravo Z Envi Bukle Chernoe Cappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -1625,10 +1704,11 @@ const products = [
         "image": "image/Входные двери/Optim/dver-vhodnaya-optim-tajga-9-2-out-zerkalo-antik-serebryannyj.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Optim Tajga 9 2 Out Zerkalo Antik Serebryannyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Optim Tajga 9 2 Out Zerkalo Antik Serebryannyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -1644,10 +1724,11 @@ const products = [
         "image": "image/Входные двери/Optim/dver-vhodnaya-optim-tajga-9-out-carga-antik-serebryannyj-228.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Optim Tajga 9 Out Carga Antik Serebryannyj 228. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Optim Tajga 9 Out Carga Antik Serebryannyj 228. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -1667,10 +1748,11 @@ const products = [
         "image": "image/Входные двери/Optim/dver-vhodnaya-optim-x-2-6-sm-out-antik-mednyj-bezh-228x228.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Optim X 2 6 Sm Out Antik Mednyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Optim X 2 6 Sm Out Antik Mednyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -1686,15 +1768,16 @@ const products = [
         "image": "image/Входные двери/Optim/dver-vhodnaya-optim-x-2-7-sm-out-antik-mednyj-228x228.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Optim X 2 7 Sm Out Antik Mednyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Optim X 2 7 Sm Out Antik Mednyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 84,
-    "title": "Dver Vhodnaya Optim Z 2 9 Sm Klassika Out Bukle Grafit",
+    "title": "Dver Vhodnaya Optim Z 2 9 Sm Klassika Out Bukle Grafit 228x2",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1705,15 +1788,16 @@ const products = [
         "image": "image/Входные двери/Optim/dver-vhodnaya-optim-z-2-9-sm-klassika-out-bukle-grafit-228x2.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Optim Z 2 9 Sm Klassika Out Bukle Grafit. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Optim Z 2 9 Sm Klassika Out Bukle Grafit 228x2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 85,
-    "title": "Dver Vhodnaya Optim Z 2 9 Sm Neo Out Muar",
+    "title": "Dver Vhodnaya Optim Z 2 9 Sm Neo Out Muar Chernyj",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1728,15 +1812,16 @@ const products = [
         "image": "image/Входные двери/Optim/dver-vhodnaya-optim-z-2-9-sm-neo-out-muar-chernyj-white-silk.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Optim Z 2 9 Sm Neo Out Muar. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Optim Z 2 9 Sm Neo Out Muar Chernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 86,
-    "title": "Dver Vhodnaya Optim Z 2 9 Sm Vertikal Out Muar",
+    "title": "Dver Vhodnaya Optim Z 2 9 Sm Vertikal Out Muar Chernyj Greck",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1747,15 +1832,16 @@ const products = [
         "image": "image/Входные двери/Optim/dver-vhodnaya-optim-z-2-9-sm-vertikal-out-muar-chernyj-greck.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Optim Z 2 9 Sm Vertikal Out Muar. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Optim Z 2 9 Sm Vertikal Out Muar Chernyj Greck. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 87,
-    "title": "Dver Vhodnaya Optim Z 3 10 Sm Out Grafit Bukle Grafit",
+    "title": "Dver Vhodnaya Optim Z 3 10 Sm Out Grafit Bukle Grafit 228x22",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1766,15 +1852,16 @@ const products = [
         "image": "image/Входные двери/Optim/dver-vhodnaya-optim-z-3-10-sm-out-grafit-bukle-grafit-228x22.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Optim Z 3 10 Sm Out Grafit Bukle Grafit. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Optim Z 3 10 Sm Out Grafit Bukle Grafit 228x22. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 88,
-    "title": "Dver Vhodnaya Vn Bravo R 2 Graffiti 1 Insajd",
+    "title": "Dver Vhodnaya Vn Bravo R 2 Graffiti 1 Insajd Sblack 104 G1 O",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1793,15 +1880,16 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravor2/dver-vhodnaya-vn-bravo-r-2-graffiti-1-insajd-sblack-104-g1-o.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Vn Bravo R 2 Graffiti 1 Insajd. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Vn Bravo R 2 Graffiti 1 Insajd Sblack 104 G1 O. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 89,
-    "title": "Dver Vhodnaya Z 2 Trend",
+    "title": "Dver Vhodnaya Z 2 Trend Sblack 332 G32 Out Bukle Chernoe 228",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1812,10 +1900,11 @@ const products = [
         "image": "image/Входные двери/dvervhodnayaBravoz2/dver-vhodnaya-z-2-trend-sblack-332-g32-out-bukle-chernoe-228.jpg"
       }
     ],
-    "description": "Dver Vhodnaya Z 2 Trend. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Vhodnaya Z 2 Trend Sblack 332 G32 Out Bukle Chernoe 228. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -1831,10 +1920,11 @@ const products = [
         "image": "image/Входные двери/ecnvrschir01/ecnvrschir01-228x228.jpg"
       }
     ],
-    "description": "Ecnvrschir01. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ecnvrschir01. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -1850,15 +1940,16 @@ const products = [
         "image": "image/Входные двери/evnsgoviich/evnsgoviich-228x228.jpg"
       }
     ],
-    "description": "Evnsgoviich. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Evnsgoviich. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 92,
-    "title": "Flesh",
+    "title": "Flesh Off White",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1873,15 +1964,16 @@ const products = [
         "image": "image/Входные двери/FlashWenge/FleshWenge-228x228.jpg"
       }
     ],
-    "description": "Flesh. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Flesh Off White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 93,
-    "title": "Flesh Bukle",
+    "title": "Flesh Bukle Chernoe Snow Melinga",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1892,15 +1984,16 @@ const products = [
         "image": "image/Входные двери/Flash/flesh-bukle-chernoe-snow-melinga-228x228.jpg"
       }
     ],
-    "description": "Flesh Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Flesh Bukle Chernoe Snow Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 94,
-    "title": "Flesh Kale Shagren",
+    "title": "Flesh Kale Shagren Belaya",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1911,15 +2004,16 @@ const products = [
         "image": "image/Входные двери/Flashkale/flesh-kale-shagren-belaya-228x228.jpg"
       }
     ],
-    "description": "Flesh Kale Shagren. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Flesh Kale Shagren Belaya. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 95,
-    "title": "Flesh119",
+    "title": "Flesh119 Bianco Veralinga",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1934,15 +2028,16 @@ const products = [
         "image": "image/Входные двери/Flash119/Flesh119CappuccinoVeralinga1-228x228.jpg"
       }
     ],
-    "description": "Flesh119. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Flesh119 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 96,
-    "title": "Fleshdekor",
+    "title": "Fleshdekorvenge",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -1953,10 +2048,11 @@ const products = [
         "image": "image/Входные двери/Flash/fleshdekorvenge-228x228.jpg"
       }
     ],
-    "description": "Fleshdekor. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Fleshdekorvenge. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -1972,15 +2068,16 @@ const products = [
         "image": "image/Входные двери/Flashkale/Fleshkale-228x228.jpg"
       }
     ],
-    "description": "Fleshkale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Fleshkale. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 98,
-    "title": "Flet",
+    "title": "Fletbianco",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2003,15 +2100,16 @@ const products = [
         "image": "image/Входные двери/Flet/FletWenge-228x228.jpg"
       }
     ],
-    "description": "Flet. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Fletbianco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 99,
-    "title": "Form Kale",
+    "title": "Form Kalewenge",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2022,15 +2120,16 @@ const products = [
         "image": "image/Входные двери/From/form-kalewenge-228x228.jpg"
       }
     ],
-    "description": "Form Kale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Form Kalewenge. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 100,
-    "title": "Formkale",
+    "title": "Formkalebianco",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2045,10 +2144,11 @@ const products = [
         "image": "image/Входные двери/From/FormKalecappuccino-228x228.jpg"
       }
     ],
-    "description": "Formkale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Formkalebianco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2064,15 +2164,16 @@ const products = [
         "image": "image/Входные двери/Fort/fort-kale-228x228.jpg"
       }
     ],
-    "description": "Fort Kale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Fort Kale. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 102,
-    "title": "Glori",
+    "title": "Gloricappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2087,15 +2188,16 @@ const products = [
         "image": "image/Входные двери/Glori/GloriWengeVer-228x228.jpg"
       }
     ],
-    "description": "Glori. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Gloricappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 103,
-    "title": "Graffiti 1",
+    "title": "Graffiti 1 Slate Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2114,15 +2216,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/Graffiti-1Snowart-228x228.jpg"
       }
     ],
-    "description": "Graffiti 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 1 Slate Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 104,
-    "title": "Graffiti 1 Insajd",
+    "title": "Graffiti 1 Insajd Slate Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2145,15 +2248,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/graffiti-1-insajdSnowArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti 1 Insajd. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 1 Insajd Slate Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 105,
-    "title": "Graffiti 1 Insajdlookart",
+    "title": "Graffiti 1 Insajd Look Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2164,15 +2268,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/graffiti-1-insajdLookArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti 1 Insajdlookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 1 Insajd Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 106,
-    "title": "Graffiti 1 Insajdlookart — Копия",
+    "title": "Graffiti 1 Insajd Look Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2183,15 +2288,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/graffiti-1-insajdLookArt-228x228 — копия.jpg"
       }
     ],
-    "description": "Graffiti 1 Insajdlookart — Копия. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 1 Insajd Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 107,
-    "title": "Graffiti 32 Total",
+    "title": "Graffiti 32 Total Black Super White",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2202,15 +2308,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/graffiti-32-total-black-super-white-228x228.jpg"
       }
     ],
-    "description": "Graffiti 32 Total. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 32 Total Black Super White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 108,
-    "title": "Graffiti 5",
+    "title": "Graffiti 5slate",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2225,10 +2332,11 @@ const products = [
         "image": "image/Входные двери/Graffiti/Graffiti-5Snow-228x228.jpg"
       }
     ],
-    "description": "Graffiti 5. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 5slate. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2244,15 +2352,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/graffiti-5-5-kale-228x228.jpg"
       }
     ],
-    "description": "Graffiti 5 5 Kale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 5 5 Kale. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 110,
-    "title": "Graffiti1Lookart",
+    "title": "Graffiti1 Look Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2263,15 +2372,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/Graffiti1LookArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti1Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti1 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 111,
-    "title": "Graffiti1Lookart — Копия",
+    "title": "Graffiti1 Look Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2282,15 +2392,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/Graffiti1LookArt-228x228 — копия.jpg"
       }
     ],
-    "description": "Graffiti1Lookart — Копия. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti1 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 112,
-    "title": "Graffiti5Lookart",
+    "title": "Graffiti5 Look Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2301,15 +2412,16 @@ const products = [
         "image": "image/Входные двери/Graffiti/Graffiti5LookArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti5Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti5 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 113,
-    "title": "Kyub",
+    "title": "Kyub Slate Art Lunnyj Kamen",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2320,15 +2432,16 @@ const products = [
         "image": "image/Входные двери/Kyub/kyub-slate-art-lunnyj-kamen-228x228.jpg"
       }
     ],
-    "description": "Kyub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Kyub Slate Art Lunnyj Kamen. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 114,
-    "title": "Kyub Total",
+    "title": "Kyub Total Black Lunnyj Kamen",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2339,15 +2452,16 @@ const products = [
         "image": "image/Входные двери/Kyub/kyub-total-black-lunnyj-kamen-228x228.jpg"
       }
     ],
-    "description": "Kyub Total. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Kyub Total Black Lunnyj Kamen. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 115,
-    "title": "Lajn",
+    "title": "Lajncappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2370,15 +2484,16 @@ const products = [
         "image": "image/Входные двери/Lajn/Lajnwenge-228x228.jpg"
       }
     ],
-    "description": "Lajn. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Lajncappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 116,
-    "title": "Lajn Bukle",
+    "title": "Lajn Bukle Chernoe",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2397,15 +2512,16 @@ const products = [
         "image": "image/Входные двери/Lajn/lajn-bukle-chernoe-wenge-228x228.jpg"
       }
     ],
-    "description": "Lajn Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Lajn Bukle Chernoe. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 117,
-    "title": "Lajn104",
+    "title": "Lajn104greyveralinga",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2416,15 +2532,16 @@ const products = [
         "image": "image/Входные двери/Lajn/Lajn104GreyVeralinga-228x228.jpg"
       }
     ],
-    "description": "Lajn104. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Lajn104greyveralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 118,
-    "title": "Lajnbukle",
+    "title": "Lajnbukle Chernoe Look Art",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2439,10 +2556,11 @@ const products = [
         "image": "image/Входные двери/Lajn/lajnbukle-chernoe-slate-art-228x228.jpg"
       }
     ],
-    "description": "Lajnbukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Lajnbukle Chernoe Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2458,15 +2576,16 @@ const products = [
         "image": "image/Входные двери/Lajner/lajner-228x228.jpg"
       }
     ],
-    "description": "Lajner. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Lajner. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 120,
-    "title": "Lajner 3 33 V13 Out",
+    "title": "Lajner 3 33 V13 Out Black Carbon",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2477,10 +2596,11 @@ const products = [
         "image": "image/Входные двери/Lajner/lajner-3-33-v13-out-black-carbon-228x228.jpg"
       }
     ],
-    "description": "Lajner 3 33 V13 Out. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Lajner 3 33 V13 Out Black Carbon. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2496,15 +2616,16 @@ const products = [
         "image": "image/Входные двери/Lyubo/lyubo-mini-antik-mednyj-228x228.jpg"
       }
     ],
-    "description": "Lyubo Mini Antik Mednyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Lyubo Mini Antik Mednyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 122,
-    "title": "Milo104",
+    "title": "Milo104 Bianco Veralinga",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2523,15 +2644,16 @@ const products = [
         "image": "image/Входные двери/Milo/Milo104WengeVeraling-228x228.jpg"
       }
     ],
-    "description": "Milo104. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Milo104 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 123,
-    "title": "Modern",
+    "title": "Modern Bianco",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2550,15 +2672,16 @@ const products = [
         "image": "image/Входные двери/modern/modern-wenge-228x228.jpg"
       }
     ],
-    "description": "Modern. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Modern Bianco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 124,
-    "title": "Modernkale",
+    "title": "Modernkalecappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2577,15 +2700,16 @@ const products = [
         "image": "image/Входные двери/ModernK/ModernKaleWenge-228x228.jpg"
       }
     ],
-    "description": "Modernkale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Modernkalecappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 125,
-    "title": "Nekst Kale Bukle",
+    "title": "Nekst Kale Bukle Chernoe Cappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2596,15 +2720,16 @@ const products = [
         "image": "image/Входные двери/Nekst/nekst-kale-bukle-chernoe-cappuccino-228x228.jpg"
       }
     ],
-    "description": "Nekst Kale Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Nekst Kale Bukle Chernoe Cappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 126,
-    "title": "Nekstkale",
+    "title": "Nekstkalenordic",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2623,10 +2748,11 @@ const products = [
         "image": "image/Входные двери/Nekst/NekstKaleRiviera-228x228.jpg"
       }
     ],
-    "description": "Nekstkale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Nekstkalenordic. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2642,10 +2768,11 @@ const products = [
         "image": "image/Входные двери/Neo/Neocappuccino-228x228.jpg"
       }
     ],
-    "description": "Neocappuccino. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Neocappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2661,15 +2788,16 @@ const products = [
         "image": "image/Входные двери/Neo/NeoVenge-228x228.jpg"
       }
     ],
-    "description": "Neovenge. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Neovenge. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 129,
-    "title": "Optim Lajn",
+    "title": "Optim Lajncappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2684,15 +2812,16 @@ const products = [
         "image": "image/Входные двери/Optim/optim-lajnwenge-228x228.jpg"
       }
     ],
-    "description": "Optim Lajn. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Optim Lajncappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 130,
-    "title": "Pikbukle",
+    "title": "Pik Black Boucle Brown",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2707,15 +2836,16 @@ const products = [
         "image": "image/Входные двери/Pik/PikBukleCHernoeCassablanca-228x228.jpg"
       }
     ],
-    "description": "Pikbukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Pik Black Boucle Brown. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 131,
-    "title": "Portas104 P61",
+    "title": "Portas104 P61 Bianco Veralinga",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2730,15 +2860,16 @@ const products = [
         "image": "image/Входные двери/Porta/PortaS104-P61WengeVeralinga-228x228.jpg"
       }
     ],
-    "description": "Portas104 P61. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Portas104 P61 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 132,
-    "title": "Portas104 P61Antik",
+    "title": "Portas104 P61antikserebro Bianco Veralinga",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2749,15 +2880,16 @@ const products = [
         "image": "image/Входные двери/Porta/PortaS104-P61AntikSerebro_BiancoVeralinga-228x228.jpg"
       }
     ],
-    "description": "Portas104 P61Antik. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Portas104 P61antikserebro Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 133,
-    "title": "Portas104P22",
+    "title": "Portas104p22bianco",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2776,15 +2908,16 @@ const products = [
         "image": "image/Входные двери/Porta/portas104P22wenge-228x228.jpg"
       }
     ],
-    "description": "Portas104P22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Portas104p22bianco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 134,
-    "title": "Portas51 P61 Urban Almon28",
+    "title": "Portas51 P61 Urban Almon 28 Bianco Veralinga",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2803,10 +2936,11 @@ const products = [
         "image": "image/Входные двери/Porta/PortaS51-P61-Urban-Almon28_WengeVeralinga-228x228.jpg"
       }
     ],
-    "description": "Portas51 P61 Urban Almon28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Portas51 P61 Urban Almon 28 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2822,15 +2956,16 @@ const products = [
         "image": "image/Входные двери/Prajd-prajm/prajd-kale-228x228.jpg"
       }
     ],
-    "description": "Prajd Kale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prajd Kale. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 136,
-    "title": "Prajd Total",
+    "title": "Prajd Total Black Snow Melinga",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2841,15 +2976,16 @@ const products = [
         "image": "image/Входные двери/Prajd-prajm/prajd-total-black-snow-melinga-228x228.jpg"
       }
     ],
-    "description": "Prajd Total. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prajd Total Black Snow Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 137,
-    "title": "Prajm",
+    "title": "Prajm Cappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2864,10 +3000,11 @@ const products = [
         "image": "image/Входные двери/Prajd-prajm/prajm-wenge-228x228.jpg"
       }
     ],
-    "description": "Prajm. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prajm Cappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2883,15 +3020,16 @@ const products = [
         "image": "image/Входные двери/Prajd-prajm/prajm-binaco-228x228.jpg"
       }
     ],
-    "description": "Prajm Binaco. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prajm Binaco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 139,
-    "title": "Prajmkale",
+    "title": "Prajmkalebianco",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2910,10 +3048,11 @@ const products = [
         "image": "image/Входные двери/Prajm/PrajmKaleWenge-228x228.jpg"
       }
     ],
-    "description": "Prajmkale. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prajmkalebianco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2929,15 +3068,16 @@ const products = [
         "image": "image/Входные двери/dm/prnovaya-228x228.jpg"
       }
     ],
-    "description": "Prnovaya. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prnovaya. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 141,
-    "title": "Prof",
+    "title": "Profvenge",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -2948,10 +3088,11 @@ const products = [
         "image": "image/Входные двери/Prof/Profvenge-228x228.jpg"
       }
     ],
-    "description": "Prof. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Profvenge. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2967,10 +3108,11 @@ const products = [
         "image": "image/Входные двери/Prof/ProfByanko-228x228.jpg"
       }
     ],
-    "description": "Profbyanko. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Profbyanko. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -2986,15 +3128,16 @@ const products = [
         "image": "image/Входные двери/Prof/ProfKapuchino-228x228.jpg"
       }
     ],
-    "description": "Profkapuchino. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Profkapuchino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 144,
-    "title": "Rajt",
+    "title": "Rajtcappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -3009,10 +3152,11 @@ const products = [
         "image": "image/Входные двери/Rajt/RajtVenge-228x228.jpg"
       }
     ],
-    "description": "Rajt. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Rajtcappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -3028,10 +3172,11 @@ const products = [
         "image": "image/Входные двери/Slate/Slate-228x228.jpg"
       }
     ],
-    "description": "Slate. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Slate. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -3047,15 +3192,16 @@ const products = [
         "image": "image/Входные двери/Sporta/sporta1-228x228.jpg"
       }
     ],
-    "description": "Sporta1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Sporta1. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 147,
-    "title": "Syut Kale Bukle",
+    "title": "Syut Kale Bukle Chernoe",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -3066,10 +3212,11 @@ const products = [
         "image": "image/Входные двери/Syut/syut-kale-bukle-chernoe-228x228.jpg"
       }
     ],
-    "description": "Syut Kale Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Syut Kale Bukle Chernoe. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -3085,15 +3232,16 @@ const products = [
         "image": "image/Входные двери/Tajga/tajga-7-out-antik-serebryannyj-228x228.jpg"
       }
     ],
-    "description": "Tajga 7 Out Antik Serebryannyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Tajga 7 Out Antik Serebryannyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 149,
-    "title": "Tajga 9Vertikalantikserebryanij Belij",
+    "title": "Tajga 9vertikalantikserebryanij Belij",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -3104,15 +3252,16 @@ const products = [
         "image": "image/Входные двери/Tajga/Tajga-9VertikalAntikSerebryanij_Belij-228x228.jpg"
       }
     ],
-    "description": "Tajga 9Vertikalantikserebryanij Belij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Tajga 9vertikalantikserebryanij Belij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 150,
-    "title": "Tajga 9Vertikalantikserebryanij Ser",
+    "title": "Tajga 9vertikalantikserebryanij Ser",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -3123,15 +3272,16 @@ const products = [
         "image": "image/Входные двери/Tajga/Tajga-9VertikalAntikSerebryanij_Ser-228x228.jpg"
       }
     ],
-    "description": "Tajga 9Vertikalantikserebryanij Ser. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Tajga 9vertikalantikserebryanij Ser. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 151,
-    "title": "Tehno",
+    "title": "Tehnobianco",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -3150,15 +3300,16 @@ const products = [
         "image": "image/Входные двери/Tehno/Tehnowenge-228x228.jpg"
       }
     ],
-    "description": "Tehno. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Tehnobianco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 152,
-    "title": "Tehno Bukle",
+    "title": "Tehno Bukle Chernoe Cappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -3173,15 +3324,16 @@ const products = [
         "image": "image/Входные двери/Tehno/tehno-bukle-chernoe-wenge-228x228.jpg"
       }
     ],
-    "description": "Tehno Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Tehno Bukle Chernoe Cappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 153,
-    "title": "Thermo 2 Flesh Dekor 2 Bukle",
+    "title": "Thermo 2 Flesh Dekor 2 Bukle Chernoe Cappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -3192,15 +3344,16 @@ const products = [
         "image": "image/Входные двери/Thermo/thermo-2-flesh-dekor-2-bukle-chernoe-cappuccino-228x228.jpg"
       }
     ],
-    "description": "Thermo 2 Flesh Dekor 2 Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Thermo 2 Flesh Dekor 2 Bukle Chernoe Cappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 154,
-    "title": "Thermo 2 Tehno Dekor 2 Bukle",
+    "title": "Thermo 2 Tehno Dekor 2 Bukle Chernoe Cappuccino",
     "category": "Входные двери",
     "material": "Дверь",
     "price": 0,
@@ -3219,10 +3372,11 @@ const products = [
         "image": "image/Входные двери/Thermo/thermo-2-tehno-dekor-2-bukle-chernoe-wenge-228x228.jpg"
       }
     ],
-    "description": "Thermo 2 Tehno Dekor 2 Bukle. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Thermo 2 Tehno Dekor 2 Bukle Chernoe Cappuccino. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Входные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -3797,7 +3951,7 @@ const products = [
   },
   {
     "id": 185,
-    "title": "20G L 21 Beldub",
+    "title": "Л-21 20g Beldub",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -3808,15 +3962,16 @@ const products = [
         "image": "image/Межкомнатные двери/L21/20g-l-21-beldub-228x228.jpg"
       }
     ],
-    "description": "20G L 21 Beldub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Л-21 20g Beldub. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 186,
-    "title": "22 Stormy",
+    "title": "22 Stormy Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -3827,10 +3982,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/22-stormy-matt-228x228.jpg"
       }
     ],
-    "description": "22 Stormy. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "22 Stormy Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -3911,7 +4067,7 @@ const products = [
   },
   {
     "id": 191,
-    "title": "22H L 21 Beldub",
+    "title": "Л-21 22h Beldub",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -3922,10 +4078,11 @@ const products = [
         "image": "image/Межкомнатные двери/L21/22h-l-21-beldub-228x228.jpg"
       }
     ],
-    "description": "22H L 21 Beldub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Л-21 22h Beldub. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -6153,7 +6310,7 @@ const products = [
   },
   {
     "id": 309,
-    "title": "Alfa 1",
+    "title": "Alfa 1 Casablanca",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6172,15 +6329,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Alfa-1MilanoVero-228x228.jpg"
       }
     ],
-    "description": "Alfa 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Alfa 1 Casablanca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 310,
-    "title": "Alfa 1Darkbarnwood",
+    "title": "Alfa 1 Dark Barnwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6191,15 +6349,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Alfa-1DarkBarnwood-228x228.jpg"
       }
     ],
-    "description": "Alfa 1Darkbarnwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Alfa 1 Dark Barnwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 311,
-    "title": "Alfa 2",
+    "title": "Альфа-2 Casablanca Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6218,15 +6377,16 @@ const products = [
         "image": "image/Межкомнатные двери/Alfa 2/Alfa-2MilanoVeroWhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Alfa 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Альфа-2 Casablanca Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 312,
-    "title": "Alfa 2Darkbarnwood",
+    "title": "Альфа-2 Dark Barnwood Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6237,10 +6397,11 @@ const products = [
         "image": "image/Межкомнатные двери/Alfa 2/Alfa-2DarkBarnwoodWhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Alfa 2Darkbarnwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Альфа-2 Dark Barnwood Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -6378,7 +6539,7 @@ const products = [
   },
   {
     "id": 320,
-    "title": "Bravo 0",
+    "title": "Браво-0 Nordic Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6409,15 +6570,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0Whitey-228x228.jpg"
       }
     ],
-    "description": "Bravo 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Nordic Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "6"
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 321,
-    "title": "Bravo 0 10P",
+    "title": "Браво-0.10.P 10p",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6440,15 +6602,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0-10PWhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Bravo 0 10P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.10.P 10p. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 322,
-    "title": "Bravo 0 21P",
+    "title": "Браво-0.21.P 21p",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6471,15 +6634,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0-21PWhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Bravo 0 21P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.21.P 21p. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 323,
-    "title": "Bravo 0 24P",
+    "title": "Браво-0.24.P 24p",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6502,15 +6666,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0-24PWhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Bravo 0 24P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.24.P 24p. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 324,
-    "title": "Bravo 0 Grace",
+    "title": "Браво-0 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6521,15 +6686,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/bravo-0-grace-228x228.jpg"
       }
     ],
-    "description": "Bravo 0 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 325,
-    "title": "Bravo 0 Original",
+    "title": "Браво-0 Original Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6540,18 +6706,19 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/bravo-0-original-oak-228x228.jpg"
       }
     ],
-    "description": "Bravo 0 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Original Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 326,
-    "title": "Bravo 0 P",
+    "title": "Браво-0.P Grey Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 8070,
     "image": "image/Межкомнатные двери/Bravo 0/bravo-0-p-grey-matt-228x228.jpg",
     "variants": [
       {
@@ -6567,15 +6734,18 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0-PWhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Bravo 0 P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.P Grey Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
-    }
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 327,
-    "title": "Bravo 0Ash",
+    "title": "Браво-0.A Ash White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6586,15 +6756,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0AshWhite-228x228.jpg"
       }
     ],
-    "description": "Bravo 0Ash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.A Ash White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 328,
-    "title": "Bravo 0Ashwood",
+    "title": "Браво-0.A Ash Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6605,15 +6776,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0AshWood-228x228.jpg"
       }
     ],
-    "description": "Bravo 0Ashwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.A Ash Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 329,
-    "title": "Bravo 0Brutbeton",
+    "title": "Браво-0 0brutbeton",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6624,15 +6796,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0BrutBeton-228x228.jpg"
       }
     ],
-    "description": "Bravo 0Brutbeton. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 0brutbeton. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 330,
-    "title": "Bravo 0Grisbeton",
+    "title": "Браво-0 0grisbeton",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6643,15 +6816,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0GrisBeton-228x228.jpg"
       }
     ],
-    "description": "Bravo 0Grisbeton. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 0grisbeton. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 331,
-    "title": "Bravo 0Lookart",
+    "title": "Браво-0 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6662,15 +6836,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo-0Lookart-228x228.jpg"
       }
     ],
-    "description": "Bravo 0Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 332,
-    "title": "Bravo 1 55",
+    "title": "Bravo 1 55 Brown Dreamline",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6689,15 +6864,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/bravo-1-55-white-dreamline-mirox-grey-228x228.jpg"
       }
     ],
-    "description": "Bravo 1 55. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 1 55 Brown Dreamline. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 333,
-    "title": "Bravo 1 55 Mirox",
+    "title": "Bravo 1 55 Mirox Grey Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6716,15 +6892,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/bravo-1-55-mirox-grey-snow-art-228x228.jpg"
       }
     ],
-    "description": "Bravo 1 55 Mirox. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 1 55 Mirox Grey Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 334,
-    "title": "Bravo 1 55 Original",
+    "title": "Bravo 1 55 Original Oak Mirox Grey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6735,15 +6912,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/bravo-1-55-original-oak-mirox-grey-228x228.jpg"
       }
     ],
-    "description": "Bravo 1 55 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 1 55 Original Oak Mirox Grey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 335,
-    "title": "Bravo 2 55",
+    "title": "Bravo 2 55 Brown Skyline",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6766,15 +6944,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/bravo-2-55-white-skyline-mirox-grey-228x228.jpg"
       }
     ],
-    "description": "Bravo 2 55. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 2 55 Brown Skyline. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 336,
-    "title": "Bravo 2 55 Look Art Mirox",
+    "title": "Bravo 2 55 Look Art Mirox Grey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6785,18 +6964,19 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/bravo-2-55-look-art-mirox-grey-228x228.jpg"
       }
     ],
-    "description": "Bravo 2 55 Look Art Mirox. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 2 55 Look Art Mirox Grey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 337,
-    "title": "Bravo 20",
+    "title": "Bravo 20 Cream Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 5970,
     "image": "image/Межкомнатные двери/Другие/Bravo-20CreamSilk-228x228.jpg",
     "variants": [
       {
@@ -6816,15 +6996,18 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Bravo-20WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Bravo 20. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 20 Cream Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
-    }
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 338,
-    "title": "Bravo 21",
+    "title": "Браво-21 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6867,15 +7050,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo-21WhiteMix-228x228.jpg"
       }
     ],
-    "description": "Bravo 21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "9"
+      "Вариантов": "9",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 339,
-    "title": "Bravo 21 L",
+    "title": "Браво-21 Lcreammelinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6886,15 +7070,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo-21-LCreamMelinga-228x228.jpg"
       }
     ],
-    "description": "Bravo 21 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Lcreammelinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 340,
-    "title": "Bravo 21Ash",
+    "title": "Браво-21 Ash White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6905,15 +7090,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo-21AshWhite-228x228.jpg"
       }
     ],
-    "description": "Bravo 21Ash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Ash White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 341,
-    "title": "Bravo 21Ashwood",
+    "title": "Браво-21 Ash Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6924,15 +7110,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo-21AshWood-228x228.jpg"
       }
     ],
-    "description": "Bravo 21Ashwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Ash Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 342,
-    "title": "Bravo 21Brutbeton",
+    "title": "Браво-21 21brutbeton",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6943,15 +7130,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo-21BrutBeton-228x228.jpg"
       }
     ],
-    "description": "Bravo 21Brutbeton. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 21brutbeton. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 343,
-    "title": "Bravo 21Grisbeton",
+    "title": "Браво-21 21grisbeton",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -6962,18 +7150,19 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo-21GrisBeton-228x228.jpg"
       }
     ],
-    "description": "Bravo 21Grisbeton. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 21grisbeton. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 344,
-    "title": "Bravo 22",
+    "title": "Браво-22 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 5970,
     "image": "image/Межкомнатные двери/Bravo 22/bravo-22-cappuccino-melinga-228x228.jpg",
     "variants": [
       {
@@ -7101,18 +7290,21 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/bravo_22_riviera_ice_black-228x228.jpg"
       }
     ],
-    "description": "Bravo 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "31"
-    }
+      "Вариантов": "31",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 345,
-    "title": "Bravo 22 L",
+    "title": "Браво-22 Lcreammelinga Black Shine",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 5970,
     "image": "image/Межкомнатные двери/Bravo 22/Bravo-22-LCreamMelingaBlackShine-228x228.jpg",
     "variants": [
       {
@@ -7124,18 +7316,21 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22-LCreamMelingaMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 22 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Lcreammelinga Black Shine. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
-    }
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 346,
-    "title": "Bravo 22 Look Art",
+    "title": "Браво-22 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 5970,
     "image": "image/Межкомнатные двери/Bravo 22/Bravo-22-look-Art-228x228.jpg",
     "variants": [
       {
@@ -7143,18 +7338,21 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22-look-Art-228x228.jpg"
       }
     ],
-    "description": "Bravo 22 Look Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 347,
-    "title": "Bravo 22 Original",
+    "title": "Браво-22 Original Oak Black Star",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 5970,
     "image": "image/Межкомнатные двери/Bravo 22/bravo_22_original_oak_black_star-228x228.jpg",
     "variants": [
       {
@@ -7162,15 +7360,18 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/bravo_22_original_oak_black_star-228x228.jpg"
       }
     ],
-    "description": "Bravo 22 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Original Oak Black Star. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 348,
-    "title": "Bravo 22Ash",
+    "title": "Браво-22 Ash White Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7181,15 +7382,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22AshWhiteMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 22Ash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Ash White Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 349,
-    "title": "Bravo 22Ashwoodmagicfog",
+    "title": "Браво-22 Ash Wood Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7200,15 +7402,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22AshWoodMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 22Ashwoodmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Ash Wood Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 350,
-    "title": "Bravo 22Brutbeton",
+    "title": "Браво-22 22brutbeton Black Star",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7219,15 +7422,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22BrutBetonBlackStar-228x228.jpg"
       }
     ],
-    "description": "Bravo 22Brutbeton. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 22brutbeton Black Star. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 351,
-    "title": "Bravo 22Brutbetonmagicfog",
+    "title": "Браво-22 22brutbeton Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7238,15 +7442,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22BrutBetonMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 22Brutbetonmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 22brutbeton Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 352,
-    "title": "Bravo 22Grisbeton",
+    "title": "Браво-22 22grisbeton Black Star",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7257,15 +7462,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22GrisBetonBlackStar-228x228.jpg"
       }
     ],
-    "description": "Bravo 22Grisbeton. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 22grisbeton Black Star. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 353,
-    "title": "Bravo 22Grisbetonmagicfog",
+    "title": "Браво-22 22grisbeton Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7276,15 +7482,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22GrisBetonMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 22Grisbetonmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 22grisbeton Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 354,
-    "title": "Bravo 22Lookart",
+    "title": "Браво-22 Look Art Black Shine",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7295,15 +7502,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22LookArtBlackShine-228x228.jpg"
       }
     ],
-    "description": "Bravo 22Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Look Art Black Shine. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 355,
-    "title": "Bravo 22Original",
+    "title": "Браво-22 Original Oak Black Shine",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7314,15 +7522,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo-22OriginalOakBlackShine-228x228.jpg"
       }
     ],
-    "description": "Bravo 22Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Original Oak Black Shine. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 356,
-    "title": "Bravo 23",
+    "title": "Браво-23 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7353,15 +7562,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/bravo_23_riviera_ice-228x228.jpg"
       }
     ],
-    "description": "Bravo 23. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "6"
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 357,
-    "title": "Bravo 23 Original",
+    "title": "Браво-23 Original Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7372,15 +7582,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/bravo_23_original_oak-228x228.jpg"
       }
     ],
-    "description": "Bravo 23 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 Original Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 358,
-    "title": "Bravo 23Ash",
+    "title": "Браво-23 Ash White Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7391,15 +7602,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/Bravo-23AshWhiteMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 23Ash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 Ash White Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 359,
-    "title": "Bravo 23Ashwoodmagicfog",
+    "title": "Браво-23 Ash Wood Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7410,15 +7622,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/Bravo-23AshWoodMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 23Ashwoodmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 Ash Wood Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 360,
-    "title": "Bravo 23Brutbetonmagicfog",
+    "title": "Браво-23 23brutbeton Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7429,15 +7642,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/Bravo-23BrutBetonMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 23Brutbetonmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 23brutbeton Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 361,
-    "title": "Bravo 23Grisbetonmagicfog",
+    "title": "Браво-23 23grisbeton Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7448,15 +7662,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/Bravo-23GrisBetonMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 23Grisbetonmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 23grisbeton Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 362,
-    "title": "Bravo 27",
+    "title": "Браво-27 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7479,18 +7694,19 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 27/bravo-27-snow-melinga-mirox-grey-228x228.jpg"
       }
     ],
-    "description": "Bravo 27. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-27 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 363,
-    "title": "Bravo 28",
+    "title": "Bravo 28 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 5970,
     "image": "image/Межкомнатные двери/Другие/bravo-28-cappuccino-melinga-228x228.jpg",
     "variants": [
       {
@@ -7514,18 +7730,21 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/bravo_28_nordic-228x228.jpg"
       }
     ],
-    "description": "Bravo 28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 28 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 364,
-    "title": "Bravo 28 Original",
+    "title": "Bravo 28 Original Oak Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 5970,
     "image": "image/Межкомнатные двери/Другие/bravo-28-original-oak-magic-fog-228x228.jpg",
     "variants": [
       {
@@ -7533,18 +7752,21 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/bravo-28-original-oak-magic-fog-228x228.jpg"
       }
     ],
-    "description": "Bravo 28 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 28 Original Oak Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 365,
-    "title": "Bravo 29",
+    "title": "Браво-29 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 6720,
     "image": "image/Межкомнатные двери/Bravo 29/bravo-29-cappuccino-melinga-228x228.jpg",
     "variants": [
       {
@@ -7616,18 +7838,21 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/bravo_29_riviera_ice-228x228.jpg"
       }
     ],
-    "description": "Bravo 29. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "17"
-    }
+      "Вариантов": "17",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 366,
-    "title": "Bravo 29 L",
+    "title": "Браво-29 Lcreammelinga Black Shine",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 6720,
     "image": "image/Межкомнатные двери/Bravo 29/Bravo-29-LCreamMelingaBlackShine-228x228.jpg",
     "variants": [
       {
@@ -7639,18 +7864,21 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/Bravo-29-LCreamMelingaMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 29 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Lcreammelinga Black Shine. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
-    }
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 367,
-    "title": "Bravo 29 Original",
+    "title": "Браво-29 Original Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 6720,
     "image": "image/Межкомнатные двери/Bravo 29/bravo_29_original_oak-228x228.jpg",
     "variants": [
       {
@@ -7658,15 +7886,18 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/bravo_29_original_oak-228x228.jpg"
       }
     ],
-    "description": "Bravo 29 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Original Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 368,
-    "title": "Bravo 29Ash",
+    "title": "Браво-29 Ash White Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7677,15 +7908,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/Bravo-29AshWhiteMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 29Ash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Ash White Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 369,
-    "title": "Bravo 29Ashwoodmagicfog",
+    "title": "Браво-29 Ash Wood Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7696,15 +7928,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/Bravo-29AshWoodMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 29Ashwoodmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Ash Wood Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 370,
-    "title": "Bravo 29Brutbetonmagicfog",
+    "title": "Браво-29 29brutbeton Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7715,15 +7948,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/Bravo-29BrutBetonMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 29Brutbetonmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 29brutbeton Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 371,
-    "title": "Bravo 29Grisbetonmagicfog",
+    "title": "Браво-29 29grisbeton Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7734,15 +7968,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/Bravo-29GrisBetonMagicFog-228x228.jpg"
       }
     ],
-    "description": "Bravo 29Grisbetonmagicfog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 29grisbeton Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 372,
-    "title": "Bravo 30",
+    "title": "Браво-30 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7773,18 +8008,19 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 30/bravo-30-wenge-melinga-mirox-228x228.jpg"
       }
     ],
-    "description": "Bravo 30. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-30 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "6"
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 373,
-    "title": "Bravo 40",
+    "title": "Bravo 40 Cream Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 11520,
     "image": "image/Межкомнатные двери/Другие/Bravo-40CreamSilk-228x228.jpg",
     "variants": [
       {
@@ -7804,15 +8040,18 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Bravo-40WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Bravo 40. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo 40 Cream Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
-    }
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 374,
-    "title": "Bravo0",
+    "title": "Браво-0 Bianco Veralinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7843,15 +8082,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/bravo0whiteskyline-228x228.jpg"
       }
     ],
-    "description": "Bravo0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "6"
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 375,
-    "title": "Bravo0Rivera",
+    "title": "Браво-0 0rivera",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7862,15 +8102,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo0rivera-228x228.jpg"
       }
     ],
-    "description": "Bravo0Rivera. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 0rivera. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 376,
-    "title": "Bravo0Super",
+    "title": "Браво-0 Super White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7881,15 +8122,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/Bravo0SuperWhite-228x228.jpg"
       }
     ],
-    "description": "Bravo0Super. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Super White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 377,
-    "title": "Bravo1 55",
+    "title": "Bravo1 55bianco",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7904,15 +8146,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/bravo1-55cappuccino-228x228.jpg"
       }
     ],
-    "description": "Bravo1 55. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo1 55bianco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 378,
-    "title": "Bravo21",
+    "title": "Браво-21 Grey Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7939,15 +8182,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo21snowart-228x228.jpg"
       }
     ],
-    "description": "Bravo21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Grey Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "5"
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 379,
-    "title": "Bravo21Alyaska",
+    "title": "Браво-21 21alyaska",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7958,15 +8202,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/bravo21alyaska-228x228.jpg"
       }
     ],
-    "description": "Bravo21Alyaska. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 21alyaska. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 380,
-    "title": "Bravo21Chaletprovence",
+    "title": "Браво-21 Chalet Provence",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7977,15 +8222,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo21ChaletProvence-228x228.jpg"
       }
     ],
-    "description": "Bravo21Chaletprovence. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Chalet Provence. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 381,
-    "title": "Bravo21Lookart",
+    "title": "Браво-21 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -7996,15 +8242,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo21lookart-228x228.jpg"
       }
     ],
-    "description": "Bravo21Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 382,
-    "title": "Bravo21Original",
+    "title": "Браво-21 Original Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8015,15 +8262,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/Bravo21OriginalOak-228x228.jpg"
       }
     ],
-    "description": "Bravo21Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Original Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 383,
-    "title": "Bravo22",
+    "title": "Браво-22 Grey Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8058,15 +8306,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo22snowartBS-228x228.jpg"
       }
     ],
-    "description": "Bravo22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Grey Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "7"
+      "Вариантов": "7",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 384,
-    "title": "Bravo22Alyaska",
+    "title": "Браво-22 22alyaska",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8077,15 +8326,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/bravo22alyaska-228x228.jpg"
       }
     ],
-    "description": "Bravo22Alyaska. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 22alyaska. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 385,
-    "title": "Bravo22Chaletprovence",
+    "title": "Браво-22 Chalet Provence",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8096,15 +8346,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo22ChaletProvence-228x228.jpg"
       }
     ],
-    "description": "Bravo22Chaletprovence. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Chalet Provence. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 386,
-    "title": "Bravo22Lookart",
+    "title": "Браво-22 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8115,15 +8366,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo22lookart-228x228.jpg"
       }
     ],
-    "description": "Bravo22Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 387,
-    "title": "Bravo22Original",
+    "title": "Браво-22 Original Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8134,15 +8386,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/Bravo22OriginalOak-228x228.jpg"
       }
     ],
-    "description": "Bravo22Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Original Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 388,
-    "title": "Bravo23",
+    "title": "Браво-23 Nordic Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8153,15 +8406,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/Bravo23nordicoak-228x228.jpg"
       }
     ],
-    "description": "Bravo23. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 Nordic Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 389,
-    "title": "Bravo23Alyaska",
+    "title": "Браво-23 23alyaska",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8172,15 +8426,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/bravo23alyaska-228x228.jpg"
       }
     ],
-    "description": "Bravo23Alyaska. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 23alyaska. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 390,
-    "title": "Bravo28",
+    "title": "Bravo28 Grey Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8199,15 +8454,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Bravo28WhiteWood-228x228.jpg"
       }
     ],
-    "description": "Bravo28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo28 Grey Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 391,
-    "title": "Bravo28Chaletprovence",
+    "title": "Bravo28 Chalet Provence",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8218,15 +8474,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Bravo28ChaletProvence-228x228.jpg"
       }
     ],
-    "description": "Bravo28Chaletprovence. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo28 Chalet Provence. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 392,
-    "title": "Bravo29",
+    "title": "Браво-29 Grey Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8245,15 +8502,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/Bravo29WhiteWood-228x228.jpg"
       }
     ],
-    "description": "Bravo29. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Grey Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 393,
-    "title": "Bravo29Alyaska",
+    "title": "Браво-29 29alyaska",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8264,15 +8522,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/bravo29alyaska-228x228.jpg"
       }
     ],
-    "description": "Bravo29Alyaska. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 29alyaska. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 394,
-    "title": "Bravo29Chaletprovence",
+    "title": "Браво-29 Chalet Provence",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8283,10 +8542,11 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/Bravo29ChaletProvence-228x228.jpg"
       }
     ],
-    "description": "Bravo29Chaletprovence. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Chalet Provence. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -8785,7 +9045,7 @@ const products = [
   },
   {
     "id": 421,
-    "title": "Dp Eko Bravo 27",
+    "title": "Браво-27 Eko Wenge Melinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8800,15 +9060,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 27/dp-eko-bravo-27-wenge-melinga-mirox-grey-228x228.jpg"
       }
     ],
-    "description": "Dp Eko Bravo 27. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-27 Eko Wenge Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 422,
-    "title": "Dp Eko Bravo 28",
+    "title": "Dp Eko Bravo 28 Wenge Melinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8819,15 +9080,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dp-eko-bravo-28-wenge-melinga-magic-fog-228x228.jpg"
       }
     ],
-    "description": "Dp Eko Bravo 28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dp Eko Bravo 28 Wenge Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 423,
-    "title": "Dp K Skinni 10",
+    "title": "Dp K Skinni 10 Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8838,15 +9100,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dp-k-skinni-10-whitey-228x228.jpg"
       }
     ],
-    "description": "Dp K Skinni 10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dp K Skinni 10 Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 424,
-    "title": "Dp K Skinni 11 1",
+    "title": "Скинни-11 Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8857,10 +9120,11 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 11/dp-k-skinni-11-1-whitey-228x228.jpg"
       }
     ],
-    "description": "Dp K Skinni 11 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-11 Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -8876,10 +9140,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dp-m-7-t-04-medovyj-po-st-satinato-228x228.jpg"
       }
     ],
-    "description": "Dp M 7 T 04 Medovyj Po St Satinato. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dp M 7 T 04 Medovyj Po St Satinato. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -8895,15 +9160,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dp-m-klassiko-12-vg-bez-otdelki-228x228.jpg"
       }
     ],
-    "description": "Dp M Klassiko 12 Vg Bez Otdelki. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dp M Klassiko 12 Vg Bez Otdelki. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 427,
-    "title": "Dp M Klassiko 13 Vg Bez Otdelki",
+    "title": "Классико-13 M O Vg Bez Otdelki White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8914,15 +9180,16 @@ const products = [
         "image": "image/Межкомнатные двери/Klassiko 13/dp-m-klassiko-13-vg-bez-otdelki-white-srystal-228x228.jpg"
       }
     ],
-    "description": "Dp M Klassiko 13 Vg Bez Otdelki. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Классико-13 M O Vg Bez Otdelki White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 428,
-    "title": "Dp Pet Bravo 0 21 A",
+    "title": "Браво-0.21.A Grey Silk A3 V13",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8933,15 +9200,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dp-pet-bravo-0-21-a-grey-silk-sb-a3-k4-v13-228x228.jpg"
       }
     ],
-    "description": "Dp Pet Bravo 0 21 A. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.21.A Grey Silk A3 V13. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 429,
-    "title": "Dp Pet Neoklassik 34",
+    "title": "Неоклассик-34 Cream Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8952,15 +9220,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 34/dp-pet-neoklassik-34-cream-silk-228x228.jpg"
       }
     ],
-    "description": "Dp Pet Neoklassik 34. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-34 Cream Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 430,
-    "title": "Dp V Bravo 0",
+    "title": "Браво-0 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8971,15 +9240,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dp-v-bravo-0-grey-pro-228x228.jpg"
       }
     ],
-    "description": "Dp V Bravo 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 431,
-    "title": "Dp V Graffiti 12",
+    "title": "Граффити-12 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -8990,15 +9260,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/dp-v-graffiti-12-grey-pro-228x228.jpg"
       }
     ],
-    "description": "Dp V Graffiti 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-12 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 432,
-    "title": "Dp V Graffiti 21",
+    "title": "Граффити-21 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9009,15 +9280,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/dp-v-graffiti-21-grey-pro-228x228.jpg"
       }
     ],
-    "description": "Dp V Graffiti 21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-21 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 433,
-    "title": "Dp V Graffiti 23",
+    "title": "Граффити-23 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9028,15 +9300,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/dp-v-graffiti-23-grey-pro-228x228.jpg"
       }
     ],
-    "description": "Dp V Graffiti 23. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-23 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 434,
-    "title": "Dver M 5 T 04 Medovyj",
+    "title": "М-5 Т-04 Dver M T Medovyj",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9047,15 +9320,16 @@ const products = [
         "image": "image/Межкомнатные двери/M5 T04/dver-m-5-t-04-medovyj-228x228.jpg"
       }
     ],
-    "description": "Dver M 5 T 04 Medovyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "М-5 Т-04 Dver M T Medovyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 435,
-    "title": "Dver M 5 T 04 Medovyj Po St Kristall",
+    "title": "М-5 Т-04 Dver M T Medovyj Po Kristall",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9066,10 +9340,11 @@ const products = [
         "image": "image/Межкомнатные двери/M5 T04/dver-m-5-t-04-medovyj-po-st-kristall-228x228.jpg"
       }
     ],
-    "description": "Dver M 5 T 04 Medovyj Po St Kristall. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "М-5 Т-04 Dver M T Medovyj Po Kristall. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -9085,15 +9360,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-m-7-t-04-medovyj-228x228.jpg"
       }
     ],
-    "description": "Dver M 7 T 04 Medovyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver M 7 T 04 Medovyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 437,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 0",
+    "title": "Браво-0 Eko Cream Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9108,15 +9384,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-eko-bravo-0-wenge-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Eko Cream Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 438,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 0 10 P",
+    "title": "Браво-0.10.P Eko Slate Art Bs 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9131,15 +9408,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-eko-bravo-0-10-p-snow-art-bs-p3-k4-228x2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 0 10 P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.10.P Eko Slate Art Bs 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 439,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 0 10 P Look Art Bs P3 K4",
+    "title": "Браво-0.10.P Eko Look Art Bs 228x2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9150,15 +9428,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-eko-bravo-0-10-p-look-art-bs-p3-k4-228x2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 0 10 P Look Art Bs P3 K4. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.10.P Eko Look Art Bs 228x2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 440,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 0 21 P",
+    "title": "Браво-0.21.P Eko Slate Art Bs 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9173,15 +9452,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-eko-bravo-0-21-p-snow-art-bs-p3-k4-228x2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 0 21 P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.21.P Eko Slate Art Bs 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 441,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 0 21 P Look Art Bs P3 K4",
+    "title": "Браво-0.21.P Eko Look Art Bs 228x2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9192,15 +9472,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-eko-bravo-0-21-p-look-art-bs-p3-k4-228x2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 0 21 P Look Art Bs P3 K4. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.21.P Eko Look Art Bs 228x2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 442,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 0 40 P",
+    "title": "Браво-0.40.P Eko Slate Art Mg",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9215,15 +9496,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-eko-bravo-0-40-p-snow-art-mg-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 0 40 P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.40.P Eko Slate Art Mg. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 443,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 0 40 P Look Art Mg",
+    "title": "Браво-0.40.P Eko Look Art Mg",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9234,15 +9516,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-eko-bravo-0-40-p-look-art-mg-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 0 40 P Look Art Mg. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.40.P Eko Look Art Mg. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 444,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 21 L",
+    "title": "Браво-21 Eko Bianco Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9253,15 +9536,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/dver-mezhkomnatnaya-eko-bravo-21-l-bianco-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 21 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Eko Bianco Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 445,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 22 L",
+    "title": "Браво-22 Eko Bianco Melinga Black Shin",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9276,15 +9560,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/dver-mezhkomnatnaya-eko-bravo-22-l-bianco-melinga-magic-fog-.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 22 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Eko Bianco Melinga Black Shin. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 446,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 27 L",
+    "title": "Браво-27 Eko Bianco Melinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9307,15 +9592,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 27/dver-mezhkomnatnaya-eko-bravo-27-l-cream-melinga-mirox-grey-.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 27 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-27 Eko Bianco Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 447,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 28 L",
+    "title": "Dver Mezhkomnatnaya Eko Bravo 28 L Bianco Melinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9330,15 +9616,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-eko-bravo-28-l-cream-melinga-magic-fog-2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 28 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Eko Bravo 28 L Bianco Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 448,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 29 L",
+    "title": "Браво-29 Eko Bianco Melinga Black Shin",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9353,15 +9640,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/dver-mezhkomnatnaya-eko-bravo-29-l-bianco-melinga-magic-fog-.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 29 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Eko Bianco Melinga Black Shin. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 449,
-    "title": "Dver Mezhkomnatnaya Eko Bravo 30 L",
+    "title": "Браво-30 Eko Bianco Melinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9384,15 +9672,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 30/dver-mezhkomnatnaya-eko-bravo-30-l-cream-melinga-mirox-grey-.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Bravo 30 L. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-30 Eko Bianco Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 450,
-    "title": "Dver Mezhkomnatnaya Eko Graffiti 32",
+    "title": "Граффити-32 Eko Slate Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9407,15 +9696,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 32/dver-mezhkomnatnaya-eko-graffiti-32-snow-art-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Graffiti 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-32 Eko Slate Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 451,
-    "title": "Dver Mezhkomnatnaya Eko Graffiti 32 Look Art",
+    "title": "Граффити-32 Eko Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9426,15 +9716,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 32/dver-mezhkomnatnaya-eko-graffiti-32-look-art-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Graffiti 32 Look Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-32 Eko Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 452,
-    "title": "Dver Mezhkomnatnaya Eko Moda 11",
+    "title": "Мода-11 Eko Cappuccino Melinga Bsh 228x2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9445,15 +9736,16 @@ const products = [
         "image": "image/Межкомнатные двери/Moda 11 11/dver-mezhkomnatnaya-eko-moda-11-cappuccino-melinga-bsh-228x2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Moda 11. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Мода-11 Eko Cappuccino Melinga Bsh 228x2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 453,
-    "title": "Dver Mezhkomnatnaya Eko Moda 22",
+    "title": "Мода-22 Eko Bianco Melinga Bsh",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9480,15 +9772,16 @@ const products = [
         "image": "image/Межкомнатные двери/Moda 22 22/dver-mezhkomnatnaya-eko-moda-22-snow-melinga-bsh-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Moda 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Мода-22 Eko Bianco Melinga Bsh. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "5"
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 454,
-    "title": "Dver Mezhkomnatnaya Eko Neoklassik 30",
+    "title": "Неоклассик-30 Eko Bianco Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9515,15 +9808,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 30/dver-mezhkomnatnaya-eko-neoklassik-30-wenge-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Neoklassik 30. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-30 Eko Bianco Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "5"
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 455,
-    "title": "Dver Mezhkomnatnaya Eko Neoklassik 30 Original",
+    "title": "Неоклассик-30 Eko Original Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9534,15 +9828,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 30/dver-mezhkomnatnaya-eko-neoklassik-30-original-oak-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Neoklassik 30 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-30 Eko Original Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 456,
-    "title": "Dver Mezhkomnatnaya Eko Neoklassik 32",
+    "title": "Неоклассик-32 Eko Bianco Veralinga 228x2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9553,15 +9848,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 32/dver-mezhkomnatnaya-eko-neoklassik-32-bianco-veralinga-228x2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Neoklassik 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-32 Eko Bianco Veralinga 228x2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 457,
-    "title": "Dver Mezhkomnatnaya Eko Neoklassik 33",
+    "title": "Неоклассик-33 Eko Bianco Veralinga White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9576,15 +9872,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 33/dver-mezhkomnatnaya-eko-neoklassik-33-bianco-veralinga-white_2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Neoklassik 33. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-33 Eko Bianco Veralinga White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 458,
-    "title": "Dver Mezhkomnatnaya Eko Prima 0",
+    "title": "Dver Mezhkomnatnaya Eko Prima 0 Bianco Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9615,15 +9912,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-eko-prima-0-wenge-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Prima 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Eko Prima 0 Bianco Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "6"
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 459,
-    "title": "Dver Mezhkomnatnaya Eko Prima 2",
+    "title": "Прима-2 Eko Bianco Veralinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9634,15 +9932,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/dver-mezhkomnatnaya-eko-prima-2-bianco-veralinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Prima 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Eko Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 460,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 0",
+    "title": "Браво-0 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9653,15 +9952,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-eko-shpon-bravo-0-cappuccino-melinga-228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 461,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 1 55",
+    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 1 55 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9672,15 +9972,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-eko-shpon-bravo-1-55-cappuccino-melinga-.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 1 55. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 1 55 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 462,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 21",
+    "title": "Браво-21 Bianco Veralinga 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9695,15 +9996,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 21/dver-mezhkomnatnaya-eko-shpon-bravo-21-wenge-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Bianco Veralinga 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 463,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 22",
+    "title": "Браво-22 Bianco Veralinga Blac",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9726,15 +10028,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/dver-mezhkomnatnaya-eko-shpon-bravo-22-wenge-melinga-magic-f.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Bianco Veralinga Blac. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 464,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 23",
+    "title": "Браво-23 Bianco Veralinga Magi",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9749,15 +10052,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 23/dver-mezhkomnatnaya-eko-shpon-bravo-23-wenge-melinga-magic-f.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 23. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 Bianco Veralinga Magi. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 465,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 27",
+    "title": "Браво-27 Bianco Veralinga Magi",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9772,15 +10076,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 27/dver-mezhkomnatnaya-eko-shpon-bravo-27-bianco-veralinga-miro.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 27. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-27 Bianco Veralinga Magi. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 466,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 28",
+    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 28 Bianco Veralinga Magi",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9791,15 +10096,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-eko-shpon-bravo-28-bianco-veralinga-magi.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 28 Bianco Veralinga Magi. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 467,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 29",
+    "title": "Браво-29 Bianco Veralinga Blac",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9822,15 +10128,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/dver-mezhkomnatnaya-eko-shpon-bravo-29-wenge-melinga-magic-f.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 29. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Bianco Veralinga Blac. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 468,
-    "title": "Dver Mezhkomnatnaya Eko Shpon Bravo 30",
+    "title": "Браво-30 Bianco Veralinga Magi",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9845,15 +10152,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 30/dver-mezhkomnatnaya-eko-shpon-bravo-30-bianco-veralinga-miro.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Shpon Bravo 30. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-30 Bianco Veralinga Magi. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 469,
-    "title": "Dver Mezhkomnatnaya Eko Skinni 10",
+    "title": "Dver Mezhkomnatnaya Eko Skinni 10 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9864,15 +10172,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-eko-skinni-10-cappuccino-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Skinni 10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Eko Skinni 10 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 470,
-    "title": "Dver Mezhkomnatnaya Eko Skinni 12",
+    "title": "Скинни-12 Eko Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9883,15 +10192,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 12/dver-mezhkomnatnaya-eko-skinni-12-cappuccino-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Skinni 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-12 Eko Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 471,
-    "title": "Dver Mezhkomnatnaya Eko Skinni 14",
+    "title": "Dver Mezhkomnatnaya Eko Skinni 14 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9902,15 +10212,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-eko-skinni-14-cappuccino-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Skinni 14. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Eko Skinni 14 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 472,
-    "title": "Dver Mezhkomnatnaya Eko Skinni 15",
+    "title": "Скинни-15 Eko Cappuccino Melinga White S",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9921,15 +10232,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 15/dver-mezhkomnatnaya-eko-skinni-15-cappuccino-melinga-white-s.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Eko Skinni 15. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-15 Eko Cappuccino Melinga White S. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 473,
-    "title": "Dver Mezhkomnatnaya Emalit Bravo 22",
+    "title": "Браво-22 Stormy Matt Black Star",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9940,15 +10252,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 22/dver-mezhkomnatnaya-emalit-bravo-22-stormy-matt-black-star-2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Emalit Bravo 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Stormy Matt Black Star. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 474,
-    "title": "Dver Mezhkomnatnaya Emalit Bravo 28",
+    "title": "Dver Mezhkomnatnaya Emalit Bravo 28 Grey Matt Magic Fog 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9963,15 +10276,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-emalit-bravo-28-stormy-matt-magic-fog-22.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Emalit Bravo 28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Emalit Bravo 28 Grey Matt Magic Fog 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 475,
-    "title": "Dver Mezhkomnatnaya Emalit Neoklassik 32",
+    "title": "Неоклассик-32 Grey Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -9982,15 +10296,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 32/dver-mezhkomnatnaya-emalit-neoklassik-32-grey-matt-164060057.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Emalit Neoklassik 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-32 Grey Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 476,
-    "title": "Dver Mezhkomnatnaya Emalit Neoklassik 34",
+    "title": "Неоклассик-34 Grey Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10001,15 +10316,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 34/dver-mezhkomnatnaya-emalit-neoklassik-34-grey-matt-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Emalit Neoklassik 34. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-34 Grey Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 477,
-    "title": "Dver Mezhkomnatnaya Emalit Prima 13 F2 0 0",
+    "title": "Dver Mezhkomnatnaya Emalit Prima 13 F2 0 0 Grey Matt White S",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10020,15 +10336,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-emalit-prima-13-f2-0-0-grey-matt-white-s.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Emalit Prima 13 F2 0 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Emalit Prima 13 F2 0 0 Grey Matt White S. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 478,
-    "title": "Dver Mezhkomnatnaya Emalit Prima 2",
+    "title": "Прима-2 Stormy Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10039,15 +10356,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/dver-mezhkomnatnaya-emalit-prima-2-stormy-matt-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Emalit Prima 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Stormy Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 479,
-    "title": "Dver Mezhkomnatnaya Hf Prima 0",
+    "title": "Dver Mezhkomnatnaya Hf Prima 0 White Mix",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10058,15 +10376,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-hf-prima-0-white-mix-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Hf Prima 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Hf Prima 0 White Mix. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 480,
-    "title": "Dver Mezhkomnatnaya K Bravo 0 40",
+    "title": "Браво-0.40 Creamy Mg",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10085,15 +10404,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-k-bravo-0-40-whitey-mg-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Bravo 0 40. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.40 Creamy Mg. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 481,
-    "title": "Dver Mezhkomnatnaya K Bravo 0 Pr",
+    "title": "Браво-0.P Pr Grey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10108,15 +10428,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-k-bravo-0-pr-white-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Bravo 0 Pr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.P Pr Grey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 482,
-    "title": "Dver Mezhkomnatnaya K Graffiti 10",
+    "title": "Граффити-10 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10135,15 +10456,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/dver-mezhkomnatnaya-k-graffiti-10-whitey-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-10 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 483,
-    "title": "Dver Mezhkomnatnaya K Graffiti 32",
+    "title": "Граффити-32 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10158,15 +10480,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 32/dver-mezhkomnatnaya-k-graffiti-32-whitey-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-32 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 484,
-    "title": "Dver Mezhkomnatnaya K Graffiti 32 Grace",
+    "title": "Граффити-32 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10177,15 +10500,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 32/dver-mezhkomnatnaya-k-graffiti-32-grace-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 32 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-32 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 485,
-    "title": "Dver Mezhkomnatnaya K Graffiti 40",
+    "title": "Dver Mezhkomnatnaya K Graffiti 40 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10204,15 +10528,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-k-graffiti-40-whitey-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 40. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya K Graffiti 40 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 486,
-    "title": "Dver Mezhkomnatnaya K Graffiti 42",
+    "title": "Граффити-42 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10227,15 +10552,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 42/dver-mezhkomnatnaya-k-graffiti-42-whitey-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 42. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-42 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 487,
-    "title": "Dver Mezhkomnatnaya K Graffiti 42 Grace",
+    "title": "Граффити-42 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10246,15 +10572,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 42/dver-mezhkomnatnaya-k-graffiti-42-grace-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 42 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-42 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 488,
-    "title": "Dver Mezhkomnatnaya K Graffiti 60 Pr",
+    "title": "Dver Mezhkomnatnaya K Graffiti 60 Pr Grey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10269,15 +10596,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-k-graffiti-60-pr-white-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 60 Pr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya K Graffiti 60 Pr Grey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 489,
-    "title": "Dver Mezhkomnatnaya K Graffiti 62 Pr",
+    "title": "Граффити-62 Pr Grey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10292,15 +10620,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 62/dver-mezhkomnatnaya-k-graffiti-62-pr-white-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 62 Pr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-62 Pr Grey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 490,
-    "title": "Dver Mezhkomnatnaya K Graffiti 7 Pr",
+    "title": "Dver Mezhkomnatnaya K Graffiti 7 Pr Grey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10315,10 +10644,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-k-graffiti-7-pr-white-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya K Graffiti 7 Pr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya K Graffiti 7 Pr Grey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -10334,15 +10664,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-m-2-bez-otdelki-po-st-matovoe-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya M 2 Bez Otdelki Po St Matovoe. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya M 2 Bez Otdelki Po St Matovoe. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 492,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 10 A",
+    "title": "Браво-0.10.A Cream Silk A3 V13",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10361,15 +10692,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-10-a-white-silk-sb-a3-k4-v13.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 10 A. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.10.A Cream Silk A3 V13. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 493,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 10 A Clay Silk Sb A3 K4 V13",
+    "title": "Браво-0.10.A Clay Silk A3 V13",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10380,15 +10712,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-10-a-clay-silk-sb-a3-k4-v13-.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 10 A Clay Silk Sb A3 K4 V13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.10.A Clay Silk A3 V13. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 494,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 10 A Real",
+    "title": "Браво-0.10.A Real Oak A3 V13",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10399,15 +10732,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-10-a-real-oak-sb-a3-k4-v13-2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 10 A Real. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.10.A Real Oak A3 V13. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 495,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 10 P",
+    "title": "Браво-0.10.P Cream Silk 228x22",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10430,15 +10764,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-10-p-white-silk-sg-p3-228x22.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 10 P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.10.P Cream Silk 228x22. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 496,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 10 P Clay Silk Bs P3 K4 228X",
+    "title": "Браво-0.10.P Clay Silk Bs 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10449,15 +10784,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-10-p-clay-silk-bs-p3-k4-228x.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 10 P Clay Silk Bs P3 K4 228X. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.10.P Clay Silk Bs 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 497,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 21 A",
+    "title": "Браво-0.21.A Cream Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10472,15 +10808,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-21-a-white-silk-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 21 A. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.21.A Cream Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 498,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 21 A Clay Silk",
+    "title": "Браво-0.21.A Clay Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10491,15 +10828,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-21-a-clay-silk-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 21 A Clay Silk. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.21.A Clay Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 499,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 21 A Real",
+    "title": "Браво-0.21.A Real Oak A3 V13",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10510,15 +10848,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-21-a-real-oak-sb-a3-k4-v13-2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 21 A Real. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.21.A Real Oak A3 V13. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 500,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 21 P Clay Silk Bs P3 K4 228X",
+    "title": "Браво-0.21.P Clay Silk Bs 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10529,15 +10868,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-21-p-clay-silk-bs-p3-k4-228x.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 21 P Clay Silk Bs P3 K4 228X. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.21.P Clay Silk Bs 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 501,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 24 P Clay Silk Bs P3 K4 228X",
+    "title": "Браво-0.24.P Clay Silk Bs 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10548,15 +10888,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-24-p-clay-silk-bs-p3-k4-228x.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 24 P Clay Silk Bs P3 K4 228X. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.24.P Clay Silk Bs 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 502,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 40 P",
+    "title": "Браво-0.40.P Cream Silk Mg",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10579,15 +10920,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-40-p-white-silk-mg-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 40 P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.40.P Cream Silk Mg. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 503,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 40 P Clay Silk Mg",
+    "title": "Браво-0.40.P Clay Silk Mg",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10598,15 +10940,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-40-p-clay-silk-mg-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 40 P Clay Silk Mg. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.40.P Clay Silk Mg. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 504,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 A",
+    "title": "Браво-0.A Cream Silk V13 228x2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10625,15 +10968,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-a-white-silk-sb-k4-v13-228x2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 A. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.A Cream Silk V13 228x2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 505,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 A Clay Silk Sb K4 V13",
+    "title": "Браво-0.A Clay Silk V13 228x22",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10644,15 +10988,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-a-clay-silk-sb-k4-v13-228x22.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 A Clay Silk Sb K4 V13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.A Clay Silk V13 228x22. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 506,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 A Real",
+    "title": "Браво-0.A Real Oak V13",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10663,15 +11008,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-a-real-oak-sb-k4-v13-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 A Real. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.A Real Oak V13. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 507,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 P",
+    "title": "Браво-0.P Cream Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10686,15 +11032,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-p-grey-silk-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.P Cream Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 508,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 P Clay Silk",
+    "title": "Браво-0.P Clay Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10705,15 +11052,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-p-clay-silk-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 P Clay Silk. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.P Clay Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 509,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 0 P Real",
+    "title": "Браво-0.P Real Oak Bs",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10724,15 +11072,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-pet-bravo-0-p-real-oak-bs-k4-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 0 P Real. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0.P Real Oak Bs. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 510,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 20 2 Cs",
+    "title": "Dver Mezhkomnatnaya Pet Bravo 20 2 Cs Cream Silkwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10743,15 +11092,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-bravo-20-2-cs-cream-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 20 2 Cs. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Bravo 20 2 Cs Cream Silkwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 511,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 20 2 Gs",
+    "title": "Dver Mezhkomnatnaya Pet Bravo 20 2 Gs Grey Silkwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10762,15 +11112,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-bravo-20-2-gs-grey-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 20 2 Gs. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Bravo 20 2 Gs Grey Silkwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 512,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 20 2 Ws",
+    "title": "Dver Mezhkomnatnaya Pet Bravo 20 2 Ws White Silkwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10781,15 +11132,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-bravo-20-2-ws-white-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 20 2 Ws. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Bravo 20 2 Ws White Silkwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 513,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 28",
+    "title": "Dver Mezhkomnatnaya Pet Bravo 28 Cream Silk Magic Fog 228x22",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10800,15 +11152,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-bravo-28-cream-silk-magic-fog-228x22.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Bravo 28 Cream Silk Magic Fog 228x22. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 514,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 28 2",
+    "title": "Dver Mezhkomnatnaya Pet Bravo 28 2 Cream Silkwood Cs Magic F",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10827,15 +11180,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-bravo-28-2-white-silkwood-ws-magic-f.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 28 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Bravo 28 2 Cream Silkwood Cs Magic F. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 515,
-    "title": "Dver Mezhkomnatnaya Pet Bravo 29",
+    "title": "Браво-29 Cream Silk Magic Fog 228x22",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10846,15 +11200,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 29/dver-mezhkomnatnaya-pet-bravo-29-cream-silk-magic-fog-228x22.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Bravo 29. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-29 Cream Silk Magic Fog 228x22. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 516,
-    "title": "Dver Mezhkomnatnaya Pet Graffiti 2 D P Clay Silk",
+    "title": "Граффити-2 Clay Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10865,15 +11220,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/dver-mezhkomnatnaya-pet-graffiti-2-d-p-clay-silk-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Graffiti 2 D P Clay Silk. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2 Clay Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 517,
-    "title": "Dver Mezhkomnatnaya Pet Graffiti 5 D P Clay Silk",
+    "title": "Граффити-5 Clay Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10884,15 +11240,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/dver-mezhkomnatnaya-pet-graffiti-5-d-p-clay-silk-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Graffiti 5 D P Clay Silk. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 Clay Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 518,
-    "title": "Dver Mezhkomnatnaya Pet Klassik 12",
+    "title": "Dver Mezhkomnatnaya Pet Klassik 12 Cream Silk 2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10907,15 +11264,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-klassik-12-white-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Klassik 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Klassik 12 Cream Silk 2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 519,
-    "title": "Dver Mezhkomnatnaya Pet Klassik 13",
+    "title": "Классик-13 Cream Silk White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10926,15 +11284,16 @@ const products = [
         "image": "image/Межкомнатные двери/Klassik 13/dver-mezhkomnatnaya-pet-klassik-13-cream-silk-white-srystal-.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Klassik 13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Классик-13 Cream Silk White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 520,
-    "title": "Dver Mezhkomnatnaya Pet Neoklassik 30",
+    "title": "Неоклассик-30 White Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10949,15 +11308,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 30/dver-mezhkomnatnaya-pet-neoklassik-30-white-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Neoklassik 30. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-30 White Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 521,
-    "title": "Dver Mezhkomnatnaya Pet Neoklassik 32",
+    "title": "Неоклассик-32 White Silkwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10968,15 +11328,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 32/dver-mezhkomnatnaya-pet-neoklassik-32-white-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Neoklassik 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-32 White Silkwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 522,
-    "title": "Dver Mezhkomnatnaya Pet Neoklassik 33",
+    "title": "Неоклассик-33 Stormy Silk Magic Moru",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -10991,15 +11352,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 33/dver-mezhkomnatnaya-pet-neoklassik-33-white-silkwood-magic-m.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Neoklassik 33. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-33 Stormy Silk Magic Moru. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 523,
-    "title": "Dver Mezhkomnatnaya Pet Neoklassik 34",
+    "title": "Неоклассик-34 Stormy Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11010,15 +11372,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 34/dver-mezhkomnatnaya-pet-neoklassik-34-stormy-silk-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Neoklassik 34. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-34 Stormy Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 524,
-    "title": "Dver Mezhkomnatnaya Pet Neoklassik 35",
+    "title": "Неоклассик-35 Cream Silk Magic Moru",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11033,15 +11396,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 35/dver-mezhkomnatnaya-pet-neoklassik-35-stormy-silk-magic-moru.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Neoklassik 35. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-35 Cream Silk Magic Moru. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 525,
-    "title": "Dver Mezhkomnatnaya Pet Prima 0",
+    "title": "Dver Mezhkomnatnaya Pet Prima 0 Cream Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11056,15 +11420,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-prima-0-white-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Prima 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Prima 0 Cream Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 526,
-    "title": "Dver Mezhkomnatnaya Pet Prima 10",
+    "title": "Прима-10 Stormy Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11079,15 +11444,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 10/dver-mezhkomnatnaya-pet-prima-10-white-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Prima 10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-10 Stormy Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 527,
-    "title": "Dver Mezhkomnatnaya Pet Prima 11 1",
+    "title": "Dver Mezhkomnatnaya Pet Prima 11 1 Stormy Silk Magic Fog 228",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11098,15 +11464,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-prima-11-1-stormy-silk-magic-fog-228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Prima 11 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Prima 11 1 Stormy Silk Magic Fog 228. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 528,
-    "title": "Dver Mezhkomnatnaya Pet Prima 12",
+    "title": "Прима-12 White Silkwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11117,15 +11484,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 12/dver-mezhkomnatnaya-pet-prima-12-white-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Prima 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-12 White Silkwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 529,
-    "title": "Dver Mezhkomnatnaya Pet Prima 13 0 1",
+    "title": "Dver Mezhkomnatnaya Pet Prima 13 0 1 Stormy Silk Magic Fog 2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11136,15 +11504,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-pet-prima-13-0-1-stormy-silk-magic-fog-2.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Prima 13 0 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya Pet Prima 13 0 1 Stormy Silk Magic Fog 2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 530,
-    "title": "Dver Mezhkomnatnaya Pet Prima 2",
+    "title": "Прима-2 Cream Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11159,15 +11528,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/dver-mezhkomnatnaya-pet-prima-2-white-silkwood-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Prima 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Cream Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 531,
-    "title": "Dver Mezhkomnatnaya Pet Prima 3",
+    "title": "Прима-3 Cream Silk White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11182,15 +11552,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 3/dver-mezhkomnatnaya-pet-prima-3-white-silkwood-white-srystal.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya Pet Prima 3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-3 Cream Silk White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 532,
-    "title": "Dver Mezhkomnatnaya V Bravo 0",
+    "title": "Браво-0 Cream Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11205,15 +11576,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-v-bravo-0-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Bravo 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Cream Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 533,
-    "title": "Dver Mezhkomnatnaya V Bravo 0 70",
+    "title": "Браво-0 Cream Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11232,15 +11604,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-v-bravo-0-70-white-pro-bp-pr6-k4-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Bravo 0 70. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Cream Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 534,
-    "title": "Dver Mezhkomnatnaya V Bravo 0 81",
+    "title": "Браво-0 Cream Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11259,15 +11632,16 @@ const products = [
         "image": "image/Межкомнатные двери/Bravo 0/dver-mezhkomnatnaya-v-bravo-0-81-white-pro-bp-pr6-k4-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Bravo 0 81. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-0 Cream Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 535,
-    "title": "Dver Mezhkomnatnaya V Graffiti 1 D",
+    "title": "Граффити-1 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11278,15 +11652,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/dver-mezhkomnatnaya-v-graffiti-1-d-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 1 D. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-1 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 536,
-    "title": "Dver Mezhkomnatnaya V Graffiti 10",
+    "title": "Граффити-10 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11301,15 +11676,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/dver-mezhkomnatnaya-v-graffiti-10-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-10 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 537,
-    "title": "Dver Mezhkomnatnaya V Graffiti 12",
+    "title": "Граффити-12 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11320,15 +11696,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/dver-mezhkomnatnaya-v-graffiti-12-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-12 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 538,
-    "title": "Dver Mezhkomnatnaya V Graffiti 2 D",
+    "title": "Граффити-2 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11339,15 +11716,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/dver-mezhkomnatnaya-v-graffiti-2-d-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 2 D. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 539,
-    "title": "Dver Mezhkomnatnaya V Graffiti 21",
+    "title": "Граффити-21 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11358,15 +11736,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/dver-mezhkomnatnaya-v-graffiti-21-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-21 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 540,
-    "title": "Dver Mezhkomnatnaya V Graffiti 23 D",
+    "title": "Граффити-23 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11377,15 +11756,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/dver-mezhkomnatnaya-v-graffiti-23-d-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 23 D. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-23 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 541,
-    "title": "Dver Mezhkomnatnaya V Graffiti 32",
+    "title": "Граффити-32 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11396,15 +11776,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 32/dver-mezhkomnatnaya-v-graffiti-32-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-32 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 542,
-    "title": "Dver Mezhkomnatnaya V Graffiti 40",
+    "title": "Dver Mezhkomnatnaya V Graffiti 40 Cream Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11423,15 +11804,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-v-graffiti-40-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 40. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya V Graffiti 40 Cream Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 543,
-    "title": "Dver Mezhkomnatnaya V Graffiti 42",
+    "title": "Граффити-42 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11442,15 +11824,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 42/dver-mezhkomnatnaya-v-graffiti-42-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 42. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-42 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 544,
-    "title": "Dver Mezhkomnatnaya V Graffiti 5 D",
+    "title": "Граффити-5 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11461,15 +11844,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/dver-mezhkomnatnaya-v-graffiti-5-d-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Graffiti 5 D. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 545,
-    "title": "Dver Mezhkomnatnaya V Skinni 10",
+    "title": "Dver Mezhkomnatnaya V Skinni 10 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11480,15 +11864,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-v-skinni-10-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Skinni 10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya V Skinni 10 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 546,
-    "title": "Dver Mezhkomnatnaya V Skinni 12",
+    "title": "Скинни-12 Cream Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11507,15 +11892,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 12/dver-mezhkomnatnaya-v-skinni-12-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Skinni 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-12 Cream Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 547,
-    "title": "Dver Mezhkomnatnaya V Skinni 13",
+    "title": "Dver Mezhkomnatnaya V Skinni 13 Cream Pro White Srystal 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11534,15 +11920,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-v-skinni-13-white-pro-white-srystal-228x.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Skinni 13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya V Skinni 13 Cream Pro White Srystal 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 548,
-    "title": "Dver Mezhkomnatnaya V Skinni 14",
+    "title": "Dver Mezhkomnatnaya V Skinni 14 White Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11553,15 +11940,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/dver-mezhkomnatnaya-v-skinni-14-white-pro-228x228.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Skinni 14. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dver Mezhkomnatnaya V Skinni 14 White Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 549,
-    "title": "Dver Mezhkomnatnaya V Skinni 15",
+    "title": "Скинни-15 White Pro White Srystal 228x",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11572,10 +11960,11 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 15/dver-mezhkomnatnaya-v-skinni-15-white-pro-white-srystal-228x.jpg"
       }
     ],
-    "description": "Dver Mezhkomnatnaya V Skinni 15. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-15 White Pro White Srystal 228x. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -11713,7 +12102,7 @@ const products = [
   },
   {
     "id": 557,
-    "title": "Eko Porta 27",
+    "title": "Порта-27 Eko Cappuccino Veralinga Mirox Grey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11724,15 +12113,16 @@ const products = [
         "image": "image/Межкомнатные двери/Porta 27/eko-porta-27-cappuccino-veralinga-mirox-grey-228x228.jpg"
       }
     ],
-    "description": "Eko Porta 27. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Порта-27 Eko Cappuccino Veralinga Mirox Grey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 558,
-    "title": "Eko Porta 30",
+    "title": "Eko Porta 30 Cappuccino Veralinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11747,15 +12137,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/eko-porta-30-cappuccino-veralinga-mirox-grey-228x228.jpg"
       }
     ],
-    "description": "Eko Porta 30. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Eko Porta 30 Cappuccino Veralinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 559,
-    "title": "Emalit Bravo 28",
+    "title": "Emalit Bravo 28 White Matt Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11766,10 +12157,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/emalit-bravo-28-white-matt-magic-fog-228x228.jpg"
       }
     ],
-    "description": "Emalit Bravo 28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Emalit Bravo 28 White Matt Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -11907,7 +12299,7 @@ const products = [
   },
   {
     "id": 567,
-    "title": "Graffiti 1",
+    "title": "Граффити-1 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11918,15 +12310,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/graffiti-1-grey-pro-228x228.jpg"
       }
     ],
-    "description": "Graffiti 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-1 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 568,
-    "title": "Graffiti 1 D",
+    "title": "Граффити-1 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11949,15 +12342,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/graffiti-1-d-super-white-228x228.jpg"
       }
     ],
-    "description": "Graffiti 1 D. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-1 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 569,
-    "title": "Graffiti 1 D Look Art",
+    "title": "Граффити-1 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11968,15 +12362,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/graffiti-1-d-look-art-228x228.jpg"
       }
     ],
-    "description": "Graffiti 1 D Look Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-1 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 570,
-    "title": "Graffiti 1 Grace",
+    "title": "Граффити-1 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -11987,15 +12382,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/graffiti-1-grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 1 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-1 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 571,
-    "title": "Graffiti 12",
+    "title": "Граффити-12 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12010,15 +12406,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/Graffiti-12_Whitey-228x228.jpg"
       }
     ],
-    "description": "Graffiti 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-12 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 572,
-    "title": "Graffiti 12 Grace",
+    "title": "Граффити-12 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12029,15 +12426,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/graffiti-12-grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 12 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-12 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 573,
-    "title": "Graffiti 12Super",
+    "title": "Граффити-12 Super White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12048,15 +12446,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/Graffiti-12SuperWhite-228x228.jpg"
       }
     ],
-    "description": "Graffiti 12Super. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-12 Super White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 574,
-    "title": "Graffiti 2",
+    "title": "Граффити-2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12071,15 +12470,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/graffiti-2-grey-pro-228x228.jpg"
       }
     ],
-    "description": "Graffiti 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 575,
-    "title": "Graffiti 2 D",
+    "title": "Граффити-2 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12102,15 +12502,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/graffiti-2-d-super-white-228x228.jpg"
       }
     ],
-    "description": "Graffiti 2 D. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 576,
-    "title": "Graffiti 2 D Look Art",
+    "title": "Граффити-2 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12121,15 +12522,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/graffiti-2-d-look-art-228x228.jpg"
       }
     ],
-    "description": "Graffiti 2 D Look Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 577,
-    "title": "Graffiti 2 D P",
+    "title": "Граффити-2",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12152,15 +12554,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-2-D-PWhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Graffiti 2 D P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 578,
-    "title": "Graffiti 2 Grace",
+    "title": "Граффити-2 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12171,15 +12574,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/graffiti-2-grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 2 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 579,
-    "title": "Graffiti 20",
+    "title": "Граффити-20 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12194,15 +12598,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-20Whitey-228x228.jpg"
       }
     ],
-    "description": "Graffiti 20. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-20 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 580,
-    "title": "Graffiti 20Grace",
+    "title": "Граффити-20 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12213,15 +12618,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-20Grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 20Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-20 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 581,
-    "title": "Graffiti 21",
+    "title": "Граффити-21 Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12236,15 +12642,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-21Creamy-228x228.jpg"
       }
     ],
-    "description": "Graffiti 21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-21 Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 582,
-    "title": "Graffiti 21 Grace",
+    "title": "Граффити-21 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12255,15 +12662,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/graffiti-21-grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 21 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-21 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 583,
-    "title": "Graffiti 21Super",
+    "title": "Граффити-21 Super White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12274,15 +12682,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-21SuperWhite-228x228.jpg"
       }
     ],
-    "description": "Graffiti 21Super. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-21 Super White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 584,
-    "title": "Graffiti 23",
+    "title": "Граффити-23 Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12297,15 +12706,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-23Creamy-228x228.jpg"
       }
     ],
-    "description": "Graffiti 23. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-23 Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 585,
-    "title": "Graffiti 23 Grace",
+    "title": "Граффити-23 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12316,15 +12726,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/graffiti-23-grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 23 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-23 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 586,
-    "title": "Graffiti 23Super",
+    "title": "Граффити-23 Super White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12335,15 +12746,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-23SuperWhite-228x228.jpg"
       }
     ],
-    "description": "Graffiti 23Super. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-23 Super White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 587,
-    "title": "Graffiti 27",
+    "title": "Граффити-27 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12358,15 +12770,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-27Whitey-228x228.jpg"
       }
     ],
-    "description": "Graffiti 27. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-27 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 588,
-    "title": "Graffiti 27Grace",
+    "title": "Граффити-27 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12377,15 +12790,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti-27Grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 27Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-27 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 589,
-    "title": "Graffiti 32",
+    "title": "Граффити-32 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12400,15 +12814,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 32/graffiti-32-super-white-228x228.jpg"
       }
     ],
-    "description": "Graffiti 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-32 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 590,
-    "title": "Graffiti 33 0",
+    "title": "Graffiti 33 0 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12423,15 +12838,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Graffiti-33-0Whitey-228x228.jpg"
       }
     ],
-    "description": "Graffiti 33 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 33 0 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 591,
-    "title": "Graffiti 33 0Grace",
+    "title": "Graffiti 33 0 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12442,10 +12858,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Graffiti-33-0Grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 33 0Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 33 0 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -12461,15 +12878,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/graffiti-4-grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 4 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti 4 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 593,
-    "title": "Graffiti 42",
+    "title": "Граффити-42 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12484,15 +12902,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 42/graffiti-42-super-white-228x228.jpg"
       }
     ],
-    "description": "Graffiti 42. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-42 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 594,
-    "title": "Graffiti 5",
+    "title": "Граффити-5 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12511,15 +12930,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/Graffiti-5Whitey-228x228.jpg"
       }
     ],
-    "description": "Graffiti 5. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 595,
-    "title": "Graffiti 5 D",
+    "title": "Граффити-5 Grey Pro",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12542,15 +12962,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/graffiti-5-d-super-white-228x228.jpg"
       }
     ],
-    "description": "Graffiti 5 D. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 Grey Pro. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 596,
-    "title": "Graffiti 5 D Look Art",
+    "title": "Граффити-5 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12561,15 +12982,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/graffiti-5-d_look_art-228x228.jpg"
       }
     ],
-    "description": "Graffiti 5 D Look Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 597,
-    "title": "Graffiti 5 D P",
+    "title": "Граффити-5",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12592,15 +13014,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/Graffiti-5-D-PWhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Graffiti 5 D P. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 598,
-    "title": "Graffiti 5 Grace",
+    "title": "Граффити-5 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12611,15 +13034,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/graffiti-5-grace-228x228.jpg"
       }
     ],
-    "description": "Graffiti 5 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 599,
-    "title": "Graffiti1",
+    "title": "Граффити-1 Slate Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12638,15 +13062,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/Graffiti1Whitey-228x228.jpg"
       }
     ],
-    "description": "Graffiti1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-1 Slate Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 600,
-    "title": "Graffiti12St",
+    "title": "Граффити-12 12st Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12657,15 +13082,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/Graffiti12STWhitey-228x228.jpg"
       }
     ],
-    "description": "Graffiti12St. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-12 12st Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 601,
-    "title": "Graffiti1Lookart",
+    "title": "Граффити-1 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12676,15 +13102,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/Graffiti1LookArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti1Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-1 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 602,
-    "title": "Graffiti1Super",
+    "title": "Граффити-1 Super White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12695,15 +13122,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 1/Graffiti1SuperWhite-228x228.jpg"
       }
     ],
-    "description": "Graffiti1Super. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-1 Super White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 603,
-    "title": "Graffiti2",
+    "title": "Граффити-2 Snow Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12714,15 +13142,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti2SnowArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2 Snow Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 604,
-    "title": "Graffiti2Lookart",
+    "title": "Граффити-2 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12733,10 +13162,11 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 2/Graffiti2LookArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti2Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-2 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -12752,15 +13182,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Graffiti4-228x228.jpg"
       }
     ],
-    "description": "Graffiti4. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Graffiti4. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 606,
-    "title": "Graffiti5",
+    "title": "Граффити-5",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12775,15 +13206,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/Graffiti5SlateArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti5. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 607,
-    "title": "Graffiti5Lookart",
+    "title": "Граффити-5 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12794,15 +13226,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/Graffiti5LookArt-228x228.jpg"
       }
     ],
-    "description": "Graffiti5Lookart. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 608,
-    "title": "Graffiti5St",
+    "title": "Граффити-5 5st Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12813,15 +13246,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/Graffiti5STWhitey-228x228.jpg"
       }
     ],
-    "description": "Graffiti5St. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 5st Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 609,
-    "title": "Graffiti5Super",
+    "title": "Граффити-5 Super White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12832,15 +13266,16 @@ const products = [
         "image": "image/Межкомнатные двери/Graffiti 5/Graffiti5SuperWhite-228x228.jpg"
       }
     ],
-    "description": "Graffiti5Super. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Граффити-5 Super White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 610,
-    "title": "K Skinni 2",
+    "title": "K Skinni 2 Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12851,15 +13286,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/k-skinni-2-whitey-228x228.jpg"
       }
     ],
-    "description": "K Skinni 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "K Skinni 2 Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 611,
-    "title": "K Skinni 4",
+    "title": "K Skinni 4 Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12870,15 +13306,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/k-skinni-4-whitey-228x228.jpg"
       }
     ],
-    "description": "K Skinni 4. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "K Skinni 4 Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 612,
-    "title": "K Skinni 5",
+    "title": "K Skinni 5 Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12889,15 +13326,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/k-skinni-5-whitey-228x228.jpg"
       }
     ],
-    "description": "K Skinni 5. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "K Skinni 5 Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 613,
-    "title": "Klassik 12",
+    "title": "Klassik 12 Grey Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12916,15 +13354,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Klassik-12WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Klassik 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Klassik 12 Grey Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 614,
-    "title": "Klassik 13",
+    "title": "Классик-13 Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12943,15 +13382,16 @@ const products = [
         "image": "image/Межкомнатные двери/Klassik 13/Klassik-13WhiteSilkWhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Klassik 13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Классик-13 Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 615,
-    "title": "L 32G L 01 Italoreh",
+    "title": "L 32g L 01 Italoreh",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12962,15 +13402,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/l-32g-l-01-italoreh-228x228.jpg"
       }
     ],
-    "description": "L 32G L 01 Italoreh. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "L 32g L 01 Italoreh. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 616,
-    "title": "L 32G L 02",
+    "title": "L 32g L 02 Milanoreh",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -12981,15 +13422,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/l-32g-l-02-milanoreh-228x228.jpg"
       }
     ],
-    "description": "L 32G L 02. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "L 32g L 02 Milanoreh. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 617,
-    "title": "L 32G L 04 Belyj",
+    "title": "L 32g L 04 Belyj",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13000,15 +13442,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/l-32g-l-04-belyj-228x228.jpg"
       }
     ],
-    "description": "L 32G L 04 Belyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "L 32g L 04 Belyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 618,
-    "title": "Lotos 1",
+    "title": "Лотос-1 Casablanca",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13027,15 +13470,16 @@ const products = [
         "image": "image/Межкомнатные двери/Lotos 1/Lotos-1MilanoVero-228x228.jpg"
       }
     ],
-    "description": "Lotos 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Лотос-1 Casablanca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 619,
-    "title": "Lotos 1Darkbarnwood",
+    "title": "Лотос-1 Dark Barnwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13046,15 +13490,16 @@ const products = [
         "image": "image/Межкомнатные двери/Lotos 1/Lotos-1DarkBarnwood-228x228.jpg"
       }
     ],
-    "description": "Lotos 1Darkbarnwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Лотос-1 Dark Barnwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 620,
-    "title": "Lotos 2",
+    "title": "Лотос-2 Casablanca Artglass",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13073,15 +13518,16 @@ const products = [
         "image": "image/Межкомнатные двери/Lotos 2/Lotos-2MilanoVeroArtGlass-228x228.jpg"
       }
     ],
-    "description": "Lotos 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Лотос-2 Casablanca Artglass. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 621,
-    "title": "Lotos 2Darkbarnwoodartglass",
+    "title": "Лотос-2 Dark Barnwood Artglass",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13092,10 +13538,11 @@ const products = [
         "image": "image/Межкомнатные двери/Lotos 2/Lotos-2DarkBarnwoodArtGlass-228x228.jpg"
       }
     ],
-    "description": "Lotos 2Darkbarnwoodartglass. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Лотос-2 Dark Barnwood Artglass. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13111,10 +13558,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/m21-228x228.jpg"
       }
     ],
-    "description": "M21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "M21. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13130,15 +13578,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/m22-228x228.jpg"
       }
     ],
-    "description": "M22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "M22. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 624,
-    "title": "Moda 22",
+    "title": "Мода-22 Cappuccino Melinga Black Line",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13169,15 +13618,16 @@ const products = [
         "image": "image/Межкомнатные двери/Moda 22 22/Moda-22BlackLineCappuccino-228x228.jpg"
       }
     ],
-    "description": "Moda 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Мода-22 Cappuccino Melinga Black Line. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "6"
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 625,
-    "title": "Moda 22Bl",
+    "title": "Мода-22 22bl Brown Dreamline",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13192,10 +13642,11 @@ const products = [
         "image": "image/Межкомнатные двери/Moda 22 22/moda-22BLwhitedreamline-228x228.jpg"
       }
     ],
-    "description": "Moda 22Bl. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Мода-22 22bl Brown Dreamline. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13211,10 +13662,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/ModaWhietMix-228x228.jpg"
       }
     ],
-    "description": "Modawhietmix. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Modawhietmix. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13230,10 +13682,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/NC32-228x228.jpg"
       }
     ],
-    "description": "Nc32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Nc32. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13249,15 +13702,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/NC33-228x228.jpg"
       }
     ],
-    "description": "Nc33. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Nc33. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 629,
-    "title": "Neoklassik 32",
+    "title": "Неоклассик-32 Bianco Veralinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13304,15 +13758,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 32/Neoklassik-32WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Neoklassik 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-32 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "10"
+      "Вариантов": "10",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 630,
-    "title": "Neoklassik 32 Original",
+    "title": "Неоклассик-32 Original Oak",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13323,15 +13778,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 32/neoklassik-32-original-oak-228x228.jpg"
       }
     ],
-    "description": "Neoklassik 32 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-32 Original Oak. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 631,
-    "title": "Neoklassik 33",
+    "title": "Неоклассик-33 Bianco Veralinga White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13382,15 +13838,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 33/Neoklassik-33WhiteSilkWhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Neoklassik 33. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-33 Bianco Veralinga White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "11"
+      "Вариантов": "11",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 632,
-    "title": "Neoklassik 33 Original",
+    "title": "Неоклассик-33 Original Oak White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13401,15 +13858,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 33/neoklassik-33-original-oak-white-srystal-228x228.jpg"
       }
     ],
-    "description": "Neoklassik 33 Original. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-33 Original Oak White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 633,
-    "title": "Neoklassik 34",
+    "title": "Неоклассик-34 White Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13432,15 +13890,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 34/Neoklassik-34WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Neoklassik 34. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-34 White Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 634,
-    "title": "Neoklassik 35",
+    "title": "Неоклассик-35 Grey Matt White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13471,15 +13930,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 35/Neoklassik-35WhiteSilkWhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Neoklassik 35. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-35 Grey Matt White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "6"
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 635,
-    "title": "Neoklassik32",
+    "title": "Неоклассик-32 32nordic",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13498,15 +13958,16 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 32/Neoklassik32WhiteWood-228x228.jpg"
       }
     ],
-    "description": "Neoklassik32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-32 32nordic. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 636,
-    "title": "Neoklassik33",
+    "title": "Неоклассик-33 33nordic",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13525,10 +13986,11 @@ const products = [
         "image": "image/Межкомнатные двери/Neoklassik 33/Neoklassik33WhiteWood-228x228.jpg"
       }
     ],
-    "description": "Neoklassik33. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Неоклассик-33 33nordic. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13544,10 +14006,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/P10-228x228.jpg"
       }
     ],
-    "description": "P10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "P10. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13563,10 +14026,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/P11-1-228x228.jpg"
       }
     ],
-    "description": "P11 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "P11 1. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13582,10 +14046,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/P12-228x228.jpg"
       }
     ],
-    "description": "P12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "P12. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -13601,15 +14066,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/P13-228x228.jpg"
       }
     ],
-    "description": "P13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "P13. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 641,
-    "title": "Porta 27",
+    "title": "Порта-27 27snowveralinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13620,15 +14086,16 @@ const products = [
         "image": "image/Межкомнатные двери/Porta 27/Porta-27SnowVeralingaMagicFog-228x228.jpg"
       }
     ],
-    "description": "Porta 27. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Порта-27 27snowveralinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 642,
-    "title": "Porta 30",
+    "title": "Porta 30 Bianco Veralinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13639,15 +14106,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Porta-30BiancoVeralingaMagicFog-228x228.jpg"
       }
     ],
-    "description": "Porta 30. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Porta 30 Bianco Veralinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 643,
-    "title": "Porta21",
+    "title": "Porta21 White Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13658,15 +14126,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Porta21WhiteWood-228x228.jpg"
       }
     ],
-    "description": "Porta21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Porta21 White Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 644,
-    "title": "Porta22",
+    "title": "Porta22 White Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13677,15 +14146,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Porta22WhiteWood-228x228.jpg"
       }
     ],
-    "description": "Porta22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Porta22 White Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 645,
-    "title": "Porta28",
+    "title": "Порта-28 Bianco Veralinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13708,15 +14178,16 @@ const products = [
         "image": "image/Межкомнатные двери/Porta 28/porta28wengeveralinga-228x228.jpg"
       }
     ],
-    "description": "Porta28. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Порта-28 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 646,
-    "title": "Prima 0",
+    "title": "Prima 0 Grey Silk",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13731,15 +14202,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Prima-0WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Prima 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prima 0 Grey Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 647,
-    "title": "Prima 10",
+    "title": "Прима-10 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13782,15 +14254,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 10/Prima-10WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Prima 10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-10 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "9"
+      "Вариантов": "9",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 648,
-    "title": "Prima 10 F2",
+    "title": "Прима-10 F2 Grey Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13805,15 +14278,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 10/prima-10-f2-white-matt-228x228.jpg"
       }
     ],
-    "description": "Prima 10 F2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-10 F2 Grey Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 649,
-    "title": "Prima 10 F7",
+    "title": "Прима-10 F7 Grey Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13828,15 +14302,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 10/prima-10-f7-white-matt-228x228.jpg"
       }
     ],
-    "description": "Prima 10 F7. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-10 F7 Grey Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 650,
-    "title": "Prima 11",
+    "title": "Prima 11 White Mix",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13847,15 +14322,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Prima-11Whitemix-228x228.jpg"
       }
     ],
-    "description": "Prima 11. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prima 11 White Mix. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 651,
-    "title": "Prima 11 1",
+    "title": "Prima 11 1 Cappuccino Melinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13894,15 +14370,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Prima-11-1WhiteSilkMagicFog-228x228.jpg"
       }
     ],
-    "description": "Prima 11 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prima 11 1 Cappuccino Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "8"
+      "Вариантов": "8",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 652,
-    "title": "Prima 12",
+    "title": "Прима-12 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13941,15 +14418,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 12/Prima-12WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Prima 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-12 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "8"
+      "Вариантов": "8",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 653,
-    "title": "Prima 12 F2",
+    "title": "Прима-12 F2 Grey Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13964,15 +14442,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 12/prima-12-f2-white-matt-228x228.jpg"
       }
     ],
-    "description": "Prima 12 F2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-12 F2 Grey Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 654,
-    "title": "Prima 12 F7",
+    "title": "Прима-12 F7 Grey Matt",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -13987,15 +14466,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 12/prima-12-f7-white-matt-228x228.jpg"
       }
     ],
-    "description": "Prima 12 F7. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-12 F7 Grey Matt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 655,
-    "title": "Prima 13 0 1",
+    "title": "Prima 13 0 1 Cappuccino Melinga Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14030,15 +14510,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Prima-13-0-1WhiteSilkMagicFog-228x228.jpg"
       }
     ],
-    "description": "Prima 13 0 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prima 13 0 1 Cappuccino Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "7"
+      "Вариантов": "7",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 656,
-    "title": "Prima 13 F2 0 0",
+    "title": "Prima 13 F2 0 0 White Matt White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14049,15 +14530,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/prima-13-f2-0-0-white-matt-white-srystal-228x228.jpg"
       }
     ],
-    "description": "Prima 13 F2 0 0. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prima 13 F2 0 0 White Matt White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 657,
-    "title": "Prima 13 F7 0 1",
+    "title": "Prima 13 F7 0 1 Grey Matt Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14072,15 +14554,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/prima-13-f7-0-1-white-matt-228x228.jpg"
       }
     ],
-    "description": "Prima 13 F7 0 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prima 13 F7 0 1 Grey Matt Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 658,
-    "title": "Prima 2",
+    "title": "Прима-2 Cappuccino Melinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14127,15 +14610,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/Prima-2WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Prima 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Cappuccino Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "10"
+      "Вариантов": "10",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 659,
-    "title": "Prima 2 Alaska",
+    "title": "Прима-2 Alaska",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14146,15 +14630,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/prima-2-alaska-228x228.jpg"
       }
     ],
-    "description": "Prima 2 Alaska. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Alaska. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 660,
-    "title": "Prima 2 Look Art",
+    "title": "Прима-2 Look Art",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14165,15 +14650,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/prima-2-look-art-228x228.jpg"
       }
     ],
-    "description": "Prima 2 Look Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Look Art. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 661,
-    "title": "Prima 20",
+    "title": "Прима-20",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14196,15 +14682,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/Prima-20WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Prima 20. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-20. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 662,
-    "title": "Prima 22",
+    "title": "Прима-22",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14227,15 +14714,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/Prima-22WhiteSilk-228x228.jpg"
       }
     ],
-    "description": "Prima 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-22. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 663,
-    "title": "Prima 2Ash",
+    "title": "Прима-2 Ash White",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14246,15 +14734,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/Prima-2AshWhite-228x228.jpg"
       }
     ],
-    "description": "Prima 2Ash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Ash White. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 664,
-    "title": "Prima 2Ashwood",
+    "title": "Прима-2 Ash Wood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14265,15 +14754,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/Prima-2AshWood-228x228.jpg"
       }
     ],
-    "description": "Prima 2Ashwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Ash Wood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 665,
-    "title": "Prima 3",
+    "title": "Прима-3 Cappuccino Melinga White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14324,15 +14814,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 3/Prima-3WhiteSilkWhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Prima 3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-3 Cappuccino Melinga White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "11"
+      "Вариантов": "11",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 666,
-    "title": "Prima 3 Alaska",
+    "title": "Прима-3 Alaska White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14343,15 +14834,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 3/prima-3-alaska-white-srystal-228x228.jpg"
       }
     ],
-    "description": "Prima 3 Alaska. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-3 Alaska White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 667,
-    "title": "Prima 3 Look Art",
+    "title": "Прима-3 Look Art White Srystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14362,15 +14854,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 3/prima-3-look-art-white-srystal-228x228.jpg"
       }
     ],
-    "description": "Prima 3 Look Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-3 Look Art White Srystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 668,
-    "title": "Prima 3Ash",
+    "title": "Прима-3 Ash White Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14381,15 +14874,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 3/Prima-3AshWhiteWhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Prima 3Ash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-3 Ash White Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 669,
-    "title": "Prima12",
+    "title": "Прима-12 White Mix",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14404,15 +14898,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 12/Prima12WhiteWood-228x228.jpg"
       }
     ],
-    "description": "Prima12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-12 White Mix. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 670,
-    "title": "Prima13",
+    "title": "Prima13 White Mix",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14427,15 +14922,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Prima13WhiteWood-228x228.jpg"
       }
     ],
-    "description": "Prima13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Prima13 White Mix. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 671,
-    "title": "Prima2",
+    "title": "Прима-2 Bianco Veralinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14470,15 +14966,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/Prima2WhiteDreamline-228x228.jpg"
       }
     ],
-    "description": "Prima2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "7"
+      "Вариантов": "7",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 672,
-    "title": "Prima2 1",
+    "title": "Прима-2 Cappuccino Veralinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14489,15 +14986,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/Prima2-1CappuccinoVeralinga-228x228.jpg"
       }
     ],
-    "description": "Prima2 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Cappuccino Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 673,
-    "title": "Prima2Chaletprovence",
+    "title": "Прима-2 Chalet Provence",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14508,15 +15006,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 2/Prima2ChaletProvence-228x228.jpg"
       }
     ],
-    "description": "Prima2Chaletprovence. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-2 Chalet Provence. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 674,
-    "title": "Prima3",
+    "title": "Прима-3",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14551,15 +15050,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 3/Prima3WhiteDreamline-228x228.jpg"
       }
     ],
-    "description": "Prima3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-3. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "7"
+      "Вариантов": "7",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 675,
-    "title": "Prima3 1",
+    "title": "Прима-3 Cappuccino Veralinga",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14570,15 +15070,16 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 3/Prima3-1CappuccinoVeralinga-228x228.jpg"
       }
     ],
-    "description": "Prima3 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-3 Cappuccino Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 676,
-    "title": "Prima3Chaletprovence",
+    "title": "Прима-3 Chalet Provence",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14589,10 +15090,11 @@ const products = [
         "image": "image/Межкомнатные двери/Prima 3/Prima3ChaletProvence-228x228.jpg"
       }
     ],
-    "description": "Prima3Chaletprovence. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Прима-3 Chalet Provence. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -14608,10 +15110,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/RondoF-22-BelDub--228x228.jpg"
       }
     ],
-    "description": "Rondof 22 Beldub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Rondof 22 Beldub. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -14627,15 +15130,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/RondoF-22-BelDub-Hud--228x228.jpg"
       }
     ],
-    "description": "Rondof 22 Beldub Hud. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Rondof 22 Beldub Hud. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 679,
-    "title": "Skinni 10",
+    "title": "Skinni 10 Creamy",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14646,10 +15150,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni-10Creamy-228x228.jpg"
       }
     ],
-    "description": "Skinni 10. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 10 Creamy. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -14665,15 +15170,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/skinni-10-grace-228x228.jpg"
       }
     ],
-    "description": "Skinni 10 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 10 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 681,
-    "title": "Skinni 11 1",
+    "title": "Скинни-11 Creamy Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14684,15 +15190,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 11/Skinni-11-1CreamyMagicFog-228x228.jpg"
       }
     ],
-    "description": "Skinni 11 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-11 Creamy Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 682,
-    "title": "Skinni 11 1 Grace Magic Fog",
+    "title": "Скинни-11 Grace Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14703,15 +15210,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 11/skinni-11-1-grace-magic-fog-228x228.jpg"
       }
     ],
-    "description": "Skinni 11 1 Grace Magic Fog. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-11 Grace Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 683,
-    "title": "Skinni 12",
+    "title": "Скинни-12 Casablanca",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14730,15 +15238,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 12/Skinni-12Whitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 12. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-12 Casablanca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 684,
-    "title": "Skinni 12 Grace",
+    "title": "Скинни-12 Grace",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14749,15 +15258,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 12/skinni-12-grace-228x228.jpg"
       }
     ],
-    "description": "Skinni 12 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-12 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 685,
-    "title": "Skinni 12Darkbarnwood",
+    "title": "Скинни-12 Dark Barnwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14768,15 +15278,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 12/skinni-12DarkBarnwood-228x228.jpg"
       }
     ],
-    "description": "Skinni 12Darkbarnwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-12 Dark Barnwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 686,
-    "title": "Skinni 13",
+    "title": "Skinni 13 Casablanca Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14795,15 +15306,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni-13Whitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 13. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 13 Casablanca Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 687,
-    "title": "Skinni 13 Grace",
+    "title": "Skinni 13 Grace White Crystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14814,15 +15326,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/skinni-13-grace-white-crystal-228x228.jpg"
       }
     ],
-    "description": "Skinni 13 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 13 Grace White Crystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 688,
-    "title": "Skinni 14",
+    "title": "Skinni 14 Casablanca",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14841,10 +15354,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni-14Whitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 14. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 14 Casablanca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -14860,15 +15374,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/skinni-14-grace-228x228.jpg"
       }
     ],
-    "description": "Skinni 14 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 14 Grace. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 690,
-    "title": "Skinni 14Art",
+    "title": "Skinni 14art Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14879,15 +15394,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni-14ArtWhitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 14Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 14art Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 691,
-    "title": "Skinni 14Darkbarnwood",
+    "title": "Skinni 14 Dark Barnwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14898,15 +15414,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/skinni-14DarkBarnwood-228x228.jpg"
       }
     ],
-    "description": "Skinni 14Darkbarnwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 14 Dark Barnwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 692,
-    "title": "Skinni 15",
+    "title": "Скинни-15 Casablanca Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14921,15 +15438,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 15/Skinni-15Whitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 15. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-15 Casablanca Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 693,
-    "title": "Skinni 15 1",
+    "title": "Скинни-15 Creamy Magicmoru",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14940,15 +15458,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 15/Skinni-15-1CreamyMagicMoru-228x228.jpg"
       }
     ],
-    "description": "Skinni 15 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-15 Creamy Magicmoru. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 694,
-    "title": "Skinni 15 1 Grace",
+    "title": "Скинни-15 Grace White Crystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14959,15 +15478,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 15/skinni-15-1-grace-white-crystal-228x228.jpg"
       }
     ],
-    "description": "Skinni 15 1 Grace. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-15 Grace White Crystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 695,
-    "title": "Skinni 15Art",
+    "title": "Скинни-15 15art Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14978,15 +15498,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 15/Skinni-15ArtWhitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 15Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-15 15art Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 696,
-    "title": "Skinni 15Darkbarnwood",
+    "title": "Скинни-15 Dark Barnwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -14997,15 +15518,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 15/skinni-15DarkBarnwood-228x228.jpg"
       }
     ],
-    "description": "Skinni 15Darkbarnwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-15 Dark Barnwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 697,
-    "title": "Skinni 20",
+    "title": "Скинни-20 Casablanca",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15020,15 +15542,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 20/Skinni-20Whitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 20. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-20 Casablanca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 698,
-    "title": "Skinni 20Art",
+    "title": "Скинни-20 20art Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15039,15 +15562,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 20/Skinni-20ArtWhitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 20Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-20 20art Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 699,
-    "title": "Skinni 21",
+    "title": "Skinni 21 Casablanca Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15062,15 +15586,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni-21Whitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 21 Casablanca Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 700,
-    "title": "Skinni 21Art",
+    "title": "Skinni 21art Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15081,15 +15606,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni-21ArtWhitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 21Art. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 21art Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 701,
-    "title": "Skinni 32",
+    "title": "Skinni 32 Casablanca",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15104,15 +15630,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/skinni-32milanovero-228x228.jpg"
       }
     ],
-    "description": "Skinni 32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 32 Casablanca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 702,
-    "title": "Skinni 32Fresco",
+    "title": "Skinni 32fresco",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15123,15 +15650,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni-32fresco-228x228.jpg"
       }
     ],
-    "description": "Skinni 32Fresco. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 32fresco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 703,
-    "title": "Skinni 33",
+    "title": "Скинни-33 Casablanca",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15146,15 +15674,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 33/skinni-33milanovero-228x228.jpg"
       }
     ],
-    "description": "Skinni 33. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-33 Casablanca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 704,
-    "title": "Skinni 33Fressco",
+    "title": "Скинни-33 33fressco",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15165,15 +15694,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 33/Skinni-33Fressco-228x228.jpg"
       }
     ],
-    "description": "Skinni 33Fressco. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-33 33fressco. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 705,
-    "title": "Skinni 51",
+    "title": "Skinni 51 Whitey",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15184,15 +15714,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni-51Whitey-228x228.jpg"
       }
     ],
-    "description": "Skinni 51. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni 51 Whitey. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 706,
-    "title": "Skinni32",
+    "title": "Skinni32 Italiano Vero",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15203,15 +15734,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Skinni32Italianovero-228x228.jpg"
       }
     ],
-    "description": "Skinni32. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skinni32 Italiano Vero. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 707,
-    "title": "Skinni33",
+    "title": "Скинни-33 Italiano Vero",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15222,15 +15754,16 @@ const products = [
         "image": "image/Межкомнатные двери/Skinni 33/Skinni33Italianovero-228x228.jpg"
       }
     ],
-    "description": "Skinni33. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Скинни-33 Italiano Vero. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 708,
-    "title": "Status 12F 22 Beldub",
+    "title": "Status 12f 22 Beldub",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15241,15 +15774,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Status-12F-22-BelDub--228x228.jpg"
       }
     ],
-    "description": "Status 12F 22 Beldub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Status 12f 22 Beldub. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 709,
-    "title": "Status 13F 22 Beldub",
+    "title": "Status 13f 22 Beldub Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15260,15 +15794,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Status-13F-22-BelDub-WhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Status 13F 22 Beldub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Status 13f 22 Beldub Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 710,
-    "title": "Status 14F 22 Beldub",
+    "title": "Status 14f 22 Beldub",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15279,15 +15814,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Status-14F-22-BelDub--228x228.jpg"
       }
     ],
-    "description": "Status 14F 22 Beldub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Status 14f 22 Beldub. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 711,
-    "title": "Status 15F 22 Beldub",
+    "title": "Status 15f 22 Beldub Whitesrystal",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15298,10 +15834,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Status-15F-22-BelDub-WhiteSrystal-228x228.jpg"
       }
     ],
-    "description": "Status 15F 22 Beldub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Status 15f 22 Beldub Whitesrystal. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -15317,10 +15854,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/StilF-22-BelDub--228x228.jpg"
       }
     ],
-    "description": "Stilf 22 Beldub. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Stilf 22 Beldub. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -15336,15 +15874,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/StilF-22-BelDub-Hud--228x228.jpg"
       }
     ],
-    "description": "Stilf 22 Beldub Hud. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Stilf 22 Beldub Hud. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 714,
-    "title": "Tviggi 11 3",
+    "title": "Tviggi 11 3 Grey Matt Magic Fog",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15367,15 +15906,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Tviggi-11-3WhiteSilkMagicFog-228x228.jpg"
       }
     ],
-    "description": "Tviggi 11 3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Tviggi 11 3 Grey Matt Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "4"
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 715,
-    "title": "Virazh 1",
+    "title": "Вираж-1 Casablanca",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15394,15 +15934,16 @@ const products = [
         "image": "image/Межкомнатные двери/Virazh 1/Virazh-1MilanoVero-228x228.jpg"
       }
     ],
-    "description": "Virazh 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Вираж-1 Casablanca. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 716,
-    "title": "Virazh 1Darkbarnwood",
+    "title": "Вираж-1 Dark Barnwood",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15413,15 +15954,16 @@ const products = [
         "image": "image/Межкомнатные двери/Virazh 1/Virazh-1DarkBarnwood-228x228.jpg"
       }
     ],
-    "description": "Virazh 1Darkbarnwood. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Вираж-1 Dark Barnwood. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 717,
-    "title": "Virazh 2",
+    "title": "Virazh 2 Casablanca Artglass",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15440,15 +15982,16 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Virazh-2MilanoVeroArtGlass-228x228.jpg"
       }
     ],
-    "description": "Virazh 2. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Virazh 2 Casablanca Artglass. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 718,
-    "title": "Virazh 2Darkbarnwoodartglass",
+    "title": "Virazh 2 Dark Barnwood Artglass",
     "category": "Межкомнатные двери",
     "material": "Дверь",
     "price": 0,
@@ -15459,10 +16002,11 @@ const products = [
         "image": "image/Межкомнатные двери/Другие/Virazh-2DarkBarnwoodArtGlass-228x228.jpg"
       }
     ],
-    "description": "Virazh 2Darkbarnwoodartglass. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Virazh 2 Dark Barnwood Artglass. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Межкомнатные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -15866,7 +16410,7 @@ const products = [
   },
   {
     "id": 740,
-    "title": "Bravo 21",
+    "title": "Браво-21 Bianco Veralinga",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -15885,18 +16429,19 @@ const products = [
         "image": "image/Складные двери/BRAVO 21/bravo-21-wenge-melinga-228x228.jpg"
       }
     ],
-    "description": "Bravo 21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 741,
-    "title": "Bravo 22",
+    "title": "Браво-22 Bianco Veralinga",
     "category": "Складные двери",
     "material": "Дверь",
-    "price": 0,
+    "price": 5970,
     "image": "image/Складные двери/BRAVO 22/bravo-22-bianco-veralinga-228x228.jpg",
     "variants": [
       {
@@ -15912,15 +16457,18 @@ const products = [
         "image": "image/Складные двери/BRAVO 22/bravo-22-wenge-melinga-228x228.jpg"
       }
     ],
-    "description": "Bravo 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "3"
-    }
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
+    },
+    "source": "dveri.com",
+    "official": true
   },
   {
     "id": 742,
-    "title": "Bravo 23",
+    "title": "Браво-23 Bianco Veralinga",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -15939,10 +16487,11 @@ const products = [
         "image": "image/Складные двери/BRAVO 23/bravo-23-wenge-melinga-228x228.jpg"
       }
     ],
-    "description": "Bravo 23. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "3"
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -16004,7 +16553,7 @@ const products = [
   },
   {
     "id": 746,
-    "title": "Dsk007",
+    "title": "DSK007 Dsk007venge",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16019,15 +16568,16 @@ const products = [
         "image": "image/Складные двери/DSK007/DSK007Vishnya-228x228.jpg"
       }
     ],
-    "description": "Dsk007. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "DSK007 Dsk007venge. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 747,
-    "title": "Dsk007Belijglyanec",
+    "title": "DSK007 Dsk007belijglyanec",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16038,15 +16588,16 @@ const products = [
         "image": "image/Складные двери/DSK007/DSK007Belijglyanec-228x228.jpg"
       }
     ],
-    "description": "Dsk007Belijglyanec. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "DSK007 Dsk007belijglyanec. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 748,
-    "title": "Dsk007Milanskijoreh",
+    "title": "DSK007 Dsk007milanskijoreh",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16057,15 +16608,16 @@ const products = [
         "image": "image/Складные двери/DSK007/DSK007Milanskijoreh-228x228.jpg"
       }
     ],
-    "description": "Dsk007Milanskijoreh. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "DSK007 Dsk007milanskijoreh. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 749,
-    "title": "Dsk007Serijyasen",
+    "title": "DSK007 Dsk007serijyasen",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16076,15 +16628,16 @@ const products = [
         "image": "image/Складные двери/DSK007/DSK007Serijyasen-228x228.jpg"
       }
     ],
-    "description": "Dsk007Serijyasen. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "DSK007 Dsk007serijyasen. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 750,
-    "title": "Dver Skladnaya Eko Shpon Bravo 21",
+    "title": "Браво-21 Snow Melinga",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16095,15 +16648,16 @@ const products = [
         "image": "image/Складные двери/BRAVO 21/dver-skladnaya-eko-shpon-bravo-21-snow-melinga-228x228.jpg"
       }
     ],
-    "description": "Dver Skladnaya Eko Shpon Bravo 21. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-21 Snow Melinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 751,
-    "title": "Dver Skladnaya Eko Shpon Bravo 22",
+    "title": "Браво-22 Snow Melinga Magic Fog",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16114,15 +16668,16 @@ const products = [
         "image": "image/Складные двери/BRAVO 22/dver-skladnaya-eko-shpon-bravo-22-snow-melinga-magic-fog-228.jpg"
       }
     ],
-    "description": "Dver Skladnaya Eko Shpon Bravo 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 Snow Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 752,
-    "title": "Dver Skladnaya Eko Shpon Bravo 23",
+    "title": "Браво-23 Snow Melinga Magic Fog",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16133,15 +16688,16 @@ const products = [
         "image": "image/Складные двери/BRAVO 23/dver-skladnaya-eko-shpon-bravo-23-snow-melinga-magic-fog-228.jpg"
       }
     ],
-    "description": "Dver Skladnaya Eko Shpon Bravo 23. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-23 Snow Melinga Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 753,
-    "title": "Dver Skladnaya Eko Shpon Tviggi 11 3",
+    "title": "Твигги 11-3 Tviggi Bianco Veralinga Magic",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16152,15 +16708,16 @@ const products = [
         "image": "image/Складные двери/TVIGGI 11-3/dver-skladnaya-eko-shpon-tviggi-11-3-bianco-veralinga-magic-.jpg"
       }
     ],
-    "description": "Dver Skladnaya Eko Shpon Tviggi 11 3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Твигги 11-3 Tviggi Bianco Veralinga Magic. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 754,
-    "title": "Dver Skladnaya Pet Bravo 20",
+    "title": "Браво-20 White Silk",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16171,15 +16728,16 @@ const products = [
         "image": "image/Складные двери/BRAVO 20/dver-skladnaya-pet-bravo-20-white-silk-228x228.jpg"
       }
     ],
-    "description": "Dver Skladnaya Pet Bravo 20. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-20 White Silk. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 755,
-    "title": "Dver Skladnaya Pet Bravo 22",
+    "title": "Браво-22 White Silk Magic Fog",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16190,15 +16748,16 @@ const products = [
         "image": "image/Складные двери/BRAVO 22/dver-skladnaya-pet-bravo-22-white-silk-magic-fog-228x228.jpg"
       }
     ],
-    "description": "Dver Skladnaya Pet Bravo 22. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Браво-22 White Silk Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 756,
-    "title": "Dver Skladnaya Pet Tviggi 11 3",
+    "title": "Твигги 11-3 Tviggi Grey Silk Magic Fog",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16213,10 +16772,11 @@ const products = [
         "image": "image/Складные двери/TVIGGI 11-3/dver-skladnaya-pet-tviggi-11-3-white-silk-magic-fog-228x228.jpg"
       }
     ],
-    "description": "Dver Skladnaya Pet Tviggi 11 3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Твигги 11-3 Tviggi Grey Silk Magic Fog. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "2"
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -16278,7 +16838,7 @@ const products = [
   },
   {
     "id": 760,
-    "title": "Tviggi 11 3",
+    "title": "Твигги 11-3 Tviggi Bianco Veralinga",
     "category": "Складные двери",
     "material": "Дверь",
     "price": 0,
@@ -16309,15 +16869,16 @@ const products = [
         "image": "image/Складные двери/TVIGGI 11-3/tviggi-11-3-white-matt-228x228.jpg"
       }
     ],
-    "description": "Tviggi 11 3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Твигги 11-3 Tviggi Bianco Veralinga. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Складные двери",
-      "Вариантов": "6"
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 761,
-    "title": "Invizibl Abs Prime Pc2 M3Wc",
+    "title": "Инвизибл Invizibl Abs Prime Pc2 M3wc",
     "category": "Скрытые двери",
     "material": "Дверь",
     "price": 0,
@@ -16328,15 +16889,16 @@ const products = [
         "image": "image/Скрытые двери/invizibl/invizibl-abs-prime-pc2-m3wc-228x228.jpg"
       }
     ],
-    "description": "Invizibl Abs Prime Pc2 M3Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Инвизибл Invizibl Abs Prime Pc2 M3wc. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Скрытые двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 762,
-    "title": "Invizibl Al Agb Prime Alyuminij Pc2 M3Wc",
+    "title": "Инвизибл Invizibl Al Agb Prime Alyuminij Pc2 M3wc",
     "category": "Скрытые двери",
     "material": "Дверь",
     "price": 0,
@@ -16347,15 +16909,16 @@ const products = [
         "image": "image/Скрытые двери/invizibl/invizibl-al-agb-prime-alyuminij-pc2-m3wc-228x228.jpg"
       }
     ],
-    "description": "Invizibl Al Agb Prime Alyuminij Pc2 M3Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Инвизибл Invizibl Al Agb Prime Alyuminij Pc2 M3wc. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Скрытые двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 763,
-    "title": "Invizibl Al Prime",
+    "title": "Инвизибл Invizibl Al Prime Chernyj Pc2 M3wc",
     "category": "Скрытые двери",
     "material": "Дверь",
     "price": 0,
@@ -16366,15 +16929,16 @@ const products = [
         "image": "image/Скрытые двери/invizibl/invizibl-al-prime-chernyj-pc2-m3wc-228x228.jpg"
       }
     ],
-    "description": "Invizibl Al Prime. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Инвизибл Invizibl Al Prime Chernyj Pc2 M3wc. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Скрытые двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 764,
-    "title": "Invizibl Insajd Al Prime Alyuminij Pc2M3Wc",
+    "title": "Инвизибл Invizibl Insajd Al Prime Alyuminij Pc2m3wc",
     "category": "Скрытые двери",
     "material": "Дверь",
     "price": 0,
@@ -16385,10 +16949,11 @@ const products = [
         "image": "image/Скрытые двери/invizibl/invizibl-insajd-al-prime-alyuminij-pc2m3wc-228x228.jpg"
       }
     ],
-    "description": "Invizibl Insajd Al Prime Alyuminij Pc2M3Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Инвизибл Invizibl Insajd Al Prime Alyuminij Pc2m3wc. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Скрытые двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
@@ -16982,7 +17547,7 @@ const products = [
   },
   {
     "id": 796,
-    "title": "Mdf 32G Grunt",
+    "title": "Mdf 32g Grunt",
     "category": "Специальные двери",
     "material": "Дверь",
     "price": 0,
@@ -16993,17 +17558,18 @@ const products = [
         "image": "image/Специальные двери/Специальные двери Браво, Bravo/mdf-32g-grunt-228x228.jpg"
       }
     ],
-    "description": "Mdf 32G Grunt. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Mdf 32g Grunt. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Специальные двери",
-      "Вариантов": "1"
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
     }
   },
   {
     "id": 797,
     "title": "01935Ade71Afacc158Dc426Fe1094E4D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/01935ade71afacc158dc426fe1094e4d-228x228.jpg",
     "variants": [
@@ -17016,13 +17582,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 798,
     "title": "02Bae1F9A724F138C992B9B1B08981E7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/02bae1f9a724f138c992b9b1b08981e7-228x228.jpg",
     "variants": [
@@ -17035,13 +17602,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 799,
     "title": "03Dd77F93F94B861B2B11Bbc8C919Bfe",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/03dd77f93f94b861b2b11bbc8c919bfe-228x228.jpg",
     "variants": [
@@ -17054,13 +17622,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 800,
     "title": "03F5373Dbd95F1A988D0B6C5E8B301E0",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/03f5373dbd95f1a988d0b6c5e8b301e0-228x228.jpg",
     "variants": [
@@ -17073,13 +17642,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 801,
     "title": "04Afb6C7B1037792304E5F01Bf85716D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/04afb6c7b1037792304e5f01bf85716d-228x228.jpg",
     "variants": [
@@ -17092,13 +17662,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 802,
     "title": "066D9B7D62D7B39C4D561Dee0D711493",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/066d9b7d62d7b39c4d561dee0d711493-228x228.jpg",
     "variants": [
@@ -17111,13 +17682,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 803,
     "title": "06C0Cd799066E0Fa23Fc1F8Dc7135058",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/06c0cd799066e0fa23fc1f8dc7135058-228x228.jpg",
     "variants": [
@@ -17130,13 +17702,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 804,
     "title": "092830C2866A2C6614Cea65B69E87D57",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/092830c2866a2c6614cea65b69e87d57-228x228.jpg",
     "variants": [
@@ -17149,13 +17722,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 805,
     "title": "0Ab5B7E00F9760C9Ef3B9582B63Bbad0",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/0ab5b7e00f9760c9ef3b9582b63bbad0-228x228.jpg",
     "variants": [
@@ -17168,13 +17742,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 806,
     "title": "0C1D51Cb16846Fb43B43C13Bda0F874C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/0c1d51cb16846fb43b43c13bda0f874c-228x228.jpg",
     "variants": [
@@ -17187,13 +17762,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 807,
     "title": "0C414609C9D6Fa67F272353Ae267325B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/0c414609c9d6fa67f272353ae267325b-228x228.jpg",
     "variants": [
@@ -17206,13 +17782,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 808,
     "title": "0C4B607F96Fb58755A74C28Be5676A5F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/0c4b607f96fb58755a74c28be5676a5f-228x228.jpg",
     "variants": [
@@ -17225,13 +17802,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 809,
     "title": "0D6467D8A7Daa804A885Fe9Dcdc716A6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/0d6467d8a7daa804a885fe9dcdc716a6-228x228.jpg",
     "variants": [
@@ -17244,13 +17822,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 810,
     "title": "0Dc4Bfedc40E9A34B139B93252Ab48F2",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/0dc4bfedc40e9a34b139b93252ab48f2-228x228.jpg",
     "variants": [
@@ -17263,13 +17842,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 811,
     "title": "104690Ad232Ca45D6C20A89F978202Fd",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/104690ad232ca45d6c20a89f978202fd-228x228.jpg",
     "variants": [
@@ -17282,13 +17862,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 812,
     "title": "10Be2A3E2Ec4Bb17623Daeb0F6Ecf9F8",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/10be2a3e2ec4bb17623daeb0f6ecf9f8-228x228.jpg",
     "variants": [
@@ -17301,13 +17882,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 813,
     "title": "10De0Ead174Aaec7879Bd41252Ea3F76",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/10de0ead174aaec7879bd41252ea3f76-228x228.jpg",
     "variants": [
@@ -17320,13 +17902,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 814,
     "title": "122623Cf64381D33Ad392689A52B143A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/122623cf64381d33ad392689a52b143a-228x228.jpg",
     "variants": [
@@ -17339,13 +17922,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 815,
     "title": "1354A6Bccc929F7508D6Cbd905E72533",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/1354a6bccc929f7508d6cbd905e72533-228x228.jpg",
     "variants": [
@@ -17358,13 +17942,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 816,
     "title": "17780499D058A93610Aeb309B5E41Ffb",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/17780499d058a93610aeb309b5e41ffb-228x228.jpg",
     "variants": [
@@ -17377,13 +17962,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 817,
     "title": "17Bab9F36E0Ccc4D6555F16A2844Cbb7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/17bab9f36e0ccc4d6555f16a2844cbb7-228x228.jpg",
     "variants": [
@@ -17396,13 +17982,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 818,
     "title": "18639Aba648A1Ddd2Bd077Bc1572A10A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/18639aba648a1ddd2bd077bc1572a10a-228x228.jpg",
     "variants": [
@@ -17415,13 +18002,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 819,
     "title": "19Fb36A60A6914Fc7D8A8Ce47Fe4A12C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/19fb36a60a6914fc7d8a8ce47fe4a12c-228x228.jpg",
     "variants": [
@@ -17434,13 +18022,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 820,
     "title": "1Bcd9576D664Cde6051462F6082388D7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/1bcd9576d664cde6051462f6082388d7-228x228.jpg",
     "variants": [
@@ -17453,13 +18042,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 821,
     "title": "1F2Cf427Bad0Fbaf6E74F01438D83173",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/1f2cf427bad0fbaf6e74f01438d83173-228x228.jpg",
     "variants": [
@@ -17472,13 +18062,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 822,
     "title": "2024Ae54Ec9A63F95D0Cd5A33A1146B8",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2024ae54ec9a63f95d0cd5a33a1146b8-228x228.jpg",
     "variants": [
@@ -17491,13 +18082,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 823,
     "title": "208Eea4Acf6258Fd21Bbac72E76De77C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/208eea4acf6258fd21bbac72e76de77c-228x228.jpg",
     "variants": [
@@ -17510,13 +18102,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 824,
     "title": "220D7A3639F85B528Fdf1Fc4D4C62557",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/220d7a3639f85b528fdf1fc4d4c62557-228x228.jpg",
     "variants": [
@@ -17529,13 +18122,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 825,
     "title": "237Bcf69414F6B11474E3A1Fa70Bb95D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/237bcf69414f6b11474e3a1fa70bb95d-228x228.jpg",
     "variants": [
@@ -17548,13 +18142,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 826,
     "title": "256A5Cbd5Ad82Ec577542A9B25D11260",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/256a5cbd5ad82ec577542a9b25d11260-228x228.jpg",
     "variants": [
@@ -17567,13 +18162,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 827,
     "title": "261Ff8F4Ceb3B94393A69Da7Ca7F73Ae",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/261ff8f4ceb3b94393a69da7ca7f73ae-228x228.jpg",
     "variants": [
@@ -17586,13 +18182,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 828,
     "title": "275555D0Db1C910489C65C8B3Adc55Cb",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/275555d0db1c910489c65c8b3adc55cb-228x228.jpg",
     "variants": [
@@ -17605,13 +18202,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 829,
     "title": "281236Ae3F982E91497399Ff4E8452C4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/281236ae3f982e91497399ff4e8452c4-228x228.jpg",
     "variants": [
@@ -17624,13 +18222,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 830,
     "title": "2921B6Bfe2Cf40331B24Db86Bd31D54A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2921b6bfe2cf40331b24db86bd31d54a-228x228.jpg",
     "variants": [
@@ -17643,13 +18242,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 831,
     "title": "2A38A7136C8072F0F74D3908C7263Adf",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2a38a7136c8072f0f74d3908c7263adf-228x228.jpg",
     "variants": [
@@ -17662,13 +18262,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 832,
     "title": "2B43Ff0A93895E9996F1A9Abe545E932",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2b43ff0a93895e9996f1a9abe545e932-228x228.jpg",
     "variants": [
@@ -17681,13 +18282,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 833,
     "title": "2Cafd24F24D4B60A923C28557A1D468E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2cafd24f24d4b60a923c28557a1d468e-228x228.jpg",
     "variants": [
@@ -17700,13 +18302,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 834,
     "title": "2Df69Fbe68455D2B9F1780Daea651966",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2df69fbe68455d2b9f1780daea651966-228x228.jpg",
     "variants": [
@@ -17719,13 +18322,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 835,
     "title": "2E03745121542Ba50C74249Bcf29A9Fd",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2e03745121542ba50c74249bcf29a9fd-228x228.jpg",
     "variants": [
@@ -17738,13 +18342,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 836,
     "title": "2E052786F52Aa3A74757A39804F61B80",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2e052786f52aa3a74757a39804f61b80-228x228.jpg",
     "variants": [
@@ -17757,13 +18362,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 837,
     "title": "2Fb3B1957Df95E10E3D9353Ab1690775",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/2fb3b1957df95e10e3d9353ab1690775-228x228.jpg",
     "variants": [
@@ -17776,13 +18382,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 838,
     "title": "3004077A89B2B27F8Dcd52De486293A3",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3004077a89b2b27f8dcd52de486293a3-228x228.jpg",
     "variants": [
@@ -17795,13 +18402,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 839,
     "title": "3015C5B5D4F3613716B556Fbe448646C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3015c5b5d4f3613716b556fbe448646c-228x228.jpg",
     "variants": [
@@ -17814,13 +18422,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 840,
     "title": "305B402669B6D22Dcb04D5A01607906F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/305b402669b6d22dcb04d5a01607906f-228x228.jpg",
     "variants": [
@@ -17833,13 +18442,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 841,
     "title": "30E06C753195C83822E59B5770Bf46B6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/30e06c753195c83822e59b5770bf46b6-228x228.jpg",
     "variants": [
@@ -17852,13 +18462,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 842,
     "title": "3119F6C2Ad62F62594Bfab2D2E14Fb95",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3119f6c2ad62f62594bfab2d2e14fb95-228x228.jpg",
     "variants": [
@@ -17871,13 +18482,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 843,
     "title": "317587F69Caf2B13759Eb89C64A3Aa45",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/317587f69caf2b13759eb89c64a3aa45-228x228.jpg",
     "variants": [
@@ -17890,13 +18502,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 844,
     "title": "31C02D39Bb4A4D3620921Aeda1F05526",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/31c02d39bb4a4d3620921aeda1f05526-228x228.jpg",
     "variants": [
@@ -17909,13 +18522,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 845,
     "title": "32D2Da5F1475507A1312335E7Fe542B0",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/32d2da5f1475507a1312335e7fe542b0-228x228.jpg",
     "variants": [
@@ -17928,13 +18542,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 846,
     "title": "33Bf0Dad24B75B3002771Ac498868Eae",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/33bf0dad24b75b3002771ac498868eae-228x228.jpg",
     "variants": [
@@ -17947,13 +18562,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 847,
     "title": "346F4265Baa27C4734De33C7C8A71840",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/346f4265baa27c4734de33c7c8a71840-228x228.jpg",
     "variants": [
@@ -17966,13 +18582,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 848,
     "title": "3480F355Fc7C78F096E820239F763077",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3480f355fc7c78f096e820239f763077-228x228.jpg",
     "variants": [
@@ -17985,13 +18602,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 849,
     "title": "35De7Be3615502828Ebbd8E2Df1Bf8F3",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/35de7be3615502828ebbd8e2df1bf8f3-228x228.jpg",
     "variants": [
@@ -18004,13 +18622,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 850,
     "title": "3611231Fabf77276677Ed4704313A6E7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3611231fabf77276677ed4704313a6e7-228x228.jpg",
     "variants": [
@@ -18023,13 +18642,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 851,
     "title": "38189Dc1344D6D840F4D0F09277A1648",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/38189dc1344d6d840f4d0f09277a1648-228x228.jpg",
     "variants": [
@@ -18042,13 +18662,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 852,
     "title": "3985554F0E874Cb9B5099F6454A6D746",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3985554f0e874cb9b5099f6454a6d746-228x228.jpg",
     "variants": [
@@ -18061,13 +18682,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 853,
     "title": "3A1503552Ffd290Df83Fabdacc028Ea4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3a1503552ffd290df83fabdacc028ea4-228x228.jpg",
     "variants": [
@@ -18080,13 +18702,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 854,
     "title": "3A6Cef2B8975Da3Dee2Aec7D5Aa8028E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3a6cef2b8975da3dee2aec7d5aa8028e-228x228.jpg",
     "variants": [
@@ -18099,13 +18722,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 855,
     "title": "3Ad82A75908D9Ee1B313Ab872D21Fc5E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3ad82a75908d9ee1b313ab872d21fc5e-228x228.jpg",
     "variants": [
@@ -18118,13 +18742,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 856,
     "title": "3B6C201Fa74115Bd1Ed946691Baf90B6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3b6c201fa74115bd1ed946691baf90b6-228x228.jpg",
     "variants": [
@@ -18137,13 +18762,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 857,
     "title": "3Bb1A3F8A615768Cce50Ce5Ca08Be391",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3bb1a3f8a615768cce50ce5ca08be391-228x228.jpg",
     "variants": [
@@ -18156,13 +18782,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 858,
     "title": "3C5Ad94D868C4066C0Ed0Ba11Dcd9A70",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3c5ad94d868c4066c0ed0ba11dcd9a70-228x228.jpg",
     "variants": [
@@ -18175,13 +18802,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 859,
     "title": "3E4E3F15A638192F3377Dfdcc921D70C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3e4e3f15a638192f3377dfdcc921d70c-228x228.jpg",
     "variants": [
@@ -18194,13 +18822,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 860,
     "title": "3E5Ced6F1Fc63A8D7212202E6Fcc91E1",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3e5ced6f1fc63a8d7212202e6fcc91e1-228x228.jpg",
     "variants": [
@@ -18213,13 +18842,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 861,
     "title": "3E8Febd35B79313A56Ee81828E580Dc4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3e8febd35b79313a56ee81828e580dc4-228x228.jpg",
     "variants": [
@@ -18232,13 +18862,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 862,
     "title": "3Ee291A5E65237D71A28D34C182De4A7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3ee291a5e65237d71a28d34c182de4a7-228x228.jpg",
     "variants": [
@@ -18251,13 +18882,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 863,
     "title": "3F1Fe096D56D2C37Aa1Ba0Da15D85381",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3f1fe096d56d2c37aa1ba0da15d85381-228x228.jpg",
     "variants": [
@@ -18270,13 +18902,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 864,
     "title": "3Fdb8149255744242F821245687C1E87",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/3fdb8149255744242f821245687c1e87-228x228.jpg",
     "variants": [
@@ -18289,13 +18922,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 865,
     "title": "4123Eea9Cc9886A2B18Ac5286D9Af224",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4123eea9cc9886a2b18ac5286d9af224-228x228.jpg",
     "variants": [
@@ -18308,13 +18942,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 866,
     "title": "44429Feab926Ec377D324011Ade9Fdff",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/44429feab926ec377d324011ade9fdff-228x228.jpg",
     "variants": [
@@ -18327,13 +18962,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 867,
     "title": "45042C2D64330788Eddfa7D4E3022F93",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/45042c2d64330788eddfa7d4e3022f93-228x228.jpg",
     "variants": [
@@ -18346,13 +18982,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 868,
     "title": "457C67Ec05C5294C6998A285691107D9",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/457c67ec05c5294c6998a285691107d9-228x228.jpg",
     "variants": [
@@ -18365,13 +19002,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 869,
     "title": "45D7598Df6556634278D7954532Dcea7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/45d7598df6556634278d7954532dcea7-228x228.jpg",
     "variants": [
@@ -18384,13 +19022,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 870,
     "title": "46Bbc17640D9Eb54281Caa61F35E2Bb8",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/46bbc17640d9eb54281caa61f35e2bb8-228x228.jpg",
     "variants": [
@@ -18403,13 +19042,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 871,
     "title": "47045739A53Fe0B0C4Ddb7D72C88Cc01",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/47045739a53fe0b0c4ddb7d72c88cc01-228x228.jpg",
     "variants": [
@@ -18422,13 +19062,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 872,
     "title": "48067974B623063F78670921289A5433",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/48067974b623063f78670921289a5433-228x228.jpg",
     "variants": [
@@ -18441,13 +19082,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 873,
     "title": "4907B54E9E17C181F9Cac0A38Ece2104",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4907b54e9e17c181f9cac0a38ece2104-228x228.jpg",
     "variants": [
@@ -18460,13 +19102,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 874,
     "title": "493Eeb3D7B9Adb9Ceec70B01D4639276",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/493eeb3d7b9adb9ceec70b01d4639276-228x228.jpg",
     "variants": [
@@ -18479,13 +19122,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 875,
     "title": "49587Be5E6125049B2B72A8822E706B0",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/49587be5e6125049b2b72a8822e706b0-228x228.jpg",
     "variants": [
@@ -18498,13 +19142,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 876,
     "title": "4991721F68Cef36747E4161A87862Db7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4991721f68cef36747e4161a87862db7-228x228.jpg",
     "variants": [
@@ -18517,13 +19162,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 877,
     "title": "49E0B88320D821Fc11Dde333B1920Aba",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/49e0b88320d821fc11dde333b1920aba-228x228.jpg",
     "variants": [
@@ -18536,13 +19182,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 878,
     "title": "4B08D98A596540D3Ebea41876F8C7Efb",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4b08d98a596540d3ebea41876f8c7efb-228x228.jpg",
     "variants": [
@@ -18555,13 +19202,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 879,
     "title": "4Bb0F2Ddcdfa974675673E19A85Ce321",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4bb0f2ddcdfa974675673e19a85ce321-228x228.jpg",
     "variants": [
@@ -18574,13 +19222,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 880,
     "title": "4Bf7Bda53153522A0Fdf3F96F3Cb48B5",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4bf7bda53153522a0fdf3f96f3cb48b5-228x228.jpg",
     "variants": [
@@ -18593,13 +19242,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 881,
     "title": "4C34C84E8930E21B1Ecc16839Cf0A803",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4c34c84e8930e21b1ecc16839cf0a803-228x228.jpg",
     "variants": [
@@ -18612,13 +19262,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 882,
     "title": "4Da85E5055Ef788B6824C602A9A99A00",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4da85e5055ef788b6824c602a9a99a00-228x228.jpg",
     "variants": [
@@ -18631,13 +19282,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 883,
-    "title": "4Wc",
+    "title": "4wc",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/4wc-228x228.jpg",
     "variants": [
@@ -18646,17 +19298,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/4wc-228x228.jpg"
       }
     ],
-    "description": "4Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "4wc. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 884,
     "title": "524130A08C23C02774374F0Fcd32C0B6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/524130a08c23c02774374f0fcd32c0b6-228x228.jpg",
     "variants": [
@@ -18669,13 +19323,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 885,
     "title": "5317784236691A130555C0F1D7264A67",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5317784236691a130555c0f1d7264a67-228x228.jpg",
     "variants": [
@@ -18688,13 +19343,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 886,
     "title": "534Cce3939D2F06Fdb59A696C231D586",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/534cce3939d2f06fdb59a696c231d586-228x228.jpg",
     "variants": [
@@ -18707,13 +19363,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 887,
     "title": "544D2793Ac385334C6407A623E0E05B7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/544d2793ac385334c6407a623e0e05b7-228x228.jpg",
     "variants": [
@@ -18726,13 +19383,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 888,
     "title": "5456064Ab2E3A4A9Fa92B2C734308Db3",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5456064ab2e3a4a9fa92b2c734308db3-228x228.jpg",
     "variants": [
@@ -18745,13 +19403,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 889,
     "title": "55717B168845B18B564153E6Ee0Fc61D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/55717b168845b18b564153e6ee0fc61d-228x228.jpg",
     "variants": [
@@ -18764,13 +19423,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 890,
     "title": "5620B125Eaa0E7E566C160Be2760501B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5620b125eaa0e7e566c160be2760501b-228x228.jpg",
     "variants": [
@@ -18783,13 +19443,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 891,
     "title": "567Af1226337Bd61Aa4C184455D331D7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/567af1226337bd61aa4c184455d331d7-228x228.jpg",
     "variants": [
@@ -18802,13 +19463,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 892,
     "title": "56C84E57157959A1E4C4260A3Bf02147",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/56c84e57157959a1e4c4260a3bf02147-228x228.jpg",
     "variants": [
@@ -18821,13 +19483,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 893,
     "title": "56D86215184806435A16486A62Dc6F87",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/56d86215184806435a16486a62dc6f87-228x228.jpg",
     "variants": [
@@ -18840,13 +19503,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 894,
     "title": "5723D55980Caf95Be54B7E5E1192Ebc0",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5723d55980caf95be54b7e5e1192ebc0-228x228.jpg",
     "variants": [
@@ -18859,13 +19523,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 895,
     "title": "57812D80676331Ca55637Ee92D311228",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/57812d80676331ca55637ee92d311228-228x228.jpg",
     "variants": [
@@ -18878,13 +19543,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 896,
     "title": "584E5528Aa176246Ae3D7D26584F6550",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/584e5528aa176246ae3d7d26584f6550-228x228.jpg",
     "variants": [
@@ -18897,13 +19563,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 897,
     "title": "5852B1B93C7Bba25Df623A1F331F7Acc",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5852b1b93c7bba25df623a1f331f7acc-228x228.jpg",
     "variants": [
@@ -18916,13 +19583,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 898,
     "title": "586A34473Bc8664013D3De9F058641C2",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/586a34473bc8664013d3de9f058641c2-228x228.jpg",
     "variants": [
@@ -18935,13 +19603,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 899,
     "title": "598Cebe8D43Ca7F21B45E509Fc8B4C47",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/598cebe8d43ca7f21b45e509fc8b4c47-228x228.jpg",
     "variants": [
@@ -18954,13 +19623,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 900,
     "title": "59Ed313Dff84A891Bbeec13Dbcae4115",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/59ed313dff84a891bbeec13dbcae4115-228x228.jpg",
     "variants": [
@@ -18973,13 +19643,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 901,
     "title": "5A692997D1D3C12Aea36134F55628035",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5a692997d1d3c12aea36134f55628035-228x228.jpg",
     "variants": [
@@ -18992,13 +19663,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 902,
     "title": "5B3D41Bf9Fa0D585B4A353125B2B1713",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5b3d41bf9fa0d585b4a353125b2b1713-228x228.jpg",
     "variants": [
@@ -19011,13 +19683,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 903,
     "title": "5B6D70A846D4C69Deebadf51649B216D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5b6d70a846d4c69deebadf51649b216d-228x228.jpg",
     "variants": [
@@ -19030,13 +19703,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 904,
     "title": "5Be070C327948201B6C1885Fb9556B0B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5be070c327948201b6c1885fb9556b0b-228x228.jpg",
     "variants": [
@@ -19049,13 +19723,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 905,
     "title": "5Cc4762B4275253B24660B3313D33024",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5cc4762b4275253b24660b3313d33024-228x228.jpg",
     "variants": [
@@ -19068,13 +19743,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 906,
     "title": "5D5Aa98Ff002B408Cd017E3C713D12A1",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5d5aa98ff002b408cd017e3c713d12a1-228x228.jpg",
     "variants": [
@@ -19087,13 +19763,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 907,
     "title": "5Dfeb2E94C292A11Df3Bd7D73Eb85C06",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/5dfeb2e94c292a11df3bd7d73eb85c06-228x228.jpg",
     "variants": [
@@ -19106,13 +19783,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 908,
-    "title": "607E9Ccb766E72 59444161",
+    "title": "607e9ccb766e72 59444161",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/607e9ccb766e72-59444161-228x228.jpg",
     "variants": [
@@ -19121,17 +19799,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/607e9ccb766e72-59444161-228x228.jpg"
       }
     ],
-    "description": "607E9Ccb766E72 59444161. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "607e9ccb766e72 59444161. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 909,
     "title": "61056C53C5D032B6E4880404Bef0191D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/61056c53c5d032b6e4880404bef0191d-228x228.jpg",
     "variants": [
@@ -19144,13 +19824,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 910,
     "title": "6240De8Ef9D338Cdb112Ee317Cb9Faf1",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/6240de8ef9d338cdb112ee317cb9faf1-228x228.jpg",
     "variants": [
@@ -19163,13 +19844,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 911,
     "title": "62518E2E0Dd139Fb50Bfb0D2217Add68",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/62518e2e0dd139fb50bfb0d2217add68-228x228.jpg",
     "variants": [
@@ -19182,13 +19864,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 912,
     "title": "625Db6927A2A8910E72245C94D3F9A8D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/625db6927a2a8910e72245c94d3f9a8d-228x228.jpg",
     "variants": [
@@ -19201,13 +19884,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 913,
     "title": "62656F093De781C8B7D64899Ca7F813A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/62656f093de781c8b7d64899ca7f813a-228x228.jpg",
     "variants": [
@@ -19220,13 +19904,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 914,
     "title": "6457Feb6F5489Bd3F0D5A28A655107F2",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/6457feb6f5489bd3f0d5a28a655107f2-228x228.jpg",
     "variants": [
@@ -19239,13 +19924,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 915,
     "title": "656Bac78521B12917B75A712Fc636Ce6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/656bac78521b12917b75a712fc636ce6-228x228.jpg",
     "variants": [
@@ -19258,13 +19944,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 916,
     "title": "66A8Aad062730991F708Dedc61D746C5",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/66a8aad062730991f708dedc61d746c5-228x228.jpg",
     "variants": [
@@ -19277,13 +19964,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 917,
     "title": "67365Ed1832B46A879C999Fd90D79B43",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/67365ed1832b46a879c999fd90d79b43-228x228.jpg",
     "variants": [
@@ -19296,13 +19984,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 918,
     "title": "67384F47C00061A907941A492Be87F38",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/67384f47c00061a907941a492be87f38-228x228.jpg",
     "variants": [
@@ -19315,13 +20004,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 919,
     "title": "67E53C33F177A0A79Ce53E2F5F47B577",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/67e53c33f177a0a79ce53e2f5f47b577-228x228.jpg",
     "variants": [
@@ -19334,13 +20024,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 920,
     "title": "68442Caf7827F99C89F07B847C62D4Dc",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/68442caf7827f99c89f07b847c62d4dc-228x228.jpg",
     "variants": [
@@ -19353,13 +20044,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 921,
     "title": "6859Eadcf23Ce36Fd8001E72A54F0Eea",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/6859eadcf23ce36fd8001e72a54f0eea-228x228.jpg",
     "variants": [
@@ -19372,13 +20064,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 922,
     "title": "6886D837Cbe95Afb73F12B774A4A0161",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/6886d837cbe95afb73f12b774a4a0161-228x228.jpg",
     "variants": [
@@ -19391,13 +20084,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 923,
     "title": "696C23680C58Bc8B4Eb4784B22C47Ded",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/696c23680c58bc8b4eb4784b22c47ded-228x228.jpg",
     "variants": [
@@ -19410,13 +20104,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 924,
     "title": "697A7Dd7D965C39478Ab6B785Ed82Aba",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/697a7dd7d965c39478ab6b785ed82aba-228x228.jpg",
     "variants": [
@@ -19429,13 +20124,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 925,
     "title": "6B880A49F2A98812C45573B3303E2438",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/6b880a49f2a98812c45573b3303e2438-228x228.jpg",
     "variants": [
@@ -19448,13 +20144,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 926,
     "title": "6Ca6B1Fd9505D19A5087Ee518F8F3D0B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/6ca6b1fd9505d19a5087ee518f8f3d0b-228x228.jpg",
     "variants": [
@@ -19467,13 +20164,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 927,
     "title": "6D8F42Ffc25Bc3301Cfc0F572882E075",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/6d8f42ffc25bc3301cfc0f572882e075-228x228.jpg",
     "variants": [
@@ -19486,13 +20184,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 928,
     "title": "70514534E111E7B434055955C849605D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/70514534e111e7b434055955c849605d-228x228.jpg",
     "variants": [
@@ -19505,13 +20204,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 929,
     "title": "722C19De08621E815862104Ab20D0Ddb",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/722c19de08621e815862104ab20d0ddb-228x228.jpg",
     "variants": [
@@ -19524,13 +20224,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 930,
     "title": "725C875D7Fa433F8D55D5293661C3Bbf",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/725c875d7fa433f8d55d5293661c3bbf-228x228.jpg",
     "variants": [
@@ -19543,13 +20244,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 931,
     "title": "72Fc1F68Be9247452Cc874A580198A0C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/72fc1f68be9247452cc874a580198a0c-228x228.jpg",
     "variants": [
@@ -19562,13 +20264,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 932,
     "title": "7431F0Df2D330Add47Ebbf98E42580F4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7431f0df2d330add47ebbf98e42580f4-228x228.jpg",
     "variants": [
@@ -19581,13 +20284,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 933,
     "title": "7489C7B3Ac2A70B799B8E577C43De398",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7489c7b3ac2a70b799b8e577c43de398-228x228.jpg",
     "variants": [
@@ -19600,13 +20304,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 934,
     "title": "748Ebc73784881E7Befc3Ff2722Bb481",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/748ebc73784881e7befc3ff2722bb481-228x228.jpg",
     "variants": [
@@ -19619,13 +20324,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 935,
     "title": "74995Ebcc401A23A63Aa81F572B903E4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/74995ebcc401a23a63aa81f572b903e4-228x228.jpg",
     "variants": [
@@ -19638,13 +20344,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 936,
     "title": "75661F98033Ab84171Ccf02543D32B0D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/75661f98033ab84171ccf02543d32b0d-228x228.jpg",
     "variants": [
@@ -19657,13 +20364,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 937,
     "title": "75Afda5E24De90976C7096E042B79Ad2",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/75afda5e24de90976c7096e042b79ad2-228x228.jpg",
     "variants": [
@@ -19676,13 +20384,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 938,
     "title": "75Dc5810B8F56C884108Adf6785Ddc25",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/75dc5810b8f56c884108adf6785ddc25-228x228.jpg",
     "variants": [
@@ -19695,13 +20404,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 939,
     "title": "76417144B7A30Af3F5D2Ae2Fccff85Fd",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/76417144b7a30af3f5d2ae2fccff85fd-228x228.jpg",
     "variants": [
@@ -19714,13 +20424,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 940,
     "title": "76432D7072692C03F51B2737De9Fe678",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/76432d7072692c03f51b2737de9fe678-228x228.jpg",
     "variants": [
@@ -19733,13 +20444,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 941,
     "title": "777F799Bde7318699Ba7De029C5766B7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/777f799bde7318699ba7de029c5766b7-228x228.jpg",
     "variants": [
@@ -19752,13 +20464,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 942,
     "title": "7817Fd95528200B2B1463E7E40F4D5F6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7817fd95528200b2b1463e7e40f4d5f6-228x228.jpg",
     "variants": [
@@ -19771,13 +20484,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 943,
     "title": "781Dd21Ec9C1C9090E3C5C39B55Ff1Ec",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/781dd21ec9c1c9090e3c5c39b55ff1ec-228x228.jpg",
     "variants": [
@@ -19790,13 +20504,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 944,
     "title": "79Fca44B0C4E3984Ff085205D004F087",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/79fca44b0c4e3984ff085205d004f087-228x228.jpg",
     "variants": [
@@ -19809,13 +20524,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 945,
     "title": "7Aa8629788207A63C0A74D524Aaa038B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7aa8629788207a63c0a74d524aaa038b-228x228.jpg",
     "variants": [
@@ -19828,13 +20544,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 946,
     "title": "7Beb2D1B267A716C7620A60089Bd734E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7beb2d1b267a716c7620a60089bd734e-228x228.jpg",
     "variants": [
@@ -19847,13 +20564,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 947,
     "title": "7C68C0Bf82Ca90553993088356Aa1Be1",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7c68c0bf82ca90553993088356aa1be1-228x228.jpg",
     "variants": [
@@ -19866,13 +20584,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 948,
     "title": "7E2D64B203Fb2Ba2350710989F7412A5",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7e2d64b203fb2ba2350710989f7412a5-228x228.jpg",
     "variants": [
@@ -19885,13 +20604,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 949,
     "title": "7Ea891F3A2Cd43F4Fd5326432399C480",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7ea891f3a2cd43f4fd5326432399c480-228x228.jpg",
     "variants": [
@@ -19904,13 +20624,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 950,
     "title": "7Eef161E8383Cee32E999012B5Cb412A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/7eef161e8383cee32e999012b5cb412a-228x228.jpg",
     "variants": [
@@ -19923,13 +20644,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 951,
     "title": "80E80Fbe39697Df33F531780Fbb16Ff4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/80e80fbe39697df33f531780fbb16ff4-228x228.jpg",
     "variants": [
@@ -19942,13 +20664,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 952,
     "title": "828D1A9Ea18403D91F342183C417743F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/828d1a9ea18403d91f342183c417743f-228x228.jpg",
     "variants": [
@@ -19961,13 +20684,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 953,
     "title": "830A9887F513Adb00Dad3Bde1E37D476",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/830a9887f513adb00dad3bde1e37d476-228x228.jpg",
     "variants": [
@@ -19980,13 +20704,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 954,
     "title": "83B7A59Edce03475700E0Ae3F4Aae467",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/83b7a59edce03475700e0ae3f4aae467-228x228.jpg",
     "variants": [
@@ -19999,13 +20724,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 955,
     "title": "8430E1F4708Caf292A597Edd022Dd558",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8430e1f4708caf292a597edd022dd558-228x228.jpg",
     "variants": [
@@ -20018,13 +20744,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 956,
     "title": "843B7A8292665237Ee729Bd183E6378B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/843b7a8292665237ee729bd183e6378b-228x228.jpg",
     "variants": [
@@ -20037,13 +20764,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 957,
     "title": "85920578D6Ae187267519Fdf0D6487F6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/85920578d6ae187267519fdf0d6487f6-228x228.jpg",
     "variants": [
@@ -20056,13 +20784,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 958,
     "title": "85F53Cc9Bd35928E99F7C65Dd9Dfce7B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/85f53cc9bd35928e99f7c65dd9dfce7b-228x228.jpg",
     "variants": [
@@ -20075,13 +20804,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 959,
     "title": "87319Db7E1B90709Fba5D09181255Cb7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/87319db7e1b90709fba5d09181255cb7-228x228.jpg",
     "variants": [
@@ -20094,13 +20824,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 960,
     "title": "887326E20007D3C4D9C4F247Fc67Ba86",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/887326e20007d3c4d9c4f247fc67ba86-228x228.jpg",
     "variants": [
@@ -20113,13 +20844,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 961,
     "title": "8A602Cdefbd54F3C681E4Ca9832E8F7E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8a602cdefbd54f3c681e4ca9832e8f7e-228x228.jpg",
     "variants": [
@@ -20132,13 +20864,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 962,
     "title": "8Aa2F92605A2E5C9A8E7Dafa0F8672C6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8aa2f92605a2e5c9a8e7dafa0f8672c6-228x228.jpg",
     "variants": [
@@ -20151,13 +20884,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 963,
     "title": "8Bd18124B8186Ce1E9Ea666Ea24D6201",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8bd18124b8186ce1e9ea666ea24d6201-228x228.jpg",
     "variants": [
@@ -20170,13 +20904,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 964,
     "title": "8Bf8598F38D81Df40Fbbccafc0Bd5694",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8bf8598f38d81df40fbbccafc0bd5694-228x228.jpg",
     "variants": [
@@ -20189,13 +20924,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 965,
     "title": "8C51F849E48B4F2Ed66Ad507E84480Bb",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8c51f849e48b4f2ed66ad507e84480bb-228x228.jpg",
     "variants": [
@@ -20208,13 +20944,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 966,
     "title": "8Cbc79C10Fc4Bf772D437F57E239284B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8cbc79c10fc4bf772d437f57e239284b-228x228.jpg",
     "variants": [
@@ -20227,13 +20964,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 967,
     "title": "8De0D31F4Be6F7A23A96565B3092B833",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8de0d31f4be6f7a23a96565b3092b833-228x228.jpg",
     "variants": [
@@ -20246,13 +20984,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 968,
     "title": "8F3F02473521Cbc4C56E585B22Ddfec4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/8f3f02473521cbc4c56e585b22ddfec4-228x228.jpg",
     "variants": [
@@ -20265,13 +21004,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 969,
     "title": "905E190E48Ee66E942Bf2A88Ccb8C7De",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/905e190e48ee66e942bf2a88ccb8c7de-228x228.jpg",
     "variants": [
@@ -20284,13 +21024,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 970,
     "title": "918B0311E345Cedd99A7Afc4F5Bc18D0",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/918b0311e345cedd99a7afc4f5bc18d0-228x228.jpg",
     "variants": [
@@ -20303,13 +21044,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 971,
     "title": "93928Ec3F2B5Aec025A92276Ef938883",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/93928ec3f2b5aec025a92276ef938883-228x228.jpg",
     "variants": [
@@ -20322,13 +21064,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 972,
     "title": "9569A0Ce9Fef559E6E45E0D021Ce2Ce1",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/9569a0ce9fef559e6e45e0d021ce2ce1-228x228.jpg",
     "variants": [
@@ -20341,13 +21084,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 973,
     "title": "97A7409940E1B1Dc12F947609C4Dbcac",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/97a7409940e1b1dc12f947609c4dbcac-228x228.jpg",
     "variants": [
@@ -20360,13 +21104,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 974,
     "title": "985B7E3Ab4D045Ba7Ec5199Fd6112C0F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/985b7e3ab4d045ba7ec5199fd6112c0f-228x228.jpg",
     "variants": [
@@ -20379,13 +21124,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 975,
     "title": "98D9051012Cc3035Fa80963E013Cc396",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/98d9051012cc3035fa80963e013cc396-228x228.jpg",
     "variants": [
@@ -20398,13 +21144,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 976,
     "title": "99D77Aa6C2Ceae2F53F5E755640C837E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/99d77aa6c2ceae2f53f5e755640c837e-228x228.jpg",
     "variants": [
@@ -20417,13 +21164,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 977,
     "title": "9Ba90A8690Ed59071C7F7128F9136A20",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/9ba90a8690ed59071c7f7128f9136a20-228x228.jpg",
     "variants": [
@@ -20436,13 +21184,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 978,
     "title": "9Cf3Bee6Aa6F0247282666Fd8C623853",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/9cf3bee6aa6f0247282666fd8c623853-228x228.jpg",
     "variants": [
@@ -20455,13 +21204,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 979,
     "title": "9F115E4Ada749Aa436A3E25219B38354",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/9f115e4ada749aa436a3e25219b38354-228x228.jpg",
     "variants": [
@@ -20474,13 +21224,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 980,
     "title": "9F974A965D58572De0A79866A0Ed9D3C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/9f974a965d58572de0a79866a0ed9d3c-228x228.jpg",
     "variants": [
@@ -20493,13 +21244,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 981,
-    "title": "A 420 C",
+    "title": "A 420 C Bronza",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a-420-c-bronza-228x228.jpg",
     "variants": [
@@ -20516,17 +21268,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/a-420-c-zoloto-228x228.jpg"
       }
     ],
-    "description": "A 420 C. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "A 420 C Bronza. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "3"
-    }
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 982,
-    "title": "A 420 C Mat",
+    "title": "A 420 C Mathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a-420-c-mathrom-228x228.jpg",
     "variants": [
@@ -20539,17 +21293,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/a-420-c-matzoloto-228x228.jpg"
       }
     ],
-    "description": "A 420 C Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "A 420 C Mathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "2"
-    }
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 983,
     "title": "A13Ef22F73Bb2F190F425117541E0708",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a13ef22f73bb2f190f425117541e0708-228x228.jpg",
     "variants": [
@@ -20562,13 +21318,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 984,
     "title": "A258D5E6E48F7B0Dfac887779Ce19Bb6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a258d5e6e48f7b0dfac887779ce19bb6-228x228.jpg",
     "variants": [
@@ -20581,13 +21338,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 985,
     "title": "A312Cf85C6Cd0127D3Abf9B5527F52Ee",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a312cf85c6cd0127d3abf9b5527f52ee-228x228.jpg",
     "variants": [
@@ -20600,13 +21358,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 986,
     "title": "A35Df1D83Ec9E73Ce6F92506129004C9",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a35df1d83ec9e73ce6f92506129004c9-228x228.jpg",
     "variants": [
@@ -20619,13 +21378,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 987,
     "title": "A3B1Acbc182Bee5165A71853460Ad04E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a3b1acbc182bee5165a71853460ad04e-228x228.jpg",
     "variants": [
@@ -20638,13 +21398,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 988,
     "title": "A3Dcbab0582Aa111A7A6Bd9428Ce838F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a3dcbab0582aa111a7a6bd9428ce838f-228x228.jpg",
     "variants": [
@@ -20657,13 +21418,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 989,
     "title": "A423",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a423-228x228.jpg",
     "variants": [
@@ -20672,17 +21434,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/a423-228x228.jpg"
       }
     ],
-    "description": "A423. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "A423. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 990,
     "title": "A453F3593Dfa690Dd02D1E7Ca2E3Ec74",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a453f3593dfa690dd02d1e7ca2e3ec74-228x228.jpg",
     "variants": [
@@ -20695,13 +21459,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 991,
     "title": "A53172963E56D8440398A05C22992A16",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a53172963e56d8440398a05c22992a16-228x228.jpg",
     "variants": [
@@ -20714,13 +21479,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 992,
     "title": "A589379A9Baa75C563Fbd53F3Cbc485C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a589379a9baa75c563fbd53f3cbc485c-228x228.jpg",
     "variants": [
@@ -20733,13 +21499,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 993,
     "title": "A6487452465Ac6Bef74B53Aeff1Ff8C4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a6487452465ac6bef74b53aeff1ff8c4-228x228.jpg",
     "variants": [
@@ -20752,13 +21519,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 994,
     "title": "A7642E49Aebcda09830276Fa442Acf45",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a7642e49aebcda09830276fa442acf45-228x228.jpg",
     "variants": [
@@ -20771,13 +21539,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 995,
     "title": "A770496Ab3Bcaf9678F790C2B1379Bbd",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a770496ab3bcaf9678f790c2b1379bbd-228x228.jpg",
     "variants": [
@@ -20790,13 +21559,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 996,
     "title": "A9Cf66B8550E16800Df8E1Ff0Af471D2",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/a9cf66b8550e16800df8e1ff0af471d2-228x228.jpg",
     "variants": [
@@ -20809,13 +21579,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 997,
     "title": "Ab155Af4F1504146358B09E3377D3685",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ab155af4f1504146358b09e3377d3685-228x228.jpg",
     "variants": [
@@ -20828,13 +21599,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 998,
     "title": "Ab24A51Dfae000C5190F647B12Ecac3C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ab24a51dfae000c5190f647b12ecac3c-228x228.jpg",
     "variants": [
@@ -20847,13 +21619,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 999,
     "title": "Ab3A97D86Df179Eac50C844130Caf344",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ab3a97d86df179eac50c844130caf344-228x228.jpg",
     "variants": [
@@ -20866,13 +21639,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1000,
     "title": "Ac1Dfa9A9F7A088041F9A2E343478384",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ac1dfa9a9f7a088041f9a2e343478384-228x228.jpg",
     "variants": [
@@ -20885,13 +21659,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1001,
     "title": "Ad94Cf5D55B2300619124Aae45097Ce6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ad94cf5d55b2300619124aae45097ce6-228x228.jpg",
     "variants": [
@@ -20904,13 +21679,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1002,
     "title": "Ae952B041A57416C5E337Dbff5C9Ad96",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ae952b041a57416c5e337dbff5c9ad96-228x228.jpg",
     "variants": [
@@ -20923,13 +21699,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1003,
     "title": "Afdeee949678644Fc66Eada87Beaafce",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/afdeee949678644fc66eada87beaafce-228x228.jpg",
     "variants": [
@@ -20942,13 +21719,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1004,
     "title": "Affb525E804291E9A0Daa925228E0906",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/affb525e804291e9a0daa925228e0906-228x228.jpg",
     "variants": [
@@ -20961,13 +21739,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1005,
-    "title": "As 300",
+    "title": "As 300chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-300Chrome-228x228.jpg",
     "variants": [
@@ -20992,17 +21771,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-300SGraphite-228x228.jpg"
       }
     ],
-    "description": "As 300. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 300chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1006,
-    "title": "As 300S",
+    "title": "As 300swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-300SWhite-228x228.jpg",
     "variants": [
@@ -21011,17 +21792,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-300SWhite-228x228.jpg"
       }
     ],
-    "description": "As 300S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 300swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1007,
-    "title": "As 310",
+    "title": "As 310chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-310Chrome-228x228.jpg",
     "variants": [
@@ -21046,17 +21829,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-310SGraphite-228x228.jpg"
       }
     ],
-    "description": "As 310. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 310chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1008,
-    "title": "As 310S",
+    "title": "As 310swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-310SWhite-228x228.jpg",
     "variants": [
@@ -21065,17 +21850,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-310SWhite-228x228.jpg"
       }
     ],
-    "description": "As 310S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 310swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1009,
-    "title": "As 322",
+    "title": "As 322chrome 5d",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-322Chrome_5D-228x228.jpg",
     "variants": [
@@ -21084,17 +21871,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-322Chrome_5D-228x228.jpg"
       }
     ],
-    "description": "As 322. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 322chrome 5d. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1010,
-    "title": "As 331",
+    "title": "As 331chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-331Chrome-228x228.jpg",
     "variants": [
@@ -21119,17 +21908,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-331SGraphite-228x228.jpg"
       }
     ],
-    "description": "As 331. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 331chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1011,
-    "title": "As 331S",
+    "title": "As 331swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-331SWhite-228x228.jpg",
     "variants": [
@@ -21138,17 +21929,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-331SWhite-228x228.jpg"
       }
     ],
-    "description": "As 331S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 331swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1012,
-    "title": "As 340",
+    "title": "As 340chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-340Chrome-228x228.jpg",
     "variants": [
@@ -21173,17 +21966,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-340SGraphite-228x228.jpg"
       }
     ],
-    "description": "As 340. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 340chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1013,
-    "title": "As 340S",
+    "title": "As 340swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-340SWhite-228x228.jpg",
     "variants": [
@@ -21192,17 +21987,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-340SWhite-228x228.jpg"
       }
     ],
-    "description": "As 340S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 340swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1014,
-    "title": "As 3Cl",
+    "title": "As 3clchrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-3CLChrome-228x228.jpg",
     "variants": [
@@ -21227,17 +22024,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-3CLSGraphite-228x228.jpg"
       }
     ],
-    "description": "As 3Cl. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 3clchrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1015,
-    "title": "As 3Cls",
+    "title": "As 3clswhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-3CLSWhite-228x228.jpg",
     "variants": [
@@ -21246,17 +22045,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-3CLSWhite-228x228.jpg"
       }
     ],
-    "description": "As 3Cls. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 3clswhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1016,
-    "title": "As 3Wc",
+    "title": "As 3wcchrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-3WCChrome-228x228.jpg",
     "variants": [
@@ -21281,17 +22082,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-3WCSGraphite-228x228.jpg"
       }
     ],
-    "description": "As 3Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 3wcchrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1017,
-    "title": "As 3Wcs",
+    "title": "As 3wcswhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-3WCSWhite-228x228.jpg",
     "variants": [
@@ -21300,17 +22103,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/AS-3WCSWhite-228x228.jpg"
       }
     ],
-    "description": "As 3Wcs. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "As 3wcswhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1018,
     "title": "B00915Fcbaeb45D9C1Be7824C44C85Dc",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b00915fcbaeb45d9c1be7824c44c85dc-228x228.jpg",
     "variants": [
@@ -21323,13 +22128,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1019,
     "title": "B2A4772D6082742A34D13Fed490Fc0E1",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b2a4772d6082742a34d13fed490fc0e1-228x228.png",
     "variants": [
@@ -21342,13 +22148,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1020,
     "title": "B2B7A00Fbacb512F37232493F7133D57",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b2b7a00fbacb512f37232493f7133d57-228x228.jpg",
     "variants": [
@@ -21361,13 +22168,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1021,
     "title": "B304E8D525539A0Edc067Fb7Da3Ca9A2",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b304e8d525539a0edc067fb7da3ca9a2-228x228.jpg",
     "variants": [
@@ -21380,13 +22188,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1022,
     "title": "B30A5Dcb553B35F96D16A22865Bb5276",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b30a5dcb553b35f96d16a22865bb5276-228x228.jpg",
     "variants": [
@@ -21399,13 +22208,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1023,
     "title": "B3410Faa7F54E2Ac67Df41698139E572",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b3410faa7f54e2ac67df41698139e572-228x228.jpg",
     "variants": [
@@ -21418,13 +22228,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1024,
     "title": "B376Acb5Fd169396F1692587D0A5D11A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b376acb5fd169396f1692587d0a5d11a-228x228.jpg",
     "variants": [
@@ -21437,13 +22248,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1025,
     "title": "B3C0C798E0B2Fe6B250Caa95463Bf03C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b3c0c798e0b2fe6b250caa95463bf03c-228x228.jpg",
     "variants": [
@@ -21456,13 +22268,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1026,
     "title": "B3Ca8989A1Ea5A6D0A119F9A179D0C6D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b3ca8989a1ea5a6d0a119f9a179d0c6d-228x228.jpg",
     "variants": [
@@ -21475,13 +22288,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1027,
     "title": "B405A3A5261B783088B2E05D9A4380Bb",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b405a3a5261b783088b2e05d9a4380bb-228x228.jpg",
     "variants": [
@@ -21494,13 +22308,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1028,
     "title": "B583B2827Cd3Bd4E6082368D622B654A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b583b2827cd3bd4e6082368d622b654a-228x228.jpg",
     "variants": [
@@ -21513,13 +22328,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1029,
     "title": "B6A329Be5Ec7290F19A9644Efdce58Ad",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b6a329be5ec7290f19a9644efdce58ad-228x228.jpg",
     "variants": [
@@ -21532,13 +22348,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1030,
     "title": "B700364C5Af1Af12C01Fd9948Fe0Eb0B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b700364c5af1af12c01fd9948fe0eb0b-228x228.jpg",
     "variants": [
@@ -21551,13 +22368,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1031,
     "title": "B769D71Ec5043Bc711220Ec66064Da3C",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/b769d71ec5043bc711220ec66064da3c-228x228.jpg",
     "variants": [
@@ -21570,13 +22388,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1032,
-    "title": "Bab Brash",
+    "title": "Bab Brashchernyj Latun 3 Klyucha",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bab-brashchernyj-latun-3-klyucha-228x228.jpg",
     "variants": [
@@ -21585,17 +22404,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/bab-brashchernyj-latun-3-klyucha-228x228.jpg"
       }
     ],
-    "description": "Bab Brash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bab Brashchernyj Latun 3 Klyucha. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1033,
     "title": "Babb5110A2145Dd3F04Ae0F5A9313927",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/babb5110a2145dd3f04ae0f5a9313927-228x228.jpg",
     "variants": [
@@ -21608,13 +22429,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1034,
     "title": "Bac2F7203Dbdf7D67D4245Ae690Ff42B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bac2f7203dbdf7d67d4245ae690ff42b-228x228.jpg",
     "variants": [
@@ -21627,13 +22449,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1035,
-    "title": "Bal Brashalyuminij",
+    "title": "Bal Brashalyuminij Latun 3 Klyucha",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bal-brashalyuminij-latun-3-klyucha-228x228.jpg",
     "variants": [
@@ -21642,17 +22465,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/bal-brashalyuminij-latun-3-klyucha-228x228.jpg"
       }
     ],
-    "description": "Bal Brashalyuminij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bal Brashalyuminij Latun 3 Klyucha. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1036,
     "title": "Bb216Ef7C72E54F1Feacf11D8912B5Ef",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bb216ef7c72e54f1feacf11d8912b5ef-228x228.jpg",
     "variants": [
@@ -21665,13 +22490,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1037,
     "title": "Bb2580Acda9Fe94B678Afa05Da815D3A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bb2580acda9fe94b678afa05da815d3a-228x228.jpg",
     "variants": [
@@ -21684,13 +22510,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1038,
     "title": "Bdbd4F57833E2F7184B6530Dec6279Dd",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bdbd4f57833e2f7184b6530dec6279dd-228x228.jpg",
     "variants": [
@@ -21703,13 +22530,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1039,
     "title": "Bdcc4C1Fb9550F8160D96B6De3Ce5806",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bdcc4c1fb9550f8160d96b6de3ce5806-228x228.jpg",
     "variants": [
@@ -21722,13 +22550,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1040,
     "title": "Be72Ee1D9624Ca37Ba64F0258F778Adb",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/be72ee1d9624ca37ba64f0258f778adb-228x228.jpg",
     "variants": [
@@ -21741,13 +22570,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1041,
     "title": "Bec10B94Eaa9D53B394Dedbd56046Ea5",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bec10b94eaa9d53b394dedbd56046ea5-228x228.jpg",
     "variants": [
@@ -21760,13 +22590,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1042,
     "title": "Bf65477Cfa556Eaf8B52602Ceb010Cb3",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/bf65477cfa556eaf8b52602ceb010cb3-228x228.jpg",
     "variants": [
@@ -21779,13 +22610,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1043,
-    "title": "Bravo A 423 Sb Mat",
+    "title": "Bravo A 423 Sb Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-423-sb-matchernyj-228x228.jpg",
     "variants": [
@@ -21794,17 +22626,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-423-sb-matchernyj-228x228.jpg"
       }
     ],
-    "description": "Bravo A 423 Sb Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo A 423 Sb Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1044,
-    "title": "Bravo A 423 Scc Mat",
+    "title": "Bravo A 423 Scc Mathromhrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-423-scc-mathromhrom-228x228.jpg",
     "variants": [
@@ -21813,17 +22647,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-423-scc-mathromhrom-228x228.jpg"
       }
     ],
-    "description": "Bravo A 423 Scc Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo A 423 Scc Mathromhrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1045,
-    "title": "Bravo A 426 Scc Mat",
+    "title": "Bravo A 426 Scc Mathromhrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-426-scc-mathromhrom-228x228.jpg",
     "variants": [
@@ -21832,17 +22668,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-426-scc-mathromhrom-228x228.jpg"
       }
     ],
-    "description": "Bravo A 426 Scc Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo A 426 Scc Mathromhrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1046,
-    "title": "Bravo A 443 Scc Mat",
+    "title": "Bravo A 443 Scc Mathromhrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-443-scc-mathromhrom-228x228.jpg",
     "variants": [
@@ -21851,17 +22689,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-443-scc-mathromhrom-228x228.jpg"
       }
     ],
-    "description": "Bravo A 443 Scc Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo A 443 Scc Mathromhrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1047,
-    "title": "Bravo A 483 Scc Mat",
+    "title": "Bravo A 483 Scc Mathromhrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-483-scc-mathromhrom-228x228.jpg",
     "variants": [
@@ -21870,17 +22710,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-483-scc-mathromhrom-228x228.jpg"
       }
     ],
-    "description": "Bravo A 483 Scc Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo A 483 Scc Mathromhrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1048,
-    "title": "Bravo A 493 Sb Mat",
+    "title": "Bravo A 493 Sb Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-493-sb-matchernyj-228x228.jpg",
     "variants": [
@@ -21889,17 +22731,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-a-493-sb-matchernyj-228x228.jpg"
       }
     ],
-    "description": "Bravo A 493 Sb Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo A 493 Sb Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1049,
     "title": "Bravo Dg Sp 103 Wc Bal Brashalyuminij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-dg-sp-103-wc-bal-brashalyuminij-228x228.jpg",
     "variants": [
@@ -21908,17 +22752,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/bravo-dg-sp-103-wc-bal-brashalyuminij-228x228.jpg"
       }
     ],
-    "description": "Bravo Dg Sp 103 Wc Bal Brashalyuminij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravo Dg Sp 103 Wc Bal Brashalyuminij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1050,
-    "title": "Bravoar 503",
+    "title": "Bravoar 503sblack",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoAR-503SBlack-228x228.jpg",
     "variants": [
@@ -21927,17 +22773,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoAR-503SBlack-228x228.jpg"
       }
     ],
-    "description": "Bravoar 503. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravoar 503sblack. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1051,
-    "title": "Bravoar 520",
+    "title": "Bravoar 520chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoAR-520Chrome-228x228.jpg",
     "variants": [
@@ -21950,17 +22798,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoAR-520SBlack-228x228.jpg"
       }
     ],
-    "description": "Bravoar 520. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravoar 520chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "2"
-    }
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1052,
-    "title": "Bravoar 520Scmat",
+    "title": "Bravoar 520scmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoAR-520SCMatHrom-228x228.jpg",
     "variants": [
@@ -21969,17 +22819,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoAR-520SCMatHrom-228x228.jpg"
       }
     ],
-    "description": "Bravoar 520Scmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravoar 520scmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1053,
-    "title": "Bravoas 8Cl",
+    "title": "Bravoas 8clsblack",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoAS-8CLSBlack-228x228.jpg",
     "variants": [
@@ -21988,17 +22840,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoAS-8CLSBlack-228x228.jpg"
       }
     ],
-    "description": "Bravoas 8Cl. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravoas 8clsblack. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1054,
-    "title": "Bravoas 8Wc",
+    "title": "Bravoas 8wcsblack",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoAS-8WCSBlack-228x228.jpg",
     "variants": [
@@ -22007,17 +22861,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoAS-8WCSBlack-228x228.jpg"
       }
     ],
-    "description": "Bravoas 8Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravoas 8wcsblack. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1055,
-    "title": "Bravok 100C",
+    "title": "Bravok 100chrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/BravoK-100CHrom-228x228.jpg",
     "variants": [
@@ -22026,17 +22882,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/BravoK-100CHrom-228x228.jpg"
       }
     ],
-    "description": "Bravok 100C. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravok 100chrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1056,
-    "title": "Bravok 100Scmat",
+    "title": "Bravok 100scmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/BravoK-100SCMatHrom-228x228.jpg",
     "variants": [
@@ -22045,17 +22903,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/BravoK-100SCMatHrom-228x228.jpg"
       }
     ],
-    "description": "Bravok 100Scmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravok 100scmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1057,
-    "title": "Bravok 123C",
+    "title": "Bravok 123chrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/BravoK-123CHrom-228x228.jpg",
     "variants": [
@@ -22064,17 +22924,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/BravoK-123CHrom-228x228.jpg"
       }
     ],
-    "description": "Bravok 123C. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravok 123chrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1058,
-    "title": "Bravok 123Scmat",
+    "title": "Bravok 123scmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/BravoK-123SCMatHrom-228x228.jpg",
     "variants": [
@@ -22083,17 +22945,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/BravoK-123SCMatHrom-228x228.jpg"
       }
     ],
-    "description": "Bravok 123Scmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravok 123scmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1059,
-    "title": "Bravom 1Ab",
+    "title": "Bravom 1abbronza",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoM-1ABBronza-228x228.jpg",
     "variants": [
@@ -22102,17 +22966,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoM-1ABBronza-228x228.jpg"
       }
     ],
-    "description": "Bravom 1Ab. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravom 1abbronza. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1060,
-    "title": "Bravom 1C",
+    "title": "Bravom 1chrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoM-1CHrom-228x228.jpg",
     "variants": [
@@ -22121,17 +22987,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoM-1CHrom-228x228.jpg"
       }
     ],
-    "description": "Bravom 1C. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravom 1chrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1061,
-    "title": "Bravom 1G",
+    "title": "Bravom 1gzoloto",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoM-1GZoloto-228x228.jpg",
     "variants": [
@@ -22140,17 +23008,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoM-1GZoloto-228x228.jpg"
       }
     ],
-    "description": "Bravom 1G. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravom 1gzoloto. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1062,
-    "title": "Bravom 1Sbmatchernij",
+    "title": "Bravom 1sbmatchernij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoM-1SBMatCHernij-228x228.jpg",
     "variants": [
@@ -22159,17 +23029,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoM-1SBMatCHernij-228x228.jpg"
       }
     ],
-    "description": "Bravom 1Sbmatchernij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravom 1sbmatchernij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1063,
     "title": "Bravom 3 Clsbmatchernij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoM-3-CLSBMatCHernij-228x228.jpg",
     "variants": [
@@ -22178,17 +23050,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoM-3-CLSBMatCHernij-228x228.jpg"
       }
     ],
-    "description": "Bravom 3 Clsbmatchernij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravom 3 Clsbmatchernij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1064,
-    "title": "Bravozr 5Wc",
+    "title": "Bravozr 5wcchrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoZR-5WCChrome-228x228.jpg",
     "variants": [
@@ -22201,17 +23075,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoZR-5WCSBlack-228x228.jpg"
       }
     ],
-    "description": "Bravozr 5Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravozr 5wcchrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "2"
-    }
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1065,
-    "title": "Bravozr 5Wcscmat",
+    "title": "Bravozr 5wcscmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/BravoZR-5WCSCMatHrom-228x228.jpg",
     "variants": [
@@ -22220,17 +23096,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/BravoZR-5WCSCMatHrom-228x228.jpg"
       }
     ],
-    "description": "Bravozr 5Wcscmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bravozr 5wcscmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1066,
     "title": "Bronzaskrpetl",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Петли",
     "price": 0,
     "image": "image/Фурнитура и прочее/Петли/bronzaskrpetl-228x228.jpg",
     "variants": [
@@ -22239,17 +23117,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Петли/bronzaskrpetl-228x228.jpg"
       }
     ],
-    "description": "Bronzaskrpetl. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Bronzaskrpetl. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Петли"
   },
   {
     "id": 1067,
     "title": "C01Bcd7A645Efb6E7E63786E7Ecccb7F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/c01bcd7a645efb6e7e63786e7ecccb7f-228x228.jpg",
     "variants": [
@@ -22262,13 +23142,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1068,
     "title": "C08F83034Bca6C525F2A7A285413090B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/c08f83034bca6c525f2a7a285413090b-228x228.jpg",
     "variants": [
@@ -22281,13 +23162,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1069,
     "title": "C7897Bbe51E4C2C6B02687D4De7Ad7B4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/c7897bbe51e4c2c6b02687d4de7ad7b4-228x228.jpg",
     "variants": [
@@ -22300,13 +23182,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1070,
     "title": "C7B366B7E961B757E7C73Eba2F2Cf4Ee",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/c7b366b7e961b757e7c73eba2f2cf4ee-228x228.jpg",
     "variants": [
@@ -22319,13 +23202,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1071,
     "title": "Ca95Dcc4D072B8C019424A6576D2269F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ca95dcc4d072b8c019424a6576d2269f-228x228.jpg",
     "variants": [
@@ -22338,13 +23222,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1072,
     "title": "Cb56Ab59394Eec67Cc2Bc085Ea6Dbfbd",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/cb56ab59394eec67cc2bc085ea6dbfbd-228x228.jpg",
     "variants": [
@@ -22357,13 +23242,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1073,
     "title": "Cd58857B67036E0D040D4Cd8152732B9",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/cd58857b67036e0d040d4cd8152732b9-228x228.jpg",
     "variants": [
@@ -22376,13 +23262,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1074,
     "title": "Cdc9D9Fdd040F87Cb6Ce514B0D4Fddf1",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/cdc9d9fdd040f87cb6ce514b0d4fddf1-228x228.jpg",
     "variants": [
@@ -22395,13 +23282,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1075,
     "title": "Cde7C7Adda5D781B0F6Ed34A605710F3",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/cde7c7adda5d781b0f6ed34a605710f3-228x228.jpg",
     "variants": [
@@ -22414,13 +23302,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1076,
     "title": "Cec749E82Ac4Daeb4304A3Dc368B5E08",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/cec749e82ac4daeb4304a3dc368b5e08-228x228.jpg",
     "variants": [
@@ -22433,13 +23322,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1077,
     "title": "Cf35127Dc5C056699F7B41F0Cb5Bc2C0",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/cf35127dc5c056699f7b41f0cb5bc2c0-228x228.jpg",
     "variants": [
@@ -22452,13 +23342,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1078,
     "title": "Cf5B1Ae534B95De19F9Faac4Cda75084",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/cf5b1ae534b95de19f9faac4cda75084-228x228.jpg",
     "variants": [
@@ -22471,13 +23362,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1079,
     "title": "Cfd7Cba5Ae090D43D02F6B082139D199",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/cfd7cba5ae090d43d02f6b082139d199-228x228.jpg",
     "variants": [
@@ -22490,13 +23382,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1080,
-    "title": "Cilindr Fab 6 3S 56 2828",
+    "title": "Цилиндр Fab 6 3s 56 2828 Sblack",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Цилиндры",
     "price": 0,
     "image": "image/Фурнитура и прочее/Цилиндры/cilindr-fab-6-3s-56-2828-sblack-228x228.jpg",
     "variants": [
@@ -22517,17 +23410,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Цилиндры/cilindr-fab-6-3s-56-2828-sgraphite-228x228.jpg"
       }
     ],
-    "description": "Cilindr Fab 6 3S 56 2828. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Цилиндр Fab 6 3s 56 2828 Sblack. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "4"
-    }
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Цилиндры"
   },
   {
     "id": 1081,
-    "title": "Cilindr Kab 6 3S 56 2828",
+    "title": "Цилиндр Kab 6 3s 56 2828 Sblack",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Цилиндры",
     "price": 0,
     "image": "image/Фурнитура и прочее/Цилиндры/cilindr-kab-6-3s-56-2828-sblack-228x228.jpg",
     "variants": [
@@ -22544,17 +23439,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Цилиндры/cilindr-kab-6-3s-56-2828-sgraphite-228x228.jpg"
       }
     ],
-    "description": "Cilindr Kab 6 3S 56 2828. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Цилиндр Kab 6 3s 56 2828 Sblack. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "3"
-    }
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Цилиндры"
   },
   {
     "id": 1082,
-    "title": "Cilindr2Belij",
+    "title": "Цилиндр2belij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Цилиндры",
     "price": 0,
     "image": "image/Фурнитура и прочее/Цилиндры/Cilindr2belij-228x228.jpg",
     "variants": [
@@ -22563,17 +23460,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Цилиндры/Cilindr2belij-228x228.jpg"
       }
     ],
-    "description": "Cilindr2Belij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Цилиндр2belij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Цилиндры"
   },
   {
     "id": 1083,
-    "title": "Cilindrbelij",
+    "title": "Цилиндрbelij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Цилиндры",
     "price": 0,
     "image": "image/Фурнитура и прочее/Цилиндры/cilindrbelij-228x228.jpg",
     "variants": [
@@ -22582,17 +23481,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Цилиндры/cilindrbelij-228x228.jpg"
       }
     ],
-    "description": "Cilindrbelij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Цилиндрbelij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Цилиндры"
   },
   {
     "id": 1084,
     "title": "D016B96501598Ab7F6E501Fee09E4493",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/d016b96501598ab7f6e501fee09e4493-228x228.jpg",
     "variants": [
@@ -22605,13 +23506,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1085,
     "title": "D0Dabc84B989873275Ad580Ddb9Faf72",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/d0dabc84b989873275ad580ddb9faf72-228x228.jpg",
     "variants": [
@@ -22624,13 +23526,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1086,
     "title": "D27360722E99213C4Ca9Aee8F3E64C0A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/d27360722e99213c4ca9aee8f3e64c0a-228x228.jpg",
     "variants": [
@@ -22643,13 +23546,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1087,
     "title": "D296A29344226Ee894D0A9A6332Cf9B3",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/d296a29344226ee894d0a9a6332cf9b3-228x228.jpg",
     "variants": [
@@ -22662,13 +23566,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1088,
     "title": "D74Ac1Bbf5130A9B7Ad9Fe39676B3Dd7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/d74ac1bbf5130a9b7ad9fe39676b3dd7-228x228.jpg",
     "variants": [
@@ -22681,13 +23586,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1089,
     "title": "D92D219C627F549934B8A82410337Ca3",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/d92d219c627f549934b8a82410337ca3-228x228.jpg",
     "variants": [
@@ -22700,13 +23606,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1090,
     "title": "Da34B01E0350A98E7C9996A2E9Aa947F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/da34b01e0350a98e7c9996a2e9aa947f-228x228.jpg",
     "variants": [
@@ -22719,13 +23626,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1091,
     "title": "Db56C0Fdcc76690C02119A26353Dce0D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/db56c0fdcc76690c02119a26353dce0d-228x228.jpg",
     "variants": [
@@ -22738,13 +23646,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1092,
     "title": "Dc25920E3442312772Cb0D60C8C2B462",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/dc25920e3442312772cb0d60c8c2b462-228x228.jpg",
     "variants": [
@@ -22757,13 +23666,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1093,
     "title": "Df165354Bf94F9D57E6B30Cf63Afd5B4",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/df165354bf94f9d57e6b30cf63afd5b4-228x228.jpg",
     "variants": [
@@ -22776,13 +23686,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1094,
     "title": "Df27024817A2B1360965Db50Bc522756",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/df27024817a2b1360965db50bc522756-228x228.jpg",
     "variants": [
@@ -22795,13 +23706,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1095,
     "title": "Dfb5C5Bab1C510B79D92F3Eff122C7C7",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/dfb5c5bab1c510b79d92f3eff122c7c7-228x228.jpg",
     "variants": [
@@ -22814,13 +23726,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1096,
-    "title": "Dg 111 Bab Brash",
+    "title": "Dg 111 Bab Brashchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/dg-111-bab-brashchernyj-228x228.jpg",
     "variants": [
@@ -22829,17 +23742,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/dg-111-bab-brashchernyj-228x228.jpg"
       }
     ],
-    "description": "Dg 111 Bab Brash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg 111 Bab Brashchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1097,
     "title": "Dg 111 Bal Brashalyuminij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/dg-111-bal-brashalyuminij-228x228.jpg",
     "variants": [
@@ -22848,17 +23763,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/dg-111-bal-brashalyuminij-228x228.jpg"
       }
     ],
-    "description": "Dg 111 Bal Brashalyuminij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg 111 Bal Brashalyuminij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1098,
-    "title": "Dg 131 Bab Brash",
+    "title": "Dg 131 Bab Brashchernyj Univers",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/dg-131-bab-brashchernyj-univers-228x228.jpg",
     "variants": [
@@ -22867,17 +23784,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/dg-131-bab-brashchernyj-univers-228x228.jpg"
       }
     ],
-    "description": "Dg 131 Bab Brash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg 131 Bab Brashchernyj Univers. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1099,
     "title": "Dg 131 Bal Brashalyuminij Univers",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/dg-131-bal-brashalyuminij-univers-228x228.jpg",
     "variants": [
@@ -22886,17 +23805,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/dg-131-bal-brashalyuminij-univers-228x228.jpg"
       }
     ],
-    "description": "Dg 131 Bal Brashalyuminij Univers. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg 131 Bal Brashalyuminij Univers. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1100,
-    "title": "Dg Sp 100 Bab Brash",
+    "title": "Dg Sp 100 Bab Brashchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-100-bab-brashchernyj-228x228.jpg",
     "variants": [
@@ -22905,17 +23826,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-100-bab-brashchernyj-228x228.jpg"
       }
     ],
-    "description": "Dg Sp 100 Bab Brash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg Sp 100 Bab Brashchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1101,
     "title": "Dg Sp 100 Bal Brashalyuminij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-100-bal-brashalyuminij-228x228.jpg",
     "variants": [
@@ -22924,17 +23847,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-100-bal-brashalyuminij-228x228.jpg"
       }
     ],
-    "description": "Dg Sp 100 Bal Brashalyuminij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg Sp 100 Bal Brashalyuminij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1102,
-    "title": "Dg Sp 101 Cl Bab Brash",
+    "title": "Dg Sp 101 Cl Bab Brashchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-101-cl-bab-brashchernyj-228x228.jpg",
     "variants": [
@@ -22943,17 +23868,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-101-cl-bab-brashchernyj-228x228.jpg"
       }
     ],
-    "description": "Dg Sp 101 Cl Bab Brash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg Sp 101 Cl Bab Brashchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1103,
     "title": "Dg Sp 101 Cl Bal Brashalyuminij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-101-cl-bal-brashalyuminij-228x228.jpg",
     "variants": [
@@ -22962,17 +23889,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-101-cl-bal-brashalyuminij-228x228.jpg"
       }
     ],
-    "description": "Dg Sp 101 Cl Bal Brashalyuminij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg Sp 101 Cl Bal Brashalyuminij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1104,
     "title": "Dg Sp 103 Wc Bab",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-103-wc-bab-228x228.jpg",
     "variants": [
@@ -22981,17 +23910,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-103-wc-bab-228x228.jpg"
       }
     ],
-    "description": "Dg Sp 103 Wc Bab. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg Sp 103 Wc Bab. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1105,
-    "title": "Dg Sp 105 Wl Bab Brash",
+    "title": "Dg Sp 105 Wl Bab Brashchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-105-wl-bab-brashchernyj-228x228.jpg",
     "variants": [
@@ -23000,17 +23931,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-105-wl-bab-brashchernyj-228x228.jpg"
       }
     ],
-    "description": "Dg Sp 105 Wl Bab Brash. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg Sp 105 Wl Bab Brashchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1106,
     "title": "Dg Sp 105 Wl Bal Brashalyuminij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-105-wl-bal-brashalyuminij-228x228.jpg",
     "variants": [
@@ -23019,17 +23952,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/dg-sp-105-wl-bal-brashalyuminij-228x228.jpg"
       }
     ],
-    "description": "Dg Sp 105 Wl Bal Brashalyuminij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Dg Sp 105 Wl Bal Brashalyuminij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1107,
-    "title": "Ds1Belij",
+    "title": "Ds1belij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ds1belij-228x228.jpg",
     "variants": [
@@ -23038,17 +23973,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ds1belij-228x228.jpg"
       }
     ],
-    "description": "Ds1Belij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds1belij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1108,
-    "title": "Ds1Bronza",
+    "title": "Ds1bronza",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ds1bronza-228x228.jpg",
     "variants": [
@@ -23057,17 +23994,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ds1bronza-228x228.jpg"
       }
     ],
-    "description": "Ds1Bronza. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds1bronza. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1109,
-    "title": "Ds1Chernij",
+    "title": "Ds1chernij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ds1chernij-228x228.jpg",
     "variants": [
@@ -23076,17 +24015,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ds1chernij-228x228.jpg"
       }
     ],
-    "description": "Ds1Chernij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds1chernij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1110,
-    "title": "Ds1Hrom",
+    "title": "Ds1hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ds1hrom-228x228.jpg",
     "variants": [
@@ -23095,17 +24036,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ds1hrom-228x228.jpg"
       }
     ],
-    "description": "Ds1Hrom. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds1hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1111,
-    "title": "Ds1Mat",
+    "title": "Ds1mathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ds1mathrom-228x228.jpg",
     "variants": [
@@ -23114,17 +24057,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ds1mathrom-228x228.jpg"
       }
     ],
-    "description": "Ds1Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds1mathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1112,
-    "title": "Ds1Zoloto",
+    "title": "Ds1zoloto",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ds1zoloto-228x228.jpg",
     "variants": [
@@ -23133,17 +24078,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ds1zoloto-228x228.jpg"
       }
     ],
-    "description": "Ds1Zoloto. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds1zoloto. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1113,
-    "title": "Ds2Mat",
+    "title": "Ds2mathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ds2mathrom-228x228.jpg",
     "variants": [
@@ -23152,17 +24099,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ds2mathrom-228x228.jpg"
       }
     ],
-    "description": "Ds2Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ds2mathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1114,
     "title": "E02060951662Df270068Efb2015Cba1F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e02060951662df270068efb2015cba1f-228x228.jpg",
     "variants": [
@@ -23175,13 +24124,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1115,
     "title": "E1153857E285Dee40A25860D1Aeef5Ba",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e1153857e285dee40a25860d1aeef5ba-228x228.jpg",
     "variants": [
@@ -23194,13 +24144,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1116,
     "title": "E19Efc298683217C72Ad35878853F34A",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e19efc298683217c72ad35878853f34a-228x228.jpg",
     "variants": [
@@ -23213,13 +24164,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1117,
     "title": "E27C58B6E2577A891A1278F3Bc25Aeff",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e27c58b6e2577a891a1278f3bc25aeff-228x228.jpg",
     "variants": [
@@ -23232,13 +24184,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1118,
     "title": "E37F332F5B744D4Fd5357F2295E71037",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e37f332f5b744d4fd5357f2295e71037-228x228.jpg",
     "variants": [
@@ -23251,13 +24204,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1119,
     "title": "E56Ffde3D53E0F8C0349328F9Ef9341E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e56ffde3d53e0f8c0349328f9ef9341e-228x228.jpg",
     "variants": [
@@ -23270,13 +24224,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1120,
     "title": "E6A88E9928A12Db53C1Cd08F4894B917",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e6a88e9928a12db53c1cd08f4894b917-228x228.jpg",
     "variants": [
@@ -23289,13 +24244,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1121,
     "title": "E8Aa86567Beccf54Dbeea5A88463F215",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e8aa86567beccf54dbeea5a88463f215-228x228.jpg",
     "variants": [
@@ -23308,13 +24264,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1122,
     "title": "E906639Cc4543304214Fac4850Ebadd5",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/e906639cc4543304214fac4850ebadd5-228x228.jpg",
     "variants": [
@@ -23327,13 +24284,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1123,
     "title": "Ea4Ea1Fa487139A7Bba9Abe384428Eee",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ea4ea1fa487139a7bba9abe384428eee-228x228.jpg",
     "variants": [
@@ -23346,13 +24304,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1124,
     "title": "Ea8061B3430D86Fbcb22D16A83E50420",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ea8061b3430d86fbcb22d16a83e50420-228x228.jpg",
     "variants": [
@@ -23365,13 +24324,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1125,
     "title": "Eab357913Ba9Fdd678C271Ee9Bbec8E5",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/eab357913ba9fdd678c271ee9bbec8e5-228x228.jpg",
     "variants": [
@@ -23384,13 +24344,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1126,
     "title": "Eada4A8238C20371E298F6739303F2B5",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/eada4a8238c20371e298f6739303f2b5-228x228.jpg",
     "variants": [
@@ -23403,13 +24364,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1127,
     "title": "Eafb9081A2F619F9550F6797B49B43C3",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/eafb9081a2f619f9550f6797b49b43c3-228x228.jpg",
     "variants": [
@@ -23422,13 +24384,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1128,
     "title": "Eb0B10B7476305B3F47197D65E720A0B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/eb0b10b7476305b3f47197d65e720a0b-228x228.jpg",
     "variants": [
@@ -23441,13 +24404,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1129,
     "title": "Ebbf574Ba0B23Ae5D9Cfcf2938B07194",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ebbf574ba0b23ae5d9cfcf2938b07194-228x228.jpg",
     "variants": [
@@ -23460,13 +24424,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1130,
     "title": "Ec47C1D36Afb9Eb53Cb44F9488Ab3C80",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ec47c1d36afb9eb53cb44f9488ab3c80-228x228.jpg",
     "variants": [
@@ -23479,13 +24444,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1131,
     "title": "Ecdc01777A2Fcaf14De14D5B892D9885",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ecdc01777a2fcaf14de14d5b892d9885-228x228.jpg",
     "variants": [
@@ -23498,13 +24464,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1132,
     "title": "Ed42A2Ad14891Fa6A8Bc370Ef19161C9",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ed42a2ad14891fa6a8bc370ef19161c9-228x228.jpg",
     "variants": [
@@ -23517,13 +24484,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1133,
     "title": "Edab3A2088Ded3E0E54011A3F73E1F68",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/edab3a2088ded3e0e54011a3f73e1f68-228x228.jpg",
     "variants": [
@@ -23536,13 +24504,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1134,
     "title": "Edc34Ec327B0299206F4C683Beb13637",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/edc34ec327b0299206f4c683beb13637-228x228.jpg",
     "variants": [
@@ -23555,13 +24524,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1135,
     "title": "Eee859Abdb5116D03564F3B1Adfb48C6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/eee859abdb5116d03564f3b1adfb48c6-228x228.jpg",
     "variants": [
@@ -23574,13 +24544,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1136,
     "title": "Eefbf44C5C15501019Feee689577368F",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/eefbf44c5c15501019feee689577368f-228x228.jpg",
     "variants": [
@@ -23593,13 +24564,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1137,
     "title": "F2E4Eb0282A4A9622C726Fd94B3Fd826",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f2e4eb0282a4a9622c726fd94b3fd826-228x228.jpg",
     "variants": [
@@ -23612,13 +24584,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1138,
     "title": "F3623Be8Ab6Fc5C15Ec487456511E0A6",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f3623be8ab6fc5c15ec487456511e0a6-228x228.jpg",
     "variants": [
@@ -23631,13 +24604,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1139,
     "title": "F3B0Fa4A9C0466424F4Fe6Cca0C50C13",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f3b0fa4a9c0466424f4fe6cca0c50c13-228x228.jpg",
     "variants": [
@@ -23650,13 +24624,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1140,
     "title": "F4078C312C32A00C273435Dbb5F1E719",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f4078c312c32a00c273435dbb5f1e719-228x228.jpg",
     "variants": [
@@ -23669,13 +24644,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1141,
     "title": "F49C4F9Ea7B90Ab24F394D7B303A3934",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f49c4f9ea7b90ab24f394d7b303a3934-228x228.jpg",
     "variants": [
@@ -23688,13 +24664,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1142,
     "title": "F53D680E640E9D04F36462F10040B500",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f53d680e640e9d04f36462f10040b500-228x228.jpg",
     "variants": [
@@ -23707,13 +24684,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1143,
     "title": "F5D819400E665Be261D2B03F58997A6B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f5d819400e665be261d2b03f58997a6b-228x228.jpg",
     "variants": [
@@ -23726,13 +24704,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1144,
     "title": "F6Fe2B4F8070B2189Da52C4187269Bc5",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f6fe2b4f8070b2189da52c4187269bc5-228x228.jpg",
     "variants": [
@@ -23745,13 +24724,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1145,
     "title": "F94Aa09B496Be2Be3972Be42659C7145",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/f94aa09b496be2be3972be42659c7145-228x228.jpg",
     "variants": [
@@ -23764,13 +24744,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1146,
     "title": "Fa2Eab8Fb09397947Bfe5593Ee2E3Db2",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/fa2eab8fb09397947bfe5593ee2e3db2-228x228.jpg",
     "variants": [
@@ -23783,13 +24764,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1147,
     "title": "Fc50Fda9Aacef17A8Ec67E633549F344",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/fc50fda9aacef17a8ec67e633549f344-228x228.jpg",
     "variants": [
@@ -23802,13 +24784,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1148,
     "title": "Fc84D0B2B01C31Cbd561Df888B9Aa793",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/fc84d0b2b01c31cbd561df888b9aa793-228x228.jpg",
     "variants": [
@@ -23821,13 +24804,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1149,
     "title": "Fca8Afd96F51B30490Df1E96Beb9733E",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/fca8afd96f51b30490df1e96beb9733e-228x228.jpg",
     "variants": [
@@ -23840,13 +24824,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1150,
     "title": "Fcb4C2Dd22792F6E21D8Caaa49E99E15",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/fcb4c2dd22792f6e21d8caaa49e99e15-228x228.jpg",
     "variants": [
@@ -23859,13 +24844,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1151,
     "title": "Fccbe5F70567Cf44Afa0839F3C18F473",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/fccbe5f70567cf44afa0839f3c18f473-228x228.jpg",
     "variants": [
@@ -23878,13 +24864,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1152,
     "title": "Fdf62050F27888Af8873D1A235Eac79D",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/fdf62050f27888af8873d1a235eac79d-228x228.jpg",
     "variants": [
@@ -23897,13 +24884,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1153,
     "title": "Fe4Abc251B3360B4F536Becf25Aa5F61",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/fe4abc251b3360b4f536becf25aa5f61-228x228.jpg",
     "variants": [
@@ -23916,13 +24904,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1154,
     "title": "Ff1471F0772F2B05187F969544F8Ea7B",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ff1471f0772f2b05187f969544f8ea7b-228x228.jpg",
     "variants": [
@@ -23935,13 +24924,14 @@ const products = [
     "specs": {
       "Категория": "Фурнитура и прочее",
       "Вариантов": "1"
-    }
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1155,
-    "title": "Fiksator Na Krugloj Rozetke Bravo Az 4Wc W Belyj",
+    "title": "Fiksator Na Krugloj Rozetke Bravo Az 4wc W Belyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Фиксаторы",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/fiksator-na-krugloj-rozetke-bravo-az-4wc-w-belyj-228x228.jpg",
     "variants": [
@@ -23950,17 +24940,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/fiksator-na-krugloj-rozetke-bravo-az-4wc-w-belyj-228x228.jpg"
       }
     ],
-    "description": "Fiksator Na Krugloj Rozetke Bravo Az 4Wc W Belyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Fiksator Na Krugloj Rozetke Bravo Az 4wc W Belyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1156,
     "title": "Fiksatorbravobelij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Фиксаторы",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/Fiksatorbravobelij-228x228.jpg",
     "variants": [
@@ -23969,17 +24961,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/Fiksatorbravobelij-228x228.jpg"
       }
     ],
-    "description": "Fiksatorbravobelij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Fiksatorbravobelij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1157,
-    "title": "Fiksatornakvadratnojrozetkebravoaz 2Wcsbmatchernij",
+    "title": "Fiksatornakvadratnojrozetkebravoaz 2wcsbmatchernij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Фиксаторы",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/FiksatornakvadratnojrozetkeBravoAZ-2WCSBMatCHernij-228x228.jpg",
     "variants": [
@@ -23988,17 +24982,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/FiksatornakvadratnojrozetkeBravoAZ-2WCSBMatCHernij-228x228.jpg"
       }
     ],
-    "description": "Fiksatornakvadratnojrozetkebravoaz 2Wcsbmatchernij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Fiksatornakvadratnojrozetkebravoaz 2wcsbmatchernij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1158,
-    "title": "M3Belij",
+    "title": "M3belij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/m3belij-228x228.jpg",
     "variants": [
@@ -24007,17 +25003,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/m3belij-228x228.jpg"
       }
     ],
-    "description": "M3Belij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "M3belij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1159,
-    "title": "M3Bronza",
+    "title": "M3bronza",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/M3Bronza-228x228.jpg",
     "variants": [
@@ -24026,17 +25024,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/M3Bronza-228x228.jpg"
       }
     ],
-    "description": "M3Bronza. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "M3bronza. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1160,
-    "title": "M3Chernij",
+    "title": "M3chernij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/M3chernij-228x228.jpg",
     "variants": [
@@ -24045,17 +25045,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/M3chernij-228x228.jpg"
       }
     ],
-    "description": "M3Chernij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "M3chernij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1161,
-    "title": "M3Hrom",
+    "title": "M3hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/M3hrom-228x228.jpg",
     "variants": [
@@ -24064,17 +25066,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/M3hrom-228x228.jpg"
       }
     ],
-    "description": "M3Hrom. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "M3hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1162,
-    "title": "M3Zamok",
+    "title": "M3zamokzoloto",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Замки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Замки и шпингалеты/m3zamokzoloto-228x228.jpg",
     "variants": [
@@ -24083,17 +25087,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Замки и шпингалеты/m3zamokzoloto-228x228.jpg"
       }
     ],
-    "description": "M3Zamok. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "M3zamokzoloto. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Замки"
   },
   {
     "id": 1163,
-    "title": "M3Zoloto",
+    "title": "M3zoloto",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/M3zoloto-228x228.jpg",
     "variants": [
@@ -24102,17 +25108,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/M3zoloto-228x228.jpg"
       }
     ],
-    "description": "M3Zoloto. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "M3zoloto. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1164,
-    "title": "Nakladka Cilindrovaya Na Krugloj Rozetke Bravo Az 4Cl W Bely",
+    "title": "Накладка Cilindrovaya Na Krugloj Rozetke Bravo Az 4cl W Bely",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Цилиндры",
     "price": 0,
     "image": "image/Фурнитура и прочее/Цилиндры/nakladka-cilindrovaya-na-krugloj-rozetke-bravo-az-4cl-w-bely.jpg",
     "variants": [
@@ -24121,17 +25129,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Цилиндры/nakladka-cilindrovaya-na-krugloj-rozetke-bravo-az-4cl-w-bely.jpg"
       }
     ],
-    "description": "Nakladka Cilindrovaya Na Krugloj Rozetke Bravo Az 4Cl W Bely. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Накладка Cilindrovaya Na Krugloj Rozetke Bravo Az 4cl W Bely. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Цилиндры"
   },
   {
     "id": 1165,
-    "title": "Nakladkabravobelij",
+    "title": "Накладкаbravobelij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Накладки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Накладки и розетки/NakladkabravoBelij-228x228.jpg",
     "variants": [
@@ -24140,17 +25150,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Накладки и розетки/NakladkabravoBelij-228x228.jpg"
       }
     ],
-    "description": "Nakladkabravobelij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Накладкаbravobelij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Накладки"
   },
   {
     "id": 1166,
-    "title": "Nakladkacilindrovayanakvadratnojrozetkebravoaz 2Clsbmatchern",
+    "title": "Накладкаcilindrovayanakvadratnojrozetkebravoaz 2clsbmatchern",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Цилиндры",
     "price": 0,
     "image": "image/Фурнитура и прочее/Цилиндры/NakladkacilindrovayanakvadratnojrozetkeBravoAZ-2CLSBMatCHern.jpg",
     "variants": [
@@ -24159,17 +25171,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Цилиндры/NakladkacilindrovayanakvadratnojrozetkeBravoAZ-2CLSBMatCHern.jpg"
       }
     ],
-    "description": "Nakladkacilindrovayanakvadratnojrozetkebravoaz 2Clsbmatchern. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Накладкаcilindrovayanakvadratnojrozetkebravoaz 2clsbmatchern. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Цилиндры"
   },
   {
     "id": 1167,
-    "title": "Petlya Hfs 1 2B",
+    "title": "Петля Hfs 1 2b Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Петли",
     "price": 0,
     "image": "image/Фурнитура и прочее/Петли/petlya-hfs-1-2b-chrome-228x228.jpg",
     "variants": [
@@ -24194,17 +25208,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Петли/petlya-hfs-1-2b-sgraphite-228x228.jpg"
       }
     ],
-    "description": "Petlya Hfs 1 2B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Петля Hfs 1 2b Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Петли"
   },
   {
     "id": 1168,
-    "title": "Petlya Hms 2 4B",
+    "title": "Петля Hms 2 4b Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Петли",
     "price": 0,
     "image": "image/Фурнитура и прочее/Петли/petlya-hms-2-4b-chrome-228x228.jpg",
     "variants": [
@@ -24233,17 +25249,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Петли/petlya-hms-2-4b-white-228x228.jpg"
       }
     ],
-    "description": "Petlya Hms 2 4B. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Петля Hms 2 4b Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "6"
-    }
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Петли"
   },
   {
     "id": 1169,
-    "title": "Petlyabezvrezki",
+    "title": "Петляbezvrezki",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Петли",
     "price": 0,
     "image": "image/Фурнитура и прочее/Петли/Petlyabezvrezki-228x228.jpg",
     "variants": [
@@ -24252,17 +25270,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Петли/Petlyabezvrezki-228x228.jpg"
       }
     ],
-    "description": "Petlyabezvrezki. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Петляbezvrezki. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Петли"
   },
   {
     "id": 1170,
-    "title": "R3Belij",
+    "title": "R3belij",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/r3belij-228x228.jpg",
     "variants": [
@@ -24271,17 +25291,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/r3belij-228x228.jpg"
       }
     ],
-    "description": "R3Belij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "R3belij. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1171,
-    "title": "Ruchka A 423 W Belyj",
+    "title": "Ручка A 423 W Belyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-a-423-w-belyj-228x228.jpg",
     "variants": [
@@ -24290,17 +25312,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-a-423-w-belyj-228x228.jpg"
       }
     ],
-    "description": "Ruchka A 423 W Belyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка A 423 W Belyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1172,
-    "title": "Ruchka A 493 W Belyj",
+    "title": "Ручка A 493 W Belyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-a-493-w-belyj-228x228.jpg",
     "variants": [
@@ -24309,17 +25333,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-a-493-w-belyj-228x228.jpg"
       }
     ],
-    "description": "Ruchka A 493 W Belyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка A 493 W Belyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1173,
-    "title": "Ruchka Ar2 700",
+    "title": "Ручка Ar2 700 Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-ar2-700-chrome-228x228.jpg",
     "variants": [
@@ -24344,17 +25370,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-ar2-700-sgraphite-228x228.jpg"
       }
     ],
-    "description": "Ruchka Ar2 700. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка Ar2 700 Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1174,
-    "title": "Ruchka Ar2 700 S",
+    "title": "Ручка Ar2 700 Swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-ar2-700-swhite-228x228.jpg",
     "variants": [
@@ -24363,17 +25391,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-ar2-700-swhite-228x228.jpg"
       }
     ],
-    "description": "Ruchka Ar2 700 S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка Ar2 700 Swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1175,
-    "title": "Ruchka As 301",
+    "title": "Ручка As 301 Sblack",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-301-sblack-228x228.jpg",
     "variants": [
@@ -24382,17 +25412,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-301-sblack-228x228.jpg"
       }
     ],
-    "description": "Ruchka As 301. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As 301 Sblack. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1176,
-    "title": "Ruchka As 302",
+    "title": "Ручка As 302 Chrome7d",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-302-chrome7d-228x228.jpg",
     "variants": [
@@ -24409,17 +25441,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-302-schrome7d-228x228.jpg"
       }
     ],
-    "description": "Ruchka As 302. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As 302 Chrome7d. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "3"
-    }
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1177,
-    "title": "Ruchka As 311",
+    "title": "Ручка As 311 Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-311-chrome-228x228.jpg",
     "variants": [
@@ -24444,17 +25478,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-311-sgraphite-228x228.jpg"
       }
     ],
-    "description": "Ruchka As 311. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As 311 Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1178,
-    "title": "Ruchka As 311 S",
+    "title": "Ручка As 311 Swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-311-swhite-228x228.jpg",
     "variants": [
@@ -24463,17 +25499,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-311-swhite-228x228.jpg"
       }
     ],
-    "description": "Ruchka As 311 S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As 311 Swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1179,
-    "title": "Ruchka As 322",
+    "title": "Ручка As 322 Sblack7d",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-322-sblack7d-228x228.jpg",
     "variants": [
@@ -24490,17 +25528,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as-322-schrome7d-228x228.jpg"
       }
     ],
-    "description": "Ruchka As 322. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As 322 Sblack7d. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "3"
-    }
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1180,
-    "title": "Ruchka As2 620",
+    "title": "Ручка As2 620 Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as2-620-chrome-228x228.jpg",
     "variants": [
@@ -24525,17 +25565,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as2-620-sgraphite-228x228.jpg"
       }
     ],
-    "description": "Ruchka As2 620. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As2 620 Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1181,
-    "title": "Ruchka As2 620 S",
+    "title": "Ручка As2 620 Swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as2-620-swhite-228x228.jpg",
     "variants": [
@@ -24544,17 +25586,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as2-620-swhite-228x228.jpg"
       }
     ],
-    "description": "Ruchka As2 620 S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As2 620 Swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1182,
-    "title": "Ruchka As2 621",
+    "title": "Ручка As2 621 Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as2-621-chrome-228x228.jpg",
     "variants": [
@@ -24579,17 +25623,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as2-621-sgraphite-228x228.jpg"
       }
     ],
-    "description": "Ruchka As2 621. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As2 621 Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1183,
-    "title": "Ruchka As2 621 S",
+    "title": "Ручка As2 621 Swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as2-621-swhite-228x228.jpg",
     "variants": [
@@ -24598,17 +25644,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-as2-621-swhite-228x228.jpg"
       }
     ],
-    "description": "Ruchka As2 621 S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка As2 621 Swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1184,
-    "title": "Ruchka Bravo Ar 503",
+    "title": "Ручка Bravo Ar 503 Chromesblack",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-bravo-ar-503-chromesblack-228x228.png",
     "variants": [
@@ -24621,17 +25669,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-bravo-ar-503-chromeswhite-228x228.png"
       }
     ],
-    "description": "Ruchka Bravo Ar 503. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка Bravo Ar 503 Chromesblack. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "2"
-    }
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1185,
-    "title": "Ruchka Kupe Bravo Sl 11",
+    "title": "Ручка Kupe Bravo Sl 11 Belaya",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-kupe-bravo-sl-11-belaya-228x228.jpg",
     "variants": [
@@ -24644,17 +25694,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-kupe-bravo-sl-11-hrom-228x228.jpg"
       }
     ],
-    "description": "Ruchka Kupe Bravo Sl 11. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка Kupe Bravo Sl 11 Belaya. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "2"
-    }
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1186,
-    "title": "Ruchka Kupe Bravo Sl 11 Chernaya",
+    "title": "Ручка Kupe Bravo Sl 11 Chernaya",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-kupe-bravo-sl-11-chernaya-228x228.jpg",
     "variants": [
@@ -24663,17 +25715,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-kupe-bravo-sl-11-chernaya-228x228.jpg"
       }
     ],
-    "description": "Ruchka Kupe Bravo Sl 11 Chernaya. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка Kupe Bravo Sl 11 Chernaya. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1187,
-    "title": "Ruchka Kupe Bravo Sl 11 Mat",
+    "title": "Ручка Kupe Bravo Sl 11 Mat Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-kupe-bravo-sl-11-mat-hrom-228x228.jpg",
     "variants": [
@@ -24682,17 +25736,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/ruchka-kupe-bravo-sl-11-mat-hrom-228x228.jpg"
       }
     ],
-    "description": "Ruchka Kupe Bravo Sl 11 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Ручка Kupe Bravo Sl 11 Mat Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1188,
-    "title": "Shpingalet Bravo R 140",
+    "title": "Шпингалет Bravo R 140 Sblack",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Замки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Замки и шпингалеты/shpingalet-bravo-r-140-sblack-228x228.jpg",
     "variants": [
@@ -24701,17 +25757,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Замки и шпингалеты/shpingalet-bravo-r-140-sblack-228x228.jpg"
       }
     ],
-    "description": "Shpingalet Bravo R 140. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Шпингалет Bravo R 140 Sblack. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Замки"
   },
   {
     "id": 1189,
-    "title": "Shpingalet Bravo R 140 Sbgr",
+    "title": "Шпингалет Bravo R 140 Sbgr",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Замки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Замки и шпингалеты/shpingalet-bravo-r-140-sbgr-228x228.jpg",
     "variants": [
@@ -24720,17 +25778,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Замки и шпингалеты/shpingalet-bravo-r-140-sbgr-228x228.jpg"
       }
     ],
-    "description": "Shpingalet Bravo R 140 Sbgr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Шпингалет Bravo R 140 Sbgr. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Замки"
   },
   {
     "id": 1190,
     "title": "Skrbelaya",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/Skrbelaya-228x228.jpg",
     "variants": [
@@ -24739,17 +25799,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/Skrbelaya-228x228.jpg"
       }
     ],
-    "description": "Skrbelaya. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Skrbelaya. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1191,
     "title": "System Akik Al315 Matbelyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-akik-al315-matbelyj-228x228.jpg",
     "variants": [
@@ -24758,17 +25820,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-akik-al315-matbelyj-228x228.jpg"
       }
     ],
-    "description": "System Akik Al315 Matbelyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Akik Al315 Matbelyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1192,
-    "title": "System Akik Al6 Mat",
+    "title": "System Akik Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-akik-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -24777,17 +25841,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-akik-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System Akik Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Akik Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1193,
-    "title": "System Akik Cbm Brashmat",
+    "title": "System Akik Cbm Brashmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-akik-cbm-brashmathrom-228x228.jpg",
     "variants": [
@@ -24796,17 +25862,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-akik-cbm-brashmathrom-228x228.jpg"
       }
     ],
-    "description": "System Akik Cbm Brashmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Akik Cbm Brashmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1194,
-    "title": "System Akik Cr",
+    "title": "System Akik Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-akik-cr-hrom-228x228.jpg",
     "variants": [
@@ -24815,17 +25883,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-akik-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System Akik Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Akik Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1195,
     "title": "System Coral Al315 Matbelyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-coral-al315-matbelyj-228x228.jpg",
     "variants": [
@@ -24834,17 +25904,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-coral-al315-matbelyj-228x228.jpg"
       }
     ],
-    "description": "System Coral Al315 Matbelyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Coral Al315 Matbelyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1196,
-    "title": "System Coral Al6 Mat",
+    "title": "System Coral Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-coral-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -24853,17 +25925,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-coral-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System Coral Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Coral Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1197,
-    "title": "System Coral Cbm Brashmat",
+    "title": "System Coral Cbm Brashmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-coral-cbm-brashmathrom-228x228.jpg",
     "variants": [
@@ -24872,17 +25946,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-coral-cbm-brashmathrom-228x228.jpg"
       }
     ],
-    "description": "System Coral Cbm Brashmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Coral Cbm Brashmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1198,
-    "title": "System Coral Cr",
+    "title": "System Coral Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-coral-cr-hrom-228x228.jpg",
     "variants": [
@@ -24891,17 +25967,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-coral-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System Coral Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Coral Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1199,
-    "title": "System Odin Al6 Mat",
+    "title": "System Odin Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-odin-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -24910,17 +25988,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-odin-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System Odin Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Odin Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1200,
-    "title": "System Odin Cr",
+    "title": "System Odin Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-odin-cr-hrom-228x228.jpg",
     "variants": [
@@ -24929,17 +26009,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-odin-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System Odin Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Odin Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1201,
-    "title": "System Proton T Al6 Mat",
+    "title": "System Proton T Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-proton-t-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -24948,17 +26030,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-proton-t-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System Proton T Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Proton T Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1202,
-    "title": "System Proton T Cr",
+    "title": "System Proton T Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/system-proton-t-cr-hrom-228x228.jpg",
     "variants": [
@@ -24967,17 +26051,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/system-proton-t-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System Proton T Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System Proton T Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1203,
-    "title": "System R011Y Al315 Matbelyj",
+    "title": "System R011y Al315 Matbelyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r011y-al315-matbelyj-228x228.jpg",
     "variants": [
@@ -24986,17 +26072,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r011y-al315-matbelyj-228x228.jpg"
       }
     ],
-    "description": "System R011Y Al315 Matbelyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R011y Al315 Matbelyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1204,
-    "title": "System R011Y Al6 Mat",
+    "title": "System R011y Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r011y-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -25005,17 +26093,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r011y-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System R011Y Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R011y Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1205,
-    "title": "System R011Y Cbm Brashmat",
+    "title": "System R011y Cbm Brashmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r011y-cbm-brashmathrom-228x228.jpg",
     "variants": [
@@ -25024,17 +26114,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r011y-cbm-brashmathrom-228x228.jpg"
       }
     ],
-    "description": "System R011Y Cbm Brashmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R011y Cbm Brashmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1206,
-    "title": "System R011Y Cr",
+    "title": "System R011y Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r011y-cr-hrom-228x228.jpg",
     "variants": [
@@ -25043,17 +26135,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r011y-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System R011Y Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R011y Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1207,
-    "title": "System R012W6 Al6 Mat",
+    "title": "System R012w6 Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012w6-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -25062,17 +26156,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012w6-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System R012W6 Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R012w6 Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1208,
-    "title": "System R012W6 Cr",
+    "title": "System R012w6 Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012w6-cr-hrom-228x228.jpg",
     "variants": [
@@ -25081,17 +26177,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012w6-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System R012W6 Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R012w6 Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1209,
-    "title": "System R012Y 315 Matbelyj",
+    "title": "System R012y 315 Matbelyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012y-315-matbelyj-228x228.jpg",
     "variants": [
@@ -25100,17 +26198,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012y-315-matbelyj-228x228.jpg"
       }
     ],
-    "description": "System R012Y 315 Matbelyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R012y 315 Matbelyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1210,
-    "title": "System R012Y Al6 Mat",
+    "title": "System R012y Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012y-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -25119,17 +26219,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012y-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System R012Y Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R012y Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1211,
-    "title": "System R012Y Cbm Brashmat",
+    "title": "System R012y Cbm Brashmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012y-cbm-brashmathrom-228x228.jpg",
     "variants": [
@@ -25138,17 +26240,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012y-cbm-brashmathrom-228x228.jpg"
       }
     ],
-    "description": "System R012Y Cbm Brashmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R012y Cbm Brashmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1212,
-    "title": "System R012Y Cr",
+    "title": "System R012y Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012y-cr-hrom-228x228.jpg",
     "variants": [
@@ -25157,17 +26261,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r012y-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System R012Y Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R012y Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1213,
-    "title": "System R015W6 Al315 Matbelyj",
+    "title": "System R015w6 Al315 Matbelyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r015w6-al315-matbelyj-228x228.jpg",
     "variants": [
@@ -25176,17 +26282,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r015w6-al315-matbelyj-228x228.jpg"
       }
     ],
-    "description": "System R015W6 Al315 Matbelyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R015w6 Al315 Matbelyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1214,
-    "title": "System R015W6 Al6 Mat",
+    "title": "System R015w6 Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r015w6-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -25195,17 +26303,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r015w6-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System R015W6 Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R015w6 Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1215,
-    "title": "System R015W6 Cbm Brashmat",
+    "title": "System R015w6 Cbm Brashmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r015w6-cbm-brashmathrom-228x228.jpg",
     "variants": [
@@ -25214,17 +26324,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r015w6-cbm-brashmathrom-228x228.jpg"
       }
     ],
-    "description": "System R015W6 Cbm Brashmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R015w6 Cbm Brashmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1216,
-    "title": "System R015W6 Cr",
+    "title": "System R015w6 Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r015w6-cr-hrom-228x228.jpg",
     "variants": [
@@ -25233,17 +26345,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r015w6-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System R015W6 Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R015w6 Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1217,
-    "title": "System R016W6 Al315 Matbelyj",
+    "title": "System R016w6 Al315 Matbelyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r016w6-al315-matbelyj-228x228.jpg",
     "variants": [
@@ -25252,17 +26366,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r016w6-al315-matbelyj-228x228.jpg"
       }
     ],
-    "description": "System R016W6 Al315 Matbelyj. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R016w6 Al315 Matbelyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1218,
-    "title": "System R016W6 Al6 Mat",
+    "title": "System R016w6 Al6 Matchernyj",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r016w6-al6-matchernyj-228x228.jpg",
     "variants": [
@@ -25271,17 +26387,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r016w6-al6-matchernyj-228x228.jpg"
       }
     ],
-    "description": "System R016W6 Al6 Mat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R016w6 Al6 Matchernyj. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1219,
-    "title": "System R016W6 Cbm Brashmat",
+    "title": "System R016w6 Cbm Brashmathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r016w6-cbm-brashmathrom-228x228.jpg",
     "variants": [
@@ -25290,17 +26408,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r016w6-cbm-brashmathrom-228x228.jpg"
       }
     ],
-    "description": "System R016W6 Cbm Brashmat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R016w6 Cbm Brashmathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1220,
-    "title": "System R016W6 Cr",
+    "title": "System R016w6 Cr Hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Ручки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r016w6-cr-hrom-228x228.jpg",
     "variants": [
@@ -25309,17 +26429,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Ручки и фиксаторы/system-r016w6-cr-hrom-228x228.jpg"
       }
     ],
-    "description": "System R016W6 Cr. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "System R016w6 Cr Hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Ручки"
   },
   {
     "id": 1221,
-    "title": "Vrezpetlya",
+    "title": "Vrezpetlyabelaya",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Петли",
     "price": 0,
     "image": "image/Фурнитура и прочее/Петли/vrezpetlyabelaya-228x228.jpg",
     "variants": [
@@ -25336,17 +26458,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Петли/vrezpetlyahrom-228x228.jpg"
       }
     ],
-    "description": "Vrezpetlya. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Vrezpetlyabelaya. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "3"
-    }
+      "Вариантов": "3",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Петли"
   },
   {
     "id": 1222,
     "title": "Vrezpetlyachern",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Петли",
     "price": 0,
     "image": "image/Фурнитура и прочее/Петли/vrezpetlyachern-228x228.jpg",
     "variants": [
@@ -25355,17 +26479,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Петли/vrezpetlyachern-228x228.jpg"
       }
     ],
-    "description": "Vrezpetlyachern. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Vrezpetlyachern. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Петли"
   },
   {
     "id": 1223,
-    "title": "Vrezpetlyamat",
+    "title": "Vrezpetlyamathrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Петли",
     "price": 0,
     "image": "image/Фурнитура и прочее/Петли/vrezpetlyamathrom-228x228.jpg",
     "variants": [
@@ -25378,17 +26504,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Петли/vrezpetlyamatzoloto-228x228.jpg"
       }
     ],
-    "description": "Vrezpetlyamat. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Vrezpetlyamathrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "2"
-    }
+      "Вариантов": "2",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Петли"
   },
   {
     "id": 1224,
     "title": "Zamok",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Замки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Замки и шпингалеты/zamok-228x228.jpg",
     "variants": [
@@ -25397,17 +26525,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Замки и шпингалеты/zamok-228x228.jpg"
       }
     ],
-    "description": "Zamok. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Zamok. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Замки"
   },
   {
     "id": 1225,
-    "title": "Zamok Lp 3 Cl",
+    "title": "Zamok Lp 3 Cl Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Замки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Замки и шпингалеты/zamok-lp-3-cl-chrome-228x228.jpg",
     "variants": [
@@ -25436,17 +26566,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Замки и шпингалеты/zamok-lp-3-cl-white-228x228.jpg"
       }
     ],
-    "description": "Zamok Lp 3 Cl. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Zamok Lp 3 Cl Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "6"
-    }
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Замки"
   },
   {
     "id": 1226,
-    "title": "Zamokm3",
+    "title": "Zamokm3hrom",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Замки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Замки и шпингалеты/zamokm3hrom-228x228.jpg",
     "variants": [
@@ -25455,17 +26587,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Замки и шпингалеты/zamokm3hrom-228x228.jpg"
       }
     ],
-    "description": "Zamokm3. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Zamokm3hrom. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Замки"
   },
   {
     "id": 1227,
-    "title": "Zaschelkachernij",
+    "title": "Zaschelkachernijnikel",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ZaschelkaCHernijnikel-228x228.jpg",
     "variants": [
@@ -25474,17 +26608,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ZaschelkaCHernijnikel-228x228.jpg"
       }
     ],
-    "description": "Zaschelkachernij. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Zaschelkachernijnikel. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1228,
-    "title": "Zashhelka Lm 1",
+    "title": "Защёлка Lm 1 Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Защелки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Защёлки/zashhelka-lm-1-chrome-228x228.jpg",
     "variants": [
@@ -25513,17 +26649,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Защёлки/zashhelka-lm-1-white-228x228.jpg"
       }
     ],
-    "description": "Zashhelka Lm 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Защёлка Lm 1 Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "6"
-    }
+      "Вариантов": "6",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Защелки"
   },
   {
     "id": 1229,
-    "title": "Zashhelka Lm 3 Wc",
+    "title": "Защёлка Lm 3 Wc Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Защелки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Защёлки/zashhelka-lm-3-wc-chrome-228x228.jpg",
     "variants": [
@@ -25548,17 +26686,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Защёлки/zashhelka-lm-3-wc-white-228x228.jpg"
       }
     ],
-    "description": "Zashhelka Lm 3 Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Защёлка Lm 3 Wc Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Защелки"
   },
   {
     "id": 1230,
-    "title": "Zashhelka Lp 1",
+    "title": "Защёлка Lp 1 Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Защелки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Защёлки/zashhelka-lp-1-chrome-228x228.jpg",
     "variants": [
@@ -25583,17 +26723,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Защёлки/zashhelka-lp-1-sgraphite-228x228.jpg"
       }
     ],
-    "description": "Zashhelka Lp 1. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Защёлка Lp 1 Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Защелки"
   },
   {
     "id": 1231,
-    "title": "Zashhelka Lp 3 Wc",
+    "title": "Защёлка Lp 3 Wc Chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Защелки",
     "price": 0,
     "image": "image/Фурнитура и прочее/Защёлки/zashhelka-lp-3-wc-chrome-228x228.jpg",
     "variants": [
@@ -25614,17 +26756,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Защёлки/zashhelka-lp-3-wc-white-228x228.jpg"
       }
     ],
-    "description": "Zashhelka Lp 3 Wc. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Защёлка Lp 3 Wc Chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "4"
-    }
+      "Вариантов": "4",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Защелки"
   },
   {
     "id": 1232,
-    "title": "Zs2 390",
+    "title": "Zs2 390chrome",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ZS2-390Chrome-228x228.jpg",
     "variants": [
@@ -25649,17 +26793,19 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ZS2-390SGraphite-228x228.jpg"
       }
     ],
-    "description": "Zs2 390. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Zs2 390chrome. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "5"
-    }
+      "Вариантов": "5",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   },
   {
     "id": 1233,
-    "title": "Zs2 390S",
+    "title": "Zs2 390swhite",
     "category": "Фурнитура и прочее",
-    "material": "Фурнитура и аксессуары",
+    "material": "Прочее",
     "price": 0,
     "image": "image/Фурнитура и прочее/Прочее/ZS2-390SWhite-228x228.jpg",
     "variants": [
@@ -25668,181 +26814,18 @@ const products = [
         "image": "image/Фурнитура и прочее/Прочее/ZS2-390SWhite-228x228.jpg"
       }
     ],
-    "description": "Zs2 390S. Выберите нужный вариант отделки прямо в карточке товара.",
+    "description": "Zs2 390swhite. Оригинальное наименование модели/варианта по данным каталога BRAVO.",
     "specs": {
       "Категория": "Фурнитура и прочее",
-      "Вариантов": "1"
-    }
+      "Вариантов": "1",
+      "Наименование": "BRAVO"
+    },
+    "subcategory": "Прочее"
   }
 ];
 
-
-// --- Статические данные BRAVO / dveri.com ---
-// Данные зафиксированы в коде проекта и не требуют сетевой синхронизации.
-// Цены соответствуют публично отображаемым карточкам каталога на момент сборки.
-const officialCatalog = {
-  'Браво-20': { price: 5970, description: 'Межкомнатная глухая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности, без пустот. Для отделки лицевых поверхностей применяется влагостойкий PUR-клей.' },
-  'Браво-22': { price: 5970, description: 'Межкомнатная остеклённая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности.' },
-  'Браво-28': { price: 5970, description: 'Межкомнатная остеклённая дверь рамочной конструкции с декоративными вставками. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности.' },
-  'Браво-29': { price: 6720, description: 'Межкомнатная дверь рамочной конструкции с декоративными вставками. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности.' },
-  'Браво-40': { price: 11520, description: 'Межкомнатная глухая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности. Бескромочная технология производства, торцы защищены по технологии 2-Edge.' },
-  'Браво-0 White Pro': { price: 3618, description: 'Щитовая межкомнатная дверь из МДФ с жёстким сотовым наполнителем. Торцы защищены износостойкой ПВХ-кромкой. Отделка Vinyl — структурный материал с защитным слоем Overlay.' },
-  'Браво-0 Cream Pro': { price: 3618, description: 'Щитовая межкомнатная дверь из МДФ с жёстким сотовым наполнителем. Торцы защищены износостойкой ПВХ-кромкой. Отделка Vinyl — структурный материал с защитным слоем Overlay.' },
-  'Браво-0 Grey Pro': { price: 4020, description: 'Щитовая межкомнатная дверь из МДФ с жёстким сотовым наполнителем. Торцы защищены износостойкой ПВХ-кромкой. Отделка Vinyl — структурный материал с защитным слоем Overlay.' },
-  'Браво-0.Премиум White': { price: 10170, description: 'Межкомнатная дверь серии Bravo с отделкой двухкомпонентной полиуретановой эмалью Renner.' },
-  'Браво-0 Whitey': { price: 8220, description: 'Межкомнатная дверь серии Bravo с эмалевым покрытием. Матовая поверхность, рассчитанная на эксплуатацию в жилых интерьерах.' },
-  'Браво-0 Creamy': { price: 8220, description: 'Межкомнатная дверь щитовой конструкции. Отделка — двухкомпонентная полиуретановая эмаль Renner, Италия. Creamy примерно соответствует RAL 7044, матовый.' },
-  'Браво-0 Greyny': { price: 8220, description: 'Межкомнатная дверь серии Bravo с эмалевым покрытием и матовой поверхностью.' },
-  'Браво-0.40 Whitey': { price: 12120, description: 'Межкомнатная дверь серии Bravo с эмалью и зеркальной вставкой Mirox Grey.' },
-  'Браво-0.40 Creamy': { price: 12120, description: 'Межкомнатная дверь серии Bravo с эмалью и зеркальной вставкой Mirox Grey.' },
-  'Браво-0.40 Greyny': { price: 12120, description: 'Межкомнатная дверь серии Bravo с эмалью и зеркальной вставкой Mirox Grey.' },
-  'Браво-21': { price: 4770, description: 'Межкомнатная глухая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности. Для лицевых поверхностей используется влагостойкий PUR-клей.' },
-  'Браво-0 Brut Beton': { price: 1931, description: 'Щитовая дверь из МДФ с жёстким сотовым наполнителем. Отделка Hard Flex 3D со структурным декоративным материалом и защитным лаком. Комплектуется телескопическими погонажными изделиями.' },
-  'Любо Мини': { price: 24767, description: 'Стальная входная дверь с наружным открыванием и современными вариантами внутренней и внешней отделки.' },
-  'Борн': { price: 27270, description: 'Стальной дверной блок с открыванием наружу. Поставляется с правым и левым открыванием. Конструкция производится с высокой степенью автоматизации и роботизации.' },
-  'Граффити-5': { price: 26970, description: 'Стальной дверной блок серии Bravo с наружным открыванием и вариантами отделки Slate Art, Look Art и Букле чёрное.' },
-  'Лайн': { price: 27120, description: 'Стальной дверной блок с наружным открыванием и современными вариантами отделки.' },
-  'Мило МФ': { price: 27120, description: 'Стальной дверной блок с наружным открыванием и современными вариантами отделки.' },
-  'Техно': { price: 28470, description: 'Стальной дверной блок с наружным открыванием. Доступны варианты отделки Букле чёрное, Bianco Melinga, Cappuccino Melinga, Wenge Melinga и White Silk.' },
-  'Аура': { price: 29370, description: 'Стальной дверной блок с наружным открыванием, отделка Букле чёрное / White Silk.' },
-  'Флэш МФ': { price: 30570, description: 'Стальной дверной блок с наружным открыванием и вариантами отделки Bianco Melinga, Cappuccino Melinga и White Silk.' },
-  'Некст МФ': { price: 31170, description: 'Стальной дверной блок с наружным открыванием и вариантами отделки Cappuccino Melinga и White Silk.' },
-  'Сьют МФ': { price: 31770, description: 'Стальной дверной блок с наружным открыванием, современная отделка и комплектация.' },
-  'Форт': { price: 34020, description: 'Стальной дверной блок с наружным открыванием, отделка Almon / Nordic Oak.' },
-  'Джентл': { price: 34470, description: 'Стальной дверной блок с наружным открыванием, отделка Black Shell / White Silk.' },
-  'Кьюб': { price: 33870, description: 'Стальной дверной блок с наружным открыванием, отделка Slate Art / Snow Art.' },
-  'Прайм': { price: 33270, description: 'Стальной дверной блок с наружным открыванием. Доступны варианты Bianco Melinga, Cappuccino Melinga, Wenge Melinga, Nordic Oak и White Silk.' },
-  'Форм': { price: 37920, description: 'Стальной дверной блок с наружным открыванием, варианты отделки Almon / Bianco Melinga и Almon / Cappuccino Melinga.' },
-  'Вижн': { price: 38820, description: 'Стальной дверной блок с наружным открыванием, отделка Black Shell / White Silk.' },
-  'Айкон': { price: 38970, description: 'Стальной дверной блок с наружным открыванием, отделка Graphite Shell / White Silk.' },
-  'Тренд': { price: 22020, description: 'Стальной дверной блок серии Bravo Z с наружным открыванием, отделка Букле чёрное / EX White Matt.' },
-  'Райт': { price: 28470, description: 'Стальной дверной блок серии Bravo Z с наружным открыванием, отделка Almon / Cappuccino Melinga.' },
-  'Глори': { price: 28470, description: 'Стальной дверной блок серии Bravo Z с наружным открыванием. Доступны варианты Pecan / Cappuccino Melinga и Pecan / White Shell.' },
-  'Thermo Лайн': { price: 38019, description: 'Стальной дверной блок энергосберегающей конструкции с терморазрывом и четырёхконтурным уплотнением.' },
-  'Thermo Техно Д2': { price: 47424, description: 'Стальной дверной блок энергосберегающей конструкции с двойным терморазрывом из натуральной пробки и четырёхконтурным уплотнением. Поставляется с правым и левым открыванием наружу.' },
-  'Thermo Флэш МФ': { price: 50220, description: 'Стальной дверной блок энергосберегающей конструкции с терморазрывом, наружным открыванием и современными вариантами отделки.' },
-  'Полар': { price: 35220, description: 'Входная дверь серии Bravo Thermo с наружным открыванием и вариантами отделки Букле чёрное / White Well и EX White Matt.' },
-  'Граффити-1 Инсайд': { price: 25907, description: 'Стальная входная дверь серии Bravo с наружным открыванием и вариантами отделки Snow Art, Look Art и Slate Art.' },
-  'Эво': { price: 36024, description: 'Стальная входная дверь с современным исполнением и наружным открыванием.' },
-  'Лайнер': { price: 35597, description: 'Стальная входная дверь с наружным открыванием и современными вариантами отделки.' },
-  'Флэт': { price: 34029, description: 'Стальная входная дверь с наружным открыванием и вариантами отделки Almon / Bianco Melinga, Almon / Cappuccino Melinga и Black Shell / White Silk.' }
-};
-
-// --- Официальные данные BRAVO / dveri.com ---
-// Точечные overrides для моделей, однозначно сопоставляемых с официальным каталогом.
-const officialModels = {
-  'bravo 20': {
-    price: 5970,
-    description: 'Межкомнатная глухая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности, без пустот. Для отделки лицевых поверхностей применяется влагостойкий PUR-клей.'
-  },
-  'bravo 22': {
-    price: 5970,
-    description: 'Межкомнатная остеклённая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности, без пустот.'
-  },
-  'bravo 28': {
-    price: 5970,
-    description: 'Межкомнатная остеклённая дверь рамочной конструкции с декоративными вставками. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности.'
-  },
-  'bravo 29': {
-    price: 6720,
-    description: 'Межкомнатная дверь рамочной конструкции с декоративными вставками. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности.'
-  },
-  'bravo 40': {
-    price: 11520,
-    description: 'Межкомнатная глухая дверь рамочной конструкции. Композитный каркас со стабилизирующим слоем LVL или соснового бруса облицован плитами высокой плотности, без пустот. Бескромочная технология производства, торцы защищены по технологии «2-Edge».'
-  },
-  'bravo 0 10p': {
-    price: 8820,
-    description: 'Межкомнатная глухая дверь щитовой конструкции с контрастными вставками и кромкой с 4 сторон, исполнение «П» (Премиум). Композитный каркас облицован плитами высокой плотности толщиной 6 мм, внутри — прочная панель Honeycomb Block.'
-  },
-  'bravo 0 21p': {
-    price: 8820,
-    description: 'Межкомнатная глухая дверь щитовой конструкции с контрастными вставками и кромкой с 4 сторон, исполнение «П» (Премиум). Композитный каркас облицован плитами высокой плотности толщиной 6 мм.'
-  },
-  'bravo 0 24p': {
-    price: 8820,
-    description: 'Межкомнатная глухая дверь щитовой конструкции с золотыми матовыми декоративными вставками, исполнение «П» (Премиум). Композитный каркас облицован плитами высокой плотности толщиной 6 мм.'
-  }
-};
-
-const hardwareSubcategory = (title = '') => {
-  const t = title.toLowerCase();
-  if (t.includes('ручк')) return 'Ручки';
-  if (t.includes('петл')) return 'Петли';
-  if (t.includes('наклад')) return 'Накладки';
-  if (t.includes('фиксатор')) return 'Фиксаторы';
-  if (t.includes('замок')) return 'Замки';
-  if (t.includes('защел')) return 'Защелки';
-  if (t.includes('цилиндр')) return 'Цилиндры';
-  if (t.includes('шпингал')) return 'Шпингалеты';
-  if (t.includes('довод')) return 'Доводчики';
-  if (t.includes('огранич')) return 'Ограничители';
-  if (t.includes('глаз')) return 'Глазки';
-  if (t.includes('цифр')) return 'Цифры';
-  if (t.includes('креп')) return 'Крепеж';
-  return 'Прочее';
-};
-
-const normalizeOfficial = value => String(value)
-  .toLowerCase()
-  .replace(/[()\-_/.,]/g, ' ')
-  .replace(/\s+/g, ' ')
-  .trim();
-
-products.forEach(product => {
-  const title = String(product.title || '');
-  const normalizedTitle = normalizeOfficial(title);
-  const matchKey = Object.keys(officialCatalog).find(key => {
-    const k = normalizeOfficial(key);
-    return normalizedTitle === k || normalizedTitle.startsWith(k + ' ');
-  });
-  if (matchKey) {
-    const data = officialCatalog[matchKey];
-    product.price = data.price;
-    product.description = data.description;
-    product.source = 'dveri.com';
-    product.official = true;
-  }
-});
-
-const normalizeModel = value => String(value)
-  .toLowerCase()
-  .replace(/[()\-_/.,]/g, ' ')
-  .replace(/\s+/g, ' ')
-  .trim();
-
-products.forEach(product => {
-  if (product.category === 'Фурнитура и прочее') {
-    product.subcategory = hardwareSubcategory(product.title);
-  } else if (product.category === 'Межкомнатные двери') {
-    product.subcategory = 'Межкомнатные';
-  } else if (product.category === 'Входные двери') {
-    const t = product.title.toLowerCase();
-    product.subcategory = t.includes('thermo') || t.includes('термо') ? 'Bravo Thermo' :
-      t.includes('bravo z') ? 'Bravo Z' : t.includes('optim') ? 'Optim' :
-      t.includes('зерк') ? 'С зеркалом' : 'Bravo R';
-  } else if (product.category === 'Складные двери') {
-    product.subcategory = 'Винил';
-  } else if (product.category === 'Специальные двери') {
-    product.subcategory = product.title.toLowerCase().includes('пожар') ? 'Противопожарные' : 'Строительные';
-  } else if (product.category === 'Арки и Порталы') {
-    product.subcategory = product.material || 'ПЭТ';
-  }
-
-  const key = normalizeModel(product.title);
-  const officialKey = Object.keys(officialModels).find(k => key === k || key.startsWith(`${k} `));
-  if (officialKey) {
-    const official = officialModels[officialKey];
-    if (official.price) product.price = official.price;
-    if (official.description) product.description = official.description;
-    product.source = 'dveri.com';
-  }
-});
-
 export { products };
 
-export const sizeOptions = [{ name: 'Стандарт', priceMod: 0 }, { name: 'По размеру', priceMod: 0 }];
-export const colorOptions = [];
 export const categories = [
   {
     "name": "Арки и Порталы",
@@ -25851,7 +26834,7 @@ export const categories = [
   },
   {
     "name": "Входные двери",
-    "icon": "🔐",
+    "icon": "🚪",
     "count": 142
   },
   {
