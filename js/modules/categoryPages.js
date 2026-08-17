@@ -4,6 +4,16 @@ import { renderProductCollection } from './renderers.js';
 let currentCategory = null;
 let currentSubFilter = 'all';
 
+const subcategories = {
+    'Межкомнатные двери': ['Все модели', 'ПЭТ', 'Эко Шпон', 'Винил', 'Хард Флекс', 'Финиш Флекс', 'Эмаль', 'Массив', 'Шпон'],
+    'Входные двери': ['Все модели', 'Bravo R', 'Bravo Z', 'Bravo Thermo', 'Optim', 'С зеркалом'],
+    'Складные двери': ['Все модели', 'Винил'],
+    'Скрытые двери': ['Все модели'],
+    'Специальные двери': ['Все модели', 'Строительные', 'Противопожарные'],
+    'Арки и Порталы': ['Все модели', 'ПЭТ', 'Эко Шпон', 'Винил', 'Эмалит', 'Эмаль'],
+    'Фурнитура и прочее': ['Все модели', 'Ручки', 'Фиксаторы', 'Накладки', 'Замки', 'Защелки', 'Цилиндры', 'Петли', 'Шпингалеты', 'Доводчики', 'Ограничители', 'Цифры', 'Глазки', 'Прочее']
+};
+
 const descriptions = {
     'Межкомнатные двери': 'Модели для дома и интерьера: классические, современные, эмалированные и шпонированные решения.',
     'Входные двери': 'Надёжные входные двери для квартиры и дома с разными вариантами отделки.',
@@ -30,6 +40,16 @@ export function initCategoryPages() {
         });
     });
 
+    document.querySelectorAll('.sidebar-subcategories button').forEach(item => {
+        item.addEventListener('click', event => {
+            event.stopPropagation();
+            const category = item.dataset.category;
+            const filter = item.dataset.filter || 'all';
+            openCategoryPage(category, filter);
+            document.dispatchEvent(new CustomEvent('closeSidebar'));
+        });
+    });
+
     document.querySelectorAll('.footer-category').forEach(link => {
         link.addEventListener('click', () => openCategoryPage(link.dataset.cat));
     });
@@ -46,11 +66,11 @@ export function initCategoryPages() {
     document.addEventListener('showMainFromCategory', showMainPageFromCategory);
 }
 
-export function openCategoryPage(category) {
+export function openCategoryPage(category, initialFilter = 'all') {
     if (!categories.some(c => c.name === category)) return;
 
     currentCategory = category;
-    currentSubFilter = 'all';
+    currentSubFilter = initialFilter;
 
     ['mainPage', 'productDetailPage', 'infoPage'].forEach(id => {
         const element = document.getElementById(id);
@@ -85,21 +105,20 @@ function renderCategoryProducts() {
     let filtered = products.filter(p => p.category === currentCategory);
 
     if (currentSubFilter !== 'all') {
-        filtered = filtered.filter(p =>
-            p.material === currentSubFilter ||
-            p.title.toLowerCase().includes(currentSubFilter.toLowerCase())
-        );
+        filtered = filtered.filter(p => {
+            const value = p.subcategory || p.material || '';
+            return value === currentSubFilter;
+        });
     }
 
-    const filters = [...new Set(products
-        .filter(p => p.category === currentCategory)
-        .map(p => p.material)
-        .filter(Boolean))];
-
+    const filters = subcategories[currentCategory] || ['Все модели'];
     const filterContainer = document.getElementById('categoryFilters');
     filterContainer.innerHTML = filters.length > 1
-        ? `<button class="category-filter-chip active" data-filter="all">Все модели</button>
-           ${filters.map(filter => `<button class="category-filter-chip" data-filter="${escapeHtml(filter)}">${escapeHtml(filter)}</button>`).join('')}`
+        ? filters.map((filter, index) => {
+            const value = index === 0 ? 'all' : filter;
+            const active = value === currentSubFilter ? 'active' : '';
+            return `<button class="category-filter-chip ${active}" data-filter="${escapeHtml(value)}">${escapeHtml(filter)}</button>`;
+          }).join('')
         : '';
 
     renderProductCollection(filtered, grid);
