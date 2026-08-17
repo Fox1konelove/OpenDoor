@@ -11,7 +11,8 @@
 
 .contacts-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
+    justify-items: center;
     gap: 60px;
 }
 
@@ -19,6 +20,8 @@
     background: var(--color-gray-100);
     padding: 40px;
     border-radius: var(--border-radius-md);
+    max-width: 700px;
+    width: 100%;
 }
 
 .contact-info-block h4 {
