@@ -29240,11 +29240,6 @@ export { products };
 
 export const categories = [
   {
-    "name": "Арки и Порталы",
-    "icon": "🏛️",
-    "count": 12
-  },
-  {
     "name": "Входные двери",
     "icon": "🚪",
     "count": 142
@@ -29258,6 +29253,11 @@ export const categories = [
     "name": "Складные двери",
     "icon": "↔️",
     "count": 57
+  },
+  {
+    "name": "Арки и Порталы",
+    "icon": "🏛️",
+    "count": 12
   },
   {
     "name": "Скрытые двери",
@@ -29274,5 +29274,4 @@ export const categories = [
     "icon": "🔩",
     "count": 518
   }
-
 ];

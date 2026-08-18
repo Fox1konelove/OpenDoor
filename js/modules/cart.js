@@ -58,7 +58,7 @@ export function addToCartSimple(productId) {
             quantity: 1,
             size: 'стандарт',
             color: 'белый',
-            image: product.variants?.find(v => v.name === (color || 'стандарт'))?.image || product.image
+            image: product.image
         });
     }
 
