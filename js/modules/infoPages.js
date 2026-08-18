@@ -180,11 +180,11 @@ function openFaqPage() {
                 </div>
                 <div class="faq-item">
                     <div class="faq-question">Предоставляете ли вы гарантию?</div>
-                    <div class="faq-answer"><p>Да, мы даём гарантию 1 лет на все двери и монтажные работы.</p></div>
+                    <div class="faq-answer"><p>Да, мы даём гарантию 1 год на все двери и монтажные работы.</p></div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-question">Есть ли бесплатная доставка?</div>
-                    <div class="faq-answer"><p>при заказе от 30 тыс руб. рассматриваются спец. условия</p></div>
+                    <div class="faq-answer"><p>При заказе от 30 тыс руб. рассматриваются спец. условия</p></div>
                 </div>
                 <div class="faq-item">
                     <div class="faq-question">Какой материал лучше — массив или шпон?</div>
