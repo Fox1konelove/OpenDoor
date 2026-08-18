@@ -2,13 +2,13 @@
 export const CONFIG = {
     company: {
         name: 'Двери-Мастер',
-        phone: '+7 (495) 123-45-67',
-        phoneLink: 'tel:+74951234567',
-        email: 'info@dveri-master.ru',
-        emailLink: 'mailto:info@dveri-master.ru',
+        phone: '+7 (925) 911-96-31',
+        phoneLink: 'tel:+79259119631',
+        email: 'a.buch84@mail.ru',
+        emailLink: 'mailto:a.buch84@mail.ru',
         address: 'г. Москва, ул. Строителей, 15',
-        telegram: 'https://t.me/dveri_master',
-        telegramName: '@dveri_master',
+        telegram: 'https://t.me/+tIeeHhFA5M9jNzQy',
+        telegramName: 'Установка межкомнатных дверей Москва и М/О',
         workHours: 'Пн-Сб: 9:00–20:00, Вс: 10:00–18:00',
         site: 'www.dveri-master.ru'
     },
