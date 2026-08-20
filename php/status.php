@@ -13,9 +13,12 @@ if (!isset($conn) || !($conn instanceof mysqli) || $conn->connect_error) {
     exit;
 }
 
+$role = $_SESSION['user_role'] ?? 'user';
 header('Content-Type: application/json; charset=utf-8');
 echo json_encode([
     'loggedIn' => isset($_SESSION['user_login']),
     'login'    => $_SESSION['user_login'] ?? null,
     'email'    => $_SESSION['user_email'] ?? null,
+    'role'     => $role,
+    'isAdmin'  => $role === 'admin',
 ], JSON_UNESCAPED_UNICODE);

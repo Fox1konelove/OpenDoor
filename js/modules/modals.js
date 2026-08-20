@@ -99,9 +99,25 @@ function openCartModal() {
 
 function checkout() {
     const cart = getCart();
-    if (cart.length) {
-        showNotification('Заказ оформлен! Менеджер свяжется с вами');
-        clearCart();
-        closeModal('cartModal');
-    }
+    if (!cart.length) return;
+
+    const items = cart.map(item => ({
+        product_id: item.id,
+        title: item.title,
+        quantity: item.quantity,
+        price: item.price
+    }));
+
+    fetch('php/order.php', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Requested-With': 'XMLHttpRequest' },
+        body: JSON.stringify({ items })
+    })
+        .then(r => r.json())
+        .catch(() => ({}))
+        .finally(() => {
+            showNotification('Заказ оформлен! Менеджер свяжется с вами');
+            clearCart();
+            closeModal('cartModal');
+        });
 }

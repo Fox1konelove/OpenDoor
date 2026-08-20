@@ -1,0 +1,90 @@
+/* css/components/admin.css — стили админ-панели «Открытые двери» */
+
+.admin-body {
+    margin: 0;
+    font-family: 'Inter', 'Segoe UI', sans-serif;
+    background: #f4f7f6;
+    color: #1f2d29;
+}
+
+.admin-topbar {
+    background: #11342b;
+    color: #fff;
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+}
+.admin-topbar .brand { font-weight: 700; font-size: 18px; }
+.admin-topbar .brand span { color: #5fd0a6; }
+.admin-topbar .right { display: flex; gap: 12px; align-items: center; }
+.admin-topbar .user { font-size: 14px; opacity: .9; }
+.admin-topbar button {
+    background: #ef5350; color: #fff; border: none; border-radius: 8px;
+    padding: 9px 16px; cursor: pointer; font-weight: 600;
+}
+
+.admin-layout { display: flex; min-height: calc(100vh - 56px); }
+
+.admin-sidebar {
+    width: 230px; background: #fff; border-right: 1px solid #e3e9e7;
+    padding: 18px 0; flex-shrink: 0;
+}
+.admin-sidebar .nav-item {
+    display: block; width: 100%; text-align: left; background: none; border: none;
+    padding: 13px 24px; font-size: 15px; color: #34433d; cursor: pointer; font-weight: 500;
+}
+.admin-sidebar .nav-item:hover { background: #f0f5f3; }
+.admin-sidebar .nav-item.active { background: #e6f5ee; color: #0c5b41; border-left: 3px solid #1a7a55; }
+
+.admin-content { flex: 1; padding: 28px 32px; overflow: auto; }
+.admin-content h2 { margin: 0 0 18px; color: #11342b; }
+.admin-section { display: none; }
+.admin-section.active { display: block; }
+
+/* Карточки статистики */
+.stat-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 18px; margin-bottom: 26px; }
+.stat-card {
+    background: #fff; border-radius: 14px; padding: 20px; box-shadow: 0 4px 14px rgba(0,0,0,.06);
+    border-left: 4px solid #1a7a55;
+}
+.stat-card .value { font-size: 28px; font-weight: 700; color: #11342b; }
+.stat-card .label { font-size: 13px; color: #6b7d77; margin-top: 4px; }
+
+/* Таблицы */
+.admin-table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,.05); }
+.admin-table th, .admin-table td { padding: 12px 14px; text-align: left; border-bottom: 1px solid #eef2f1; font-size: 14px; }
+.admin-table th { background: #f0f5f3; color: #34433d; font-weight: 600; }
+.admin-table tr:hover td { background: #fafcfb; }
+.admin-thumb { width: 46px; height: 46px; object-fit: cover; border-radius: 6px; background: #e9eeec; display: flex; align-items: center; justify-content: center; font-size: 11px; }
+.admin-actions button { margin-right: 6px; border: none; border-radius: 7px; padding: 7px 12px; cursor: pointer; font-size: 13px; font-weight: 600; }
+.btn-edit { background: #1a7a55; color: #fff; }
+.btn-delete { background: #ef5350; color: #fff; }
+.btn-add { background: #1a7a55; color: #fff; border: none; border-radius: 9px; padding: 11px 20px; font-weight: 600; cursor: pointer; }
+
+/* Формы */
+.admin-form { background: #fff; border-radius: 14px; padding: 22px; box-shadow: 0 2px 10px rgba(0,0,0,.05); max-width: 560px; }
+.admin-form .field { margin-bottom: 14px; }
+.admin-form label { display: block; font-size: 13px; font-weight: 600; color: #34433d; margin-bottom: 5px; }
+.admin-form input, .admin-form textarea, .admin-form select {
+    width: 100%; padding: 11px 13px; border: 1.5px solid #dfe5e3; border-radius: 8px;
+    font-size: 14px; box-sizing: border-box; font-family: inherit;
+}
+.admin-form input:focus, .admin-form textarea:focus, .admin-form select:focus { border-color: #1a7a55; outline: none; }
+.admin-form textarea { min-height: 80px; resize: vertical; }
+.admin-form .submit { background: #1a7a55; color: #fff; border: none; border-radius: 9px; padding: 12px 22px; font-weight: 600; cursor: pointer; margin-top: 6px; }
+.admin-msg { padding: 11px 14px; border-radius: 9px; margin-bottom: 16px; font-size: 14px; display: none; }
+.admin-msg.show { display: block; }
+.admin-msg.error { background: #fdecea; color: #b71c1c; }
+.admin-msg.success { background: #e8f5e9; color: #1b5e20; }
+
+/* Графики */
+.chart-box { background: #fff; border-radius: 14px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,.05); margin-bottom: 22px; }
+.chart-box h3 { margin: 0 0 14px; font-size: 16px; color: #11342b; }
+.chart-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 22px; }
+
+.access-denied { text-align: center; padding: 80px 20px; color: #6b7d77; }
+.access-denied a { color: #1a7a55; font-weight: 600; }
