@@ -43,7 +43,7 @@ if (empty($login) || empty($pass)) {
 }
 
 // Поиск пользователя через MySQLi
-$stmt = $conn->prepare("SELECT id, login, pass, email FROM users WHERE login = ? LIMIT 1");
+$stmt = $conn->prepare("SELECT id, login, pass, email, role FROM users WHERE login = ? LIMIT 1");
 $stmt->bind_param("s", $login);
 $stmt->execute();
 $result = $stmt->get_result();
@@ -61,10 +61,18 @@ session_regenerate_id(true);
 $_SESSION['user_login'] = $user['login'];
 $_SESSION['user_id'] = $user['id'];
 $_SESSION['user_email'] = $user['email'];
+$_SESSION['user_role'] = $user['role'] ?? 'user';
 
 $msg = "🎉 Добро пожаловать, <strong>" . htmlspecialchars($user['login']) . "</strong>!";
 if (isAjax()) {
-    respondJson(['ok' => true, 'message' => $msg, 'user' => $user['login'], 'email' => $user['email']]);
+    respondJson([
+        'ok' => true,
+        'message' => $msg,
+        'user' => $user['login'],
+        'email' => $user['email'],
+        'role' => $user['role'] ?? 'user',
+        'isAdmin' => ($user['role'] ?? 'user') === 'admin'
+    ]);
 }
 
 setFlash('success', $msg);

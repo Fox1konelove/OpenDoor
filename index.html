@@ -64,6 +64,7 @@
                     <a data-section="faq" class="nav-category info-link">❓ FAQ</a>
                 </div>
                 <div class="header-actions">
+                    <button class="icon-btn" id="adminBtn" style="display:none;" title="Админ-панель">🛠</button>
                     <button class="icon-btn" id="accountBtn">👤</button>
                     <button class="icon-btn" id="searchBtn">🔍</button>
                     <button class="icon-btn" id="cartBtn">🛒<span class="cart-badge" id="cartCount">0</span></button>
@@ -580,13 +581,23 @@
                 });
             });
         }
-function loadStatus() {
+        function loadStatus() {
             api('status.php')
                 .then(function (s) {
                     currentLogin = s.login; currentEmail = s.email;
+                    var adminBtn = document.getElementById('adminBtn');
+                    if (adminBtn) adminBtn.style.display = (s.isAdmin ? 'inline-flex' : 'none');
                     if (s.loggedIn) renderLogout(); else renderForms();
                 })
                 .catch(function () { renderForms(); });
+        }
+
+        // Кнопка админ-панели (видна только админам)
+        var adminBtn = document.getElementById('adminBtn');
+        if (adminBtn) {
+            adminBtn.addEventListener('click', function () {
+                window.location.href = 'admin.html';
+            });
         }
 
         // Открыть окно по кнопке 👤

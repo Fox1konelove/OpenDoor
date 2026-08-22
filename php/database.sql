@@ -37,6 +37,7 @@ CREATE TABLE `users` (
   `login` varchar(50) NOT NULL,
   `pass` varchar(255) NOT NULL,
   `email` varchar(100) NOT NULL,
+  `role` varchar(20) NOT NULL DEFAULT 'user',
   PRIMARY KEY (`id`),
   UNIQUE KEY `uq_login` (`login`),
   UNIQUE KEY `uq_email` (`email`)
@@ -50,13 +51,52 @@ CREATE TABLE `users` (
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
 
+-- Администратор по умолчанию: логин `admin`, пароль `admin123`
 -- Демо-пользователь: логин `demo`, пароль `Admin12345`
--- После входа/регистрации его можно удалить: DELETE FROM users WHERE login = 'demo';
-INSERT INTO `users` (`id`, `login`, `pass`, `email`) VALUES
-(1, 'demo', '$2y$10$G7ZD3evGH28N.tlB76vkdOdWR7IZjFYXyBj.HdR7pMnzKyf8xGUD6', 'demo@example.com');
+INSERT INTO `users` (`id`, `login`, `pass`, `email`, `role`) VALUES
+(1, 'admin', '$2y$12$EJdoDr2fS9saFj0G/pyxiuejowTblHq.qslOEJUv8DOtRg7Pf0Erm', 'admin@otkrytye-dveri.ru', 'admin'),
+(2, 'demo', '$2y$10$G7ZD3evGH28N.tlB76vkdOdWR7IZjFYXyBj.HdR7pMnzKyf8xGUD6', 'demo@example.com', 'user');
 
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
+
+--
+-- Table structure for table `orders`
+--
+
+DROP TABLE IF EXISTS `orders`;
+CREATE TABLE `orders` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) DEFAULT NULL,
+  `product_id` int(11) NOT NULL,
+  `title` varchar(255) DEFAULT NULL,
+  `quantity` int(11) NOT NULL DEFAULT 1,
+  `price` decimal(10,2) NOT NULL DEFAULT 0,
+  `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
+  PRIMARY KEY (`id`),
+  KEY `idx_orders_product` (`product_id`),
+  KEY `idx_orders_created` (`created_at`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Table structure for table `products`
+-- (динамическое управление каталогом из админ-панели)
+--
+
+DROP TABLE IF EXISTS `products`;
+CREATE TABLE `products` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(255) NOT NULL,
+  `category` varchar(100) DEFAULT NULL,
+  `subcategory` varchar(100) DEFAULT NULL,
+  `material` varchar(100) DEFAULT NULL,
+  `price` decimal(10,2) NOT NULL DEFAULT 0,
+  `image` varchar(255) DEFAULT NULL,
+  `description` text DEFAULT NULL,
+  `popularity` int(11) NOT NULL DEFAULT 0,
+  `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;

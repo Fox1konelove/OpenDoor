@@ -95,7 +95,7 @@ if ($errors) {
 $hash = password_hash($pass, PASSWORD_DEFAULT);
 
 // Сохранение в БД
-$stmt = $conn->prepare("INSERT INTO users (login, pass, email) VALUES (?, ?, ?)");
+$stmt = $conn->prepare("INSERT INTO users (login, pass, email, role) VALUES (?, ?, ?, 'user')");
 if (!$stmt) {
     if (isAjax()) respondJson(['ok' => false, 'errors' => ['❌ Не удалось создать аккаунт. Попробуйте позже']]);
     setFlash('error', '❌ Не удалось создать аккаунт. Попробуйте позже');
@@ -109,8 +109,9 @@ if ($stmt->execute()) {
     session_regenerate_id(true);
     $_SESSION['user_login'] = $login;
     $_SESSION['user_email'] = $email;
+    $_SESSION['user_role'] = 'user';
     $msg = "✅ Регистрация успешна! Добро пожаловать, <strong>" . htmlspecialchars($login) . "</strong>!";
-    if (isAjax()) respondJson(['ok' => true, 'message' => $msg, 'user' => $login]);
+    if (isAjax()) respondJson(['ok' => true, 'message' => $msg, 'user' => $login, 'role' => 'user', 'isAdmin' => false]);
     setFlash('success', $msg);
     header('Location: index.php');
     exit;
